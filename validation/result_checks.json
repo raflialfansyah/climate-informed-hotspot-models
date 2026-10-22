@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "series": 105,
+  "domains": 7,
+  "dates_per_series": 2557,
+  "metric_values_recomputed": 1575,
+  "maximum_absolute_difference": 8.526512829121202e-14,
+  "new_estimator_fits": 0,
+  "new_model_inference": 0
+}

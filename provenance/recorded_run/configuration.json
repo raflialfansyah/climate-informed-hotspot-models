@@ -1,0 +1,366 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "contract": {
+    "protocol": {
+      "family": "both",
+      "units": [
+        "National",
+        "North Sumatra",
+        "South Sumatra",
+        "Kalimantan",
+        "Sulawesi",
+        "Nusa Tenggara",
+        "Papua"
+      ],
+      "seeds": [
+        42,
+        137,
+        2026
+      ],
+      "representatives": [
+        "BayesianRidge",
+        "MLP_Model_2"
+      ],
+      "bootstrap_replicates": 500,
+      "bootstrap_seed": 42,
+      "smoke": false
+    },
+    "main": {
+      "name": "main",
+      "fit_end": "2014-12-31",
+      "calibration_start": "2015-01-01",
+      "calibration_end": "2016-12-31",
+      "selection_start": "2017-01-01",
+      "selection_end": "2018-12-31",
+      "score_start": "2019-01-01",
+      "score_end": "2025-12-31"
+    },
+    "rolling": [
+      {
+        "name": "fit_2008",
+        "fit_end": "2008-12-31",
+        "calibration_start": "2009-01-01",
+        "calibration_end": "2010-12-31",
+        "selection_start": "2011-01-01",
+        "selection_end": "2012-12-31",
+        "score_start": "2013-01-01",
+        "score_end": "2014-12-31"
+      },
+      {
+        "name": "fit_2010",
+        "fit_end": "2010-12-31",
+        "calibration_start": "2011-01-01",
+        "calibration_end": "2012-12-31",
+        "selection_start": "2013-01-01",
+        "selection_end": "2014-12-31",
+        "score_start": "2015-01-01",
+        "score_end": "2016-12-31"
+      },
+      {
+        "name": "fit_2012",
+        "fit_end": "2012-12-31",
+        "calibration_start": "2013-01-01",
+        "calibration_end": "2014-12-31",
+        "selection_start": "2015-01-01",
+        "selection_end": "2016-12-31",
+        "score_start": "2017-01-01",
+        "score_end": "2018-12-31"
+      }
+    ],
+    "groups": [
+      "S2",
+      "S3",
+      "S4",
+      "S5"
+    ],
+    "contrasts": [
+      [
+        "S4",
+        "S2"
+      ],
+      [
+        "S5",
+        "S4"
+      ],
+      [
+        "S5",
+        "S2"
+      ],
+      [
+        "S5",
+        "S3"
+      ]
+    ],
+    "selection": "none; all declared group columns",
+    "representatives_role": "fixed before this experiment; not selected from exposed test rankings",
+    "panel": [
+      {
+        "name": "RandomForest",
+        "family": "random_forest",
+        "parameters": {
+          "n_estimators": 800,
+          "max_depth": 18,
+          "min_samples_split": 6,
+          "min_samples_leaf": 2,
+          "max_features": 0.6,
+          "n_jobs": -1
+        },
+        "use_extreme_weights": true,
+        "optional_package": null
+      },
+      {
+        "name": "ExtraTrees",
+        "family": "extra_trees",
+        "parameters": {
+          "n_estimators": 800,
+          "max_depth": 18,
+          "min_samples_split": 6,
+          "min_samples_leaf": 2,
+          "max_features": 0.6,
+          "n_jobs": -1
+        },
+        "use_extreme_weights": true,
+        "optional_package": null
+      },
+      {
+        "name": "XGBoost",
+        "family": "xgboost",
+        "parameters": {
+          "n_estimators": 1200,
+          "max_depth": 4,
+          "learning_rate": 0.015,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_alpha": 0.2,
+          "reg_lambda": 2.0,
+          "min_child_weight": 3,
+          "gamma": 0.05,
+          "objective": "reg:squarederror",
+          "n_jobs": -1
+        },
+        "use_extreme_weights": true,
+        "optional_package": "xgboost"
+      },
+      {
+        "name": "LightGBM",
+        "family": "lightgbm",
+        "parameters": {
+          "n_estimators": 1200,
+          "learning_rate": 0.015,
+          "max_depth": 5,
+          "num_leaves": 31,
+          "min_child_samples": 15,
+          "min_split_gain": 0.0,
+          "subsample": 0.8,
+          "colsample_bytree": 0.8,
+          "reg_alpha": 0.2,
+          "reg_lambda": 2.0,
+          "subsample_freq": 1,
+          "force_col_wise": true,
+          "n_jobs": -1,
+          "verbose": -1
+        },
+        "use_extreme_weights": true,
+        "optional_package": "lightgbm"
+      },
+      {
+        "name": "SVM_RBF",
+        "family": "svm_rbf",
+        "parameters": {
+          "kernel": "rbf",
+          "C": 8.0,
+          "epsilon": 0.05,
+          "gamma": "scale"
+        },
+        "use_extreme_weights": false,
+        "optional_package": null
+      },
+      {
+        "name": "KNN",
+        "family": "knn",
+        "parameters": {
+          "n_neighbors": 12,
+          "weights": "distance",
+          "metric": "euclidean",
+          "n_jobs": -1
+        },
+        "use_extreme_weights": false,
+        "optional_package": null
+      },
+      {
+        "name": "BayesianRidge",
+        "family": "bayesian_ridge",
+        "parameters": {
+          "max_iter": 1000,
+          "tol": 0.0001,
+          "alpha_1": 1e-05,
+          "alpha_2": 1e-05,
+          "lambda_1": 0.0001,
+          "lambda_2": 0.0001
+        },
+        "use_extreme_weights": false,
+        "optional_package": null
+      },
+      {
+        "name": "MLP_Model_1",
+        "hidden_layer_sizes": [
+          64,
+          128,
+          256,
+          512,
+          512,
+          256,
+          128,
+          64,
+          32
+        ],
+        "alpha": 0.0001,
+        "learning_rate_init": 0.0005,
+        "max_iter": 500
+      },
+      {
+        "name": "MLP_Model_2",
+        "hidden_layer_sizes": [
+          512,
+          256,
+          64,
+          256,
+          512,
+          256,
+          128,
+          64
+        ],
+        "alpha": 0.001,
+        "learning_rate_init": 0.0008,
+        "max_iter": 500
+      },
+      {
+        "name": "MLP_Model_3",
+        "hidden_layer_sizes": [
+          256,
+          512,
+          1024,
+          1024,
+          512,
+          256,
+          128
+        ],
+        "alpha": 0.0005,
+        "learning_rate_init": 0.0003,
+        "max_iter": 600
+      },
+      {
+        "name": "MLP_Model_4",
+        "hidden_layer_sizes": [
+          512,
+          512,
+          256,
+          128,
+          64
+        ],
+        "alpha": 0.01,
+        "learning_rate_init": 0.001,
+        "max_iter": 400
+      },
+      {
+        "name": "Poisson",
+        "family": "poisson",
+        "parameters": {},
+        "use_extreme_weights": false,
+        "optional_package": null
+      },
+      {
+        "name": "Tweedie",
+        "family": "tweedie",
+        "parameters": {},
+        "use_extreme_weights": false,
+        "optional_package": null
+      }
+    ],
+    "environment": {
+      "python": "3.13.15",
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+      "packages": {
+        "numpy": "2.1.3",
+        "pandas": "2.2.3",
+        "scipy": "1.16.3",
+        "scikit-learn": "1.6.1",
+        "matplotlib": "3.10.0",
+        "h5py": "3.14.0",
+        "xgboost": "3.4.1",
+        "lightgbm": "4.6.0",
+        "tensorflow": "2.21.0",
+        "keras": "3.13.2"
+      },
+      "mlp_backend": "keras/tensorflow",
+      "mlp_precision": "float32",
+      "visible_gpus": [
+        "/physical_device:GPU:0"
+      ],
+      "snapshot": "frozen numerical weights; eager TensorFlow inference; no optimizer/resume state"
+    },
+    "source_identity": {
+      "parent_notebook": "Hotspot_SameDay_Keras_Corrected.ipynb",
+      "parent_sha256": "8ec6566d70ad75a3ab7535a29ca5f3f410315f1f76adf9ef6addc3c383fb697b",
+      "implementation_sha256": {
+        "common": "3a933b031d6d46a75aae6e9b75e0c3f60eb01ed11c61363297235d586f799045",
+        "sources": "896f12ea20e408dec4b4a2f7882e52f7e6d128ec57f96c47c48abea357228d33",
+        "features": "d2ed38395a15d4961ba1ffcaf116211a9d2cd0a695875bdb04e2993d99b3de7f",
+        "numeric": "97b236021c111b89716ecf6aa12f7c47a2c0ce41a6a07c3e6aef123e00381f60",
+        "workflow": "9008906c3140cda9fca3594da376a56ec30f981304dce40cdec9f5a6df3c6b47"
+      },
+      "backend": "keras/tensorflow",
+      "model_settings": "unchanged original corrected model panel",
+      "scientific_change": "no Lasso/OOF/refit; separate chronological calibration and inversion selection"
+    },
+    "preflight_digest": "1298ffcc91541275f16377d0e2ad73633bc8d66ad9dde44ffd7fab9f976c217a",
+    "frame_identity": {
+      "National": {
+        "rows": 9131,
+        "daily_sha256": "e114139856fc91511c27fe65d184d2aa90c61e75f05845698e1274be91f8ded0",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "North Sumatra": {
+        "rows": 9131,
+        "daily_sha256": "478fa0c461706012e5ac8a4e408a071fbc5b5277ee92657103f5341e5baf3ee2",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "South Sumatra": {
+        "rows": 9131,
+        "daily_sha256": "75149cfb6f5f07868a8b6f4b222cafb8bb56290864b9a9d9bdab4bf4a0340f1e",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "Kalimantan": {
+        "rows": 9131,
+        "daily_sha256": "01cda386731cce8f3a670da605557e5e2cb16bc42fc668e4dc7391043e580dea",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "Sulawesi": {
+        "rows": 9131,
+        "daily_sha256": "367631d65c56c12ec9a6e595995aa45ff34da13d72339bcce44d4a0118120fe0",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "Nusa Tenggara": {
+        "rows": 9131,
+        "daily_sha256": "89c7c0764008d3ddb3e04bec8eb45f28bb8fc9889e2a43f964850416bfd89102",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      },
+      "Papua": {
+        "rows": 9131,
+        "daily_sha256": "fa10fc264cf7d04f076ed764f84734b55cab674a0c1694cbfbc63fe925684df6",
+        "sst_sha256": "52f8284ce846515995dea94690cbda22866f4529688dbe997eccbcd5caa21b07",
+        "metadata_sha256": "5291f8ad6179bf56ef4146e17775afce844416c93b7d0ad8c1d29ee958fb0a98"
+      }
+    },
+    "interpretation": "retrospective revision experiment; analyst-exposed 2019-2025; no untouched confirmation",
+    "ensemble_enabled": false,
+    "feature_importance_enabled": false,
+    "final_refit": false
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "passed": true,
+  "domains": 7,
+  "daily_rows": 63917,
+  "dates_per_domain": 9131,
+  "sst_context_dates": 9497,
+  "schedule_domain_checks": 28,
+  "original_numeric_hashes_match": true,
+  "feature_columns": 81,
+  "warmup_days": 60,
+  "new_estimator_fits": 0,
+  "new_model_inference": 0,
+  "checks": [
+    {
+      "unit": "National",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 156.0,
+        "training_q90": 156.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 516,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "National",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 163.0,
+        "training_q90": 163.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 294,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "National",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 155.0,
+        "training_q90": 155.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 370,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "National",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 153.0,
+        "training_q90": 152.80000000000018,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 439,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "North Sumatra",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 29.0,
+        "training_q90": 29.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 518,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "North Sumatra",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 26.0,
+        "training_q90": 26.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 297,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "North Sumatra",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 27.0,
+        "training_q90": 26.90000000000009,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 366,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "North Sumatra",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 26.0,
+        "training_q90": 26.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 446,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "South Sumatra",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 21.0,
+        "training_q90": 21.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 514,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "South Sumatra",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 20.0,
+        "training_q90": 20.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 295,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "South Sumatra",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 19.0,
+        "training_q90": 19.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 367,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "South Sumatra",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 21.0,
+        "training_q90": 21.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 445,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Kalimantan",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 51.0,
+        "training_q90": 51.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 515,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Kalimantan",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 57.0,
+        "training_q90": 56.90000000000009,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 293,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Kalimantan",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 50.0,
+        "training_q90": 49.90000000000009,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 366,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Kalimantan",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 49.0,
+        "training_q90": 49.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 444,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Sulawesi",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 582,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Sulawesi",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 5.0,
+        "training_q90": 5.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 296,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Sulawesi",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 4.0,
+        "training_q90": 4.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 381,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Sulawesi",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 503,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Nusa Tenggara",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 6.0,
+        "training_q90": 6.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 566,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Nusa Tenggara",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 8.0,
+        "training_q90": 8.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 294,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Nusa Tenggara",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 7.0,
+        "training_q90": 7.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 369,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Nusa Tenggara",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 6.0,
+        "training_q90": 6.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 497,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Papua",
+      "schedule": "main",
+      "training_rows": 5053,
+      "score_rows": 2557,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 5113,
+        "training_high_n": 616,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Papua",
+      "schedule": "fit_2008",
+      "training_rows": 2862,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 2922,
+        "training_high_n": 356,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Papua",
+      "schedule": "fit_2010",
+      "training_rows": 3592,
+      "score_rows": 731,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 3652,
+        "training_high_n": 414,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    },
+    {
+      "unit": "Papua",
+      "schedule": "fit_2012",
+      "training_rows": 4323,
+      "score_rows": 730,
+      "features": 81,
+      "threshold": {
+        "threshold": 3.0,
+        "training_q90": 3.0,
+        "quantile": 0.9,
+        "quantile_method": "linear",
+        "training_n": 4383,
+        "training_high_n": 498,
+        "status": "valid",
+        "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+      }
+    }
+  ]
+}

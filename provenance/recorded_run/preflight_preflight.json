@@ -1,0 +1,298 @@
+{
+  "config": {
+    "data_dir": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data",
+    "cmorph_dir": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual",
+    "output_dir": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/outputs_lightweight",
+    "static_land_mask_path": null,
+    "activity_threshold": null,
+    "support_fit_end": "2014-12-31",
+    "h5_block_days": 128
+  },
+  "input_inventory": [
+    {
+      "file": "hotspot_daily.mat",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/hotspot_daily.mat",
+      "bytes": 1289660,
+      "sha256": "74e35a20bc4228f84b4137739193dc7d27c9c425e4bd467a7acc5514bb061f02"
+    },
+    {
+      "file": "hth_daily.mat",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/hth_daily.mat",
+      "bytes": 36289988,
+      "sha256": "1ca04115a6935d93cb04e7536069c92ebc5fe47d658da8114618e1ee7290c7e9"
+    },
+    {
+      "file": "Evaporation.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/Evaporation.nc",
+      "bytes": 282721677,
+      "sha256": "95536c0bf3b709478594e426ffa86cccdda51c8cb0c14ae87303dcb78d9e947e"
+    },
+    {
+      "file": "Wind_UV.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/Wind_UV.nc",
+      "bytes": 548993372,
+      "sha256": "afedb3c5e688bddedd3b5555be7cab658e63b0eb77634aef772ad182d2d807a6"
+    },
+    {
+      "file": "MJO.csv",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/MJO.csv",
+      "bytes": 434437,
+      "sha256": "eece2b0d2fdb408c5d3996d7a1e623683fe006e86585f8e7b27e8b214f722616"
+    },
+    {
+      "file": "dataIod.csv",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/dataIod.csv",
+      "bytes": 2135903,
+      "sha256": "48286da54cc38a7a33edef207802176da07dc2aa2b0ae3706eaa049878b62b3b"
+    },
+    {
+      "file": "dataNino.csv",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/Data/dataNino.csv",
+      "bytes": 945733,
+      "sha256": "6ea9c733bec4aaddc38e1b6c26c2aa364fbbc20ef4d66a64b6a0e000d5eaa19a"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2001_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2001_indonesia.nc",
+      "bytes": 6473306,
+      "sha256": "1404cf4c68427dd40d31851f71949889b46d7482da6ab5099c22adac5264c359"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2002_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2002_indonesia.nc",
+      "bytes": 5678489,
+      "sha256": "f31c98a541ed02e202248bd195c6871ae2e03ae1f3430f966e1f0a57c134dba5"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2003_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2003_indonesia.nc",
+      "bytes": 6225718,
+      "sha256": "83298673995c9c376e052f09e22752cfa77588c394455dfabbe2ba72fed8d1cf"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2004_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2004_indonesia.nc",
+      "bytes": 6099487,
+      "sha256": "e69af832b6f1895e3fe9ff697c5d50c1428eb973781c7e09f9d60831917a56cc"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2005_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2005_indonesia.nc",
+      "bytes": 6580045,
+      "sha256": "14e2d92e463a6ee42724dbc49b9110f9c54228c3a6c03c23e538d205cdfce44d"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2006_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2006_indonesia.nc",
+      "bytes": 6444628,
+      "sha256": "6e596d8dbe1908950acd0fb64a2fa7c0546bc5ebe6e218dad3ef49639324421f"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2007_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2007_indonesia.nc",
+      "bytes": 6786799,
+      "sha256": "eccd0adfe59745be6bf231b79827c836d6625ed30938d027590f7e345b4aad29"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2008_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2008_indonesia.nc",
+      "bytes": 7044776,
+      "sha256": "03be02b896b0b522e749cfdf33bf7704297bbb0de2537fad06c2035bc629a2e9"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2009_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2009_indonesia.nc",
+      "bytes": 6527129,
+      "sha256": "da732272a3922b1880be0e169542898c93a9f546908a2a6677f5678aac0b8a99"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2010_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2010_indonesia.nc",
+      "bytes": 7354750,
+      "sha256": "c0d56024fe345b67f7052b5400ac89e4249c71b9dcfdcf064d36207d62643f5f"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2011_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2011_indonesia.nc",
+      "bytes": 6868553,
+      "sha256": "adec6d47379f6154f5f0ce3e9eeac03048584322cb3466b52f0eb4741bbb7fbd"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2012_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2012_indonesia.nc",
+      "bytes": 6684761,
+      "sha256": "4da33752d4000e0a19e7435450b590b27553dbab38dc249f96400bbfedf57317"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2013_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2013_indonesia.nc",
+      "bytes": 6980718,
+      "sha256": "2c91b20bca480f1e8239ba85ec66500c8e348bac6a28bc0880837f513e7918b8"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2014_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2014_indonesia.nc",
+      "bytes": 6365728,
+      "sha256": "da76c0f5f137b4f026a817fbadc08f1bc3f2d134b7591a0ed19c8a6124d9eed1"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2015_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2015_indonesia.nc",
+      "bytes": 5509954,
+      "sha256": "b082eeef0fd2a07154ba46fd03b22012b32973945854ea01055e85fdf6b71c48"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2016_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2016_indonesia.nc",
+      "bytes": 6678181,
+      "sha256": "d733d6ad5aa9370b42b58812ce7246baa1f919f0de90733168709ac43e085609"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2017_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2017_indonesia.nc",
+      "bytes": 6749733,
+      "sha256": "9c472dd413db5ef69387822ccf20413903be5478fc7412ba4cadfa2f444a3660"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2018_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2018_indonesia.nc",
+      "bytes": 6124620,
+      "sha256": "5782f838d954326715a86500224934bbe7736d0d963865fdddf2cb3353147974"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2019_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2019_indonesia.nc",
+      "bytes": 5597423,
+      "sha256": "671d54ba3db643c20bbd47fc1d8a8ed94d9727e76a9c9c05aa2f62c6bfacce01"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2020_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2020_indonesia.nc",
+      "bytes": 6685045,
+      "sha256": "dff1e1d064090ee2ab4dadc0e1c87ed83ef88a7378d27719f049d91aa121dc9d"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2021_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2021_indonesia.nc",
+      "bytes": 7242419,
+      "sha256": "315d0f9855615f720b132a9f1398d4ee47639982c10a586a66cd15775a9fa6a6"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2022_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2022_indonesia.nc",
+      "bytes": 7302056,
+      "sha256": "aa5a25fafc8263c13fabf3b778bfe575c69f192a2f24a5600ffde9525e0c0cb2"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2023_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2023_indonesia.nc",
+      "bytes": 6391712,
+      "sha256": "547ed525572bbb093de001f11b61ec32af6c70e1e25136063bca0072047c5721"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2024_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2024_indonesia.nc",
+      "bytes": 6973055,
+      "sha256": "48ca8e93fc45b6d0d68a080210e32d1b62acdf9fc8e9af0fab42da3100aaf038"
+    },
+    {
+      "file": "cmorph_v1_adj_025deg_daily_2025_indonesia.nc",
+      "path": "/content/drive/MyDrive/Hotspot_SameDay_Colab_Ready/cmorph_v1_adj_025deg_indonesia_v1/annual/cmorph_v1_adj_025deg_daily_2025_indonesia.nc",
+      "bytes": 7241224,
+      "sha256": "5dfb44fc13cb09c49c4a1a4ff0a45841a85dbecee3349d9251a3cc4edc25f58b"
+    }
+  ],
+  "source_identity": {
+    "parent_notebook": "Hotspot_SameDay_Keras_Corrected.ipynb",
+    "parent_sha256": "8ec6566d70ad75a3ab7535a29ca5f3f410315f1f76adf9ef6addc3c383fb697b",
+    "implementation_sha256": {
+      "common": "3a933b031d6d46a75aae6e9b75e0c3f60eb01ed11c61363297235d586f799045",
+      "sources": "896f12ea20e408dec4b4a2f7882e52f7e6d128ec57f96c47c48abea357228d33",
+      "features": "d2ed38395a15d4961ba1ffcaf116211a9d2cd0a695875bdb04e2993d99b3de7f",
+      "numeric": "97b236021c111b89716ecf6aa12f7c47a2c0ce41a6a07c3e6aef123e00381f60",
+      "workflow": "9008906c3140cda9fca3594da376a56ec30f981304dce40cdec9f5a6df3c6b47"
+    },
+    "backend": "keras/tensorflow",
+    "model_settings": "unchanged original corrected model panel",
+    "scientific_change": "no Lasso/OOF/refit; separate chronological calibration and inversion selection"
+  },
+  "summary": [
+    {
+      "unit": "National",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "North Sumatra",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "South Sumatra",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "Kalimantan",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "Sulawesi",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "Nusa Tenggara",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    },
+    {
+      "unit": "Papua",
+      "raw_days": 9131,
+      "training_days": 5053,
+      "features": {
+        "S2": 26,
+        "S3": 59,
+        "S4": 54,
+        "S5": 81
+      }
+    }
+  ]
+}

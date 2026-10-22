@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "procedure_exports": 364,
+  "replicate_scores": 294840,
+  "feature_means": 29484,
+  "mean_metric_checks": 147420,
+  "rmse_ranks_checked": 29484,
+  "maximum_absolute_differences": {
+    "rmse": 0.0,
+    "mae": 0.0,
+    "rmse90": 0.0,
+    "mae90": 0.0,
+    "r2": 0.0
+  },
+  "new_estimator_fits": 0,
+  "new_model_inference": 0
+}

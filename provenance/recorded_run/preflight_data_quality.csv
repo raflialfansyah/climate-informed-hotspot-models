@@ -1,0 +1,12 @@
+check,value
+study_calendar,2001-01-01..2025-12-31; 9131 dates per domain
+domains,7
+core_sources,7
+cmorph_years,25
+raw_sst_context,"9497 days, 2000..2025; raw only"
+selected_source_values,"finite every cell/block; hotspot nonnegative integer, rain/HTH/wind nonnegative"
+evaporation,signed metres *1000 = mm; accumulation interval unverified
+wind,"native-coordinate area mean of cell-level hypot(u10,v10), m/s"
+support,"{""policy"": ""geographic boxes, source-native area-weighted environmental means"", ""land_mask_supplied"": false, ""land_only_verified"": false, ""activity_filter"": false, ""activity_threshold"": null, ""activity_operator"": "">"", ""support_fit_start"": null, ""support_fit_end"": null, ""missingness_policy"": ""fail on any missing/nonfinite selected source cell; no zero fill/imputation"", ""regional_boxes_disjoint"": true, ""regional_boxes_exhaustive"": false, ""land_mask"": null}"
+regional_partition,"disjoint geographic boxes, not exhaustive national partition"
+expver,"{""evaporation"": {""e"": {""present"": true, ""shape"": [9588], ""selected_segments"": [{""expver"": ""0001"", ""start"": ""2001-01-01"", ""end"": ""2025-12-31"", ""days"": 9131}], ""coordinate_axes_verified"": [""valid_time"", ""latitude"", ""longitude""], ""action"": ""recorded per field/date; no expver selection or dropping""}}, ""wind"": {""u10"": {""present"": true, ""shape"": [9131], ""selected_segments"": [{""expver"": ""0001"", ""start"": ""2001-01-01"", ""end"": ""2025-12-31"", ""days"": 9131}], ""coordinate_axes_verified"": [""valid_time"", ""latitude"", ""longitude""], ""action"": ""recorded per field/date; no expver selection or dropping""}, ""v10"": {""present"": true, ""shape"": [9131], ""selected_segments"": [{""expver"": ""0001"", ""start"": ""2001-01-01"", ""end"": ""2025-12-31"", ""days"": 9131}], ""coordinate_axes_verified"": [""valid_time"", ""latitude"", ""longitude""], ""action"": ""recorded per field/date; no expver selection or dropping""}}}"

@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "report_region_tables": 7,
+  "procedure_rows_checked_against_source": 91,
+  "all_markdown_table_widths_valid": true,
+  "no_em_dash": true,
+  "manuscript_and_supplement_sources_and_pdfs_unchanged": true,
+  "report_sha256": "00cfe49310635be0c3c5f41ab4a3d53dd2751d3e75cb6258af77a88ec6b4eae2",
+  "readme_sha256": "c076bfc9eac3627d59481a7f140e52627460699ae9f71f8a7ff3a2fc76b0d953"
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "language": "English",
+  "guides_translated": 9,
+  "guide_filenames_renamed": 2,
+  "notebook_markdown_translated": true,
+  "notebook_code_cells_unchanged": 20,
+  "protected_files_unchanged": 1827,
+  "local_markdown_links_checked": 8,
+  "broken_links": [],
+  "stale_guide_references": [],
+  "new_estimator_fits": 0
+}

@@ -1,0 +1,5 @@
+schedule,unit,model,group,fit_end,partition,seeds,seed_rmse_mean,seed_rmse_sd,seed_rmse_min,seed_rmse_max,interpretation,range
+main,Kalimantan,MLP_Model_4,S5,2014-12-31,test,3,54.55932179501146,34.34267249851808,33.29152109600196,94.1790746317362,individual-seed error spread; primary error uses averaged count predictions,60.88755353573424
+main,Kalimantan,MLP_Model_2,S5,2014-12-31,test,3,37.98834274275944,10.535522134156896,28.53389732530999,49.34559735379517,individual-seed error spread; primary error uses averaged count predictions,20.81170002848518
+main,National,MLP_Model_3,S5,2014-12-31,test,3,48.93005313036897,7.494536567522741,43.24819766272123,57.42389756227946,individual-seed error spread; primary error uses averaged count predictions,14.175699899558225
+main,Kalimantan,MLP_Model_1,S5,2014-12-31,test,3,39.60836279686568,6.737684328185296,34.95357956930258,47.33447045565013,individual-seed error spread; primary error uses averaged count predictions,12.380890886347544

@@ -1,0 +1,295 @@
+unit,rule,year,season,n,high_days,observed_total,zero_days,threshold
+National,strict,2019,dry,163,50,26237.0,0,156.0
+National,strict,2019,wet,202,1,1822.0,32,156.0
+National,strict,2019,unclassified,0,0,0.0,0,156.0
+National,strict,2020,dry,31,0,252.0,4,156.0
+National,strict,2020,wet,335,0,1868.0,100,156.0
+National,strict,2020,unclassified,0,0,0.0,0,156.0
+National,strict,2021,dry,0,0,0.0,0,156.0
+National,strict,2021,wet,365,0,1705.0,143,156.0
+National,strict,2021,unclassified,0,0,0.0,0,156.0
+National,strict,2022,dry,0,0,0.0,0,156.0
+National,strict,2022,wet,365,0,1152.0,148,156.0
+National,strict,2022,unclassified,0,0,0.0,0,156.0
+National,strict,2023,dry,123,22,10355.0,1,156.0
+National,strict,2023,wet,242,0,548.0,100,156.0
+National,strict,2023,unclassified,0,0,0.0,0,156.0
+National,strict,2024,dry,113,3,3101.0,0,156.0
+National,strict,2024,wet,253,0,711.0,91,156.0
+National,strict,2024,unclassified,0,0,0.0,0,156.0
+National,strict,2025,dry,0,0,0.0,0,156.0
+National,strict,2025,wet,344,1,2619.0,119,156.0
+National,strict,2025,unclassified,21,0,3.0,19,156.0
+National,mixed_sensitivity,2019,dry,191,50,26605.0,3,156.0
+National,mixed_sensitivity,2019,wet,174,1,1454.0,29,156.0
+National,mixed_sensitivity,2019,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2020,dry,31,0,252.0,4,156.0
+National,mixed_sensitivity,2020,wet,335,0,1868.0,100,156.0
+National,mixed_sensitivity,2020,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2021,dry,30,0,23.0,17,156.0
+National,mixed_sensitivity,2021,wet,335,0,1682.0,126,156.0
+National,mixed_sensitivity,2021,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2022,dry,0,0,0.0,0,156.0
+National,mixed_sensitivity,2022,wet,365,0,1152.0,148,156.0
+National,mixed_sensitivity,2022,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2023,dry,153,19,9865.0,4,156.0
+National,mixed_sensitivity,2023,wet,212,3,1038.0,97,156.0
+National,mixed_sensitivity,2023,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2024,dry,41,0,775.0,0,156.0
+National,mixed_sensitivity,2024,wet,325,3,3037.0,91,156.0
+National,mixed_sensitivity,2024,unclassified,0,0,0.0,0,156.0
+National,mixed_sensitivity,2025,dry,0,0,0.0,0,156.0
+National,mixed_sensitivity,2025,wet,344,1,2619.0,119,156.0
+National,mixed_sensitivity,2025,unclassified,21,0,3.0,19,156.0
+North Sumatra,strict,2019,dry,59,10,850.0,14,29.0
+North Sumatra,strict,2019,wet,306,27,2625.0,144,29.0
+North Sumatra,strict,2019,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2020,dry,80,1,325.0,35,29.0
+North Sumatra,strict,2020,wet,286,0,141.0,246,29.0
+North Sumatra,strict,2020,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2021,dry,49,0,114.0,35,29.0
+North Sumatra,strict,2021,wet,316,2,227.0,268,29.0
+North Sumatra,strict,2021,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2022,dry,0,0,0.0,0,29.0
+North Sumatra,strict,2022,wet,365,0,169.0,290,29.0
+North Sumatra,strict,2022,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2023,dry,0,0,0.0,0,29.0
+North Sumatra,strict,2023,wet,365,0,281.0,288,29.0
+North Sumatra,strict,2023,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2024,dry,0,0,0.0,0,29.0
+North Sumatra,strict,2024,wet,366,0,456.0,257,29.0
+North Sumatra,strict,2024,unclassified,0,0,0.0,0,29.0
+North Sumatra,strict,2025,dry,51,3,419.0,15,29.0
+North Sumatra,strict,2025,wet,293,2,239.0,229,29.0
+North Sumatra,strict,2025,unclassified,21,0,0.0,21,29.0
+North Sumatra,mixed_sensitivity,2019,dry,110,15,1300.0,28,29.0
+North Sumatra,mixed_sensitivity,2019,wet,255,22,2175.0,130,29.0
+North Sumatra,mixed_sensitivity,2019,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2020,dry,49,1,298.0,17,29.0
+North Sumatra,mixed_sensitivity,2020,wet,317,0,168.0,264,29.0
+North Sumatra,mixed_sensitivity,2020,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2021,dry,49,0,114.0,35,29.0
+North Sumatra,mixed_sensitivity,2021,wet,316,2,227.0,268,29.0
+North Sumatra,mixed_sensitivity,2021,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2022,dry,11,0,0.0,11,29.0
+North Sumatra,mixed_sensitivity,2022,wet,354,0,169.0,279,29.0
+North Sumatra,mixed_sensitivity,2022,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2023,dry,61,0,44.0,48,29.0
+North Sumatra,mixed_sensitivity,2023,wet,304,0,237.0,240,29.0
+North Sumatra,mixed_sensitivity,2023,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2024,dry,60,0,117.0,37,29.0
+North Sumatra,mixed_sensitivity,2024,wet,306,0,339.0,220,29.0
+North Sumatra,mixed_sensitivity,2024,unclassified,0,0,0.0,0,29.0
+North Sumatra,mixed_sensitivity,2025,dry,58,0,79.0,32,29.0
+North Sumatra,mixed_sensitivity,2025,wet,286,5,579.0,212,29.0
+North Sumatra,mixed_sensitivity,2025,unclassified,21,0,0.0,21,29.0
+South Sumatra,strict,2019,dry,143,68,7932.0,20,21.0
+South Sumatra,strict,2019,wet,222,0,56.0,194,21.0
+South Sumatra,strict,2019,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2020,dry,0,0,0.0,0,21.0
+South Sumatra,strict,2020,wet,366,0,87.0,321,21.0
+South Sumatra,strict,2020,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2021,dry,0,0,0.0,0,21.0
+South Sumatra,strict,2021,wet,365,0,130.0,309,21.0
+South Sumatra,strict,2021,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2022,dry,0,0,0.0,0,21.0
+South Sumatra,strict,2022,wet,365,2,224.0,300,21.0
+South Sumatra,strict,2022,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2023,dry,153,31,2532.0,45,21.0
+South Sumatra,strict,2023,wet,212,0,74.0,172,21.0
+South Sumatra,strict,2023,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2024,dry,0,0,0.0,0,21.0
+South Sumatra,strict,2024,wet,366,7,589.0,278,21.0
+South Sumatra,strict,2024,unclassified,0,0,0.0,0,21.0
+South Sumatra,strict,2025,dry,0,0,0.0,0,21.0
+South Sumatra,strict,2025,wet,344,4,382.0,263,21.0
+South Sumatra,strict,2025,unclassified,21,0,2.0,20,21.0
+South Sumatra,mixed_sensitivity,2019,dry,143,68,7932.0,20,21.0
+South Sumatra,mixed_sensitivity,2019,wet,222,0,56.0,194,21.0
+South Sumatra,mixed_sensitivity,2019,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2020,dry,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2020,wet,366,0,87.0,321,21.0
+South Sumatra,mixed_sensitivity,2020,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2021,dry,61,0,42.0,46,21.0
+South Sumatra,mixed_sensitivity,2021,wet,304,0,88.0,263,21.0
+South Sumatra,mixed_sensitivity,2021,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2022,dry,31,1,67.0,18,21.0
+South Sumatra,mixed_sensitivity,2022,wet,334,1,157.0,282,21.0
+South Sumatra,mixed_sensitivity,2022,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2023,dry,123,31,2490.0,25,21.0
+South Sumatra,mixed_sensitivity,2023,wet,242,0,116.0,192,21.0
+South Sumatra,mixed_sensitivity,2023,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2024,dry,52,1,233.0,18,21.0
+South Sumatra,mixed_sensitivity,2024,wet,314,6,356.0,260,21.0
+South Sumatra,mixed_sensitivity,2024,unclassified,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2025,dry,0,0,0.0,0,21.0
+South Sumatra,mixed_sensitivity,2025,wet,344,4,382.0,263,21.0
+South Sumatra,mixed_sensitivity,2025,unclassified,21,0,2.0,20,21.0
+Kalimantan,strict,2019,dry,92,32,9747.0,13,51.0
+Kalimantan,strict,2019,wet,273,13,3493.0,127,51.0
+Kalimantan,strict,2019,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2020,dry,0,0,0.0,0,51.0
+Kalimantan,strict,2020,wet,366,1,679.0,270,51.0
+Kalimantan,strict,2020,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2021,dry,0,0,0.0,0,51.0
+Kalimantan,strict,2021,wet,365,1,744.0,272,51.0
+Kalimantan,strict,2021,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2022,dry,0,0,0.0,0,51.0
+Kalimantan,strict,2022,wet,365,0,428.0,289,51.0
+Kalimantan,strict,2022,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2023,dry,31,9,1499.0,4,51.0
+Kalimantan,strict,2023,wet,334,26,3748.0,191,51.0
+Kalimantan,strict,2023,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2024,dry,0,0,0.0,0,51.0
+Kalimantan,strict,2024,wet,366,7,1896.0,222,51.0
+Kalimantan,strict,2024,unclassified,0,0,0.0,0,51.0
+Kalimantan,strict,2025,dry,0,0,0.0,0,51.0
+Kalimantan,strict,2025,wet,344,4,1205.0,235,51.0
+Kalimantan,strict,2025,unclassified,21,0,1.0,20,51.0
+Kalimantan,mixed_sensitivity,2019,dry,92,32,9747.0,13,51.0
+Kalimantan,mixed_sensitivity,2019,wet,273,13,3493.0,127,51.0
+Kalimantan,mixed_sensitivity,2019,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2020,dry,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2020,wet,366,1,679.0,270,51.0
+Kalimantan,mixed_sensitivity,2020,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2021,dry,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2021,wet,365,1,744.0,272,51.0
+Kalimantan,mixed_sensitivity,2021,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2022,dry,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2022,wet,365,0,428.0,289,51.0
+Kalimantan,mixed_sensitivity,2022,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2023,dry,31,9,1499.0,4,51.0
+Kalimantan,mixed_sensitivity,2023,wet,334,26,3748.0,191,51.0
+Kalimantan,mixed_sensitivity,2023,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2024,dry,31,2,252.0,10,51.0
+Kalimantan,mixed_sensitivity,2024,wet,335,5,1644.0,212,51.0
+Kalimantan,mixed_sensitivity,2024,unclassified,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2025,dry,0,0,0.0,0,51.0
+Kalimantan,mixed_sensitivity,2025,wet,344,4,1205.0,235,51.0
+Kalimantan,mixed_sensitivity,2025,unclassified,21,0,1.0,20,51.0
+Sulawesi,strict,2019,dry,153,59,693.0,67,3.0
+Sulawesi,strict,2019,wet,212,6,48.0,188,3.0
+Sulawesi,strict,2019,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2020,dry,112,8,55.0,88,3.0
+Sulawesi,strict,2020,wet,254,1,24.0,237,3.0
+Sulawesi,strict,2020,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2021,dry,0,0,0.0,0,3.0
+Sulawesi,strict,2021,wet,365,3,43.0,335,3.0
+Sulawesi,strict,2021,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2022,dry,0,0,0.0,0,3.0
+Sulawesi,strict,2022,wet,365,4,42.0,343,3.0
+Sulawesi,strict,2022,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2023,dry,182,45,388.0,107,3.0
+Sulawesi,strict,2023,wet,183,5,28.0,170,3.0
+Sulawesi,strict,2023,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2024,dry,133,9,71.0,108,3.0
+Sulawesi,strict,2024,wet,233,1,16.0,223,3.0
+Sulawesi,strict,2024,unclassified,0,0,0.0,0,3.0
+Sulawesi,strict,2025,dry,91,7,67.0,68,3.0
+Sulawesi,strict,2025,wet,253,1,15.0,241,3.0
+Sulawesi,strict,2025,unclassified,21,0,0.0,21,3.0
+Sulawesi,mixed_sensitivity,2019,dry,201,60,709.0,107,3.0
+Sulawesi,mixed_sensitivity,2019,wet,164,5,32.0,148,3.0
+Sulawesi,mixed_sensitivity,2019,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2020,dry,72,8,46.0,55,3.0
+Sulawesi,mixed_sensitivity,2020,wet,294,1,33.0,270,3.0
+Sulawesi,mixed_sensitivity,2020,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2021,dry,62,2,14.0,54,3.0
+Sulawesi,mixed_sensitivity,2021,wet,303,1,29.0,281,3.0
+Sulawesi,mixed_sensitivity,2021,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2022,dry,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2022,wet,365,4,42.0,343,3.0
+Sulawesi,mixed_sensitivity,2022,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2023,dry,151,45,387.0,77,3.0
+Sulawesi,mixed_sensitivity,2023,wet,214,5,29.0,200,3.0
+Sulawesi,mixed_sensitivity,2023,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2024,dry,133,9,71.0,108,3.0
+Sulawesi,mixed_sensitivity,2024,wet,233,1,16.0,223,3.0
+Sulawesi,mixed_sensitivity,2024,unclassified,0,0,0.0,0,3.0
+Sulawesi,mixed_sensitivity,2025,dry,71,7,57.0,52,3.0
+Sulawesi,mixed_sensitivity,2025,wet,273,1,25.0,257,3.0
+Sulawesi,mixed_sensitivity,2025,unclassified,21,0,0.0,21,3.0
+Nusa Tenggara,strict,2019,dry,365,59,1152.0,215,6.0
+Nusa Tenggara,strict,2019,wet,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2019,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2020,dry,327,31,473.0,225,6.0
+Nusa Tenggara,strict,2020,wet,39,0,0.0,39,6.0
+Nusa Tenggara,strict,2020,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2021,dry,214,22,340.0,124,6.0
+Nusa Tenggara,strict,2021,wet,151,0,1.0,150,6.0
+Nusa Tenggara,strict,2021,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2022,dry,255,6,200.0,182,6.0
+Nusa Tenggara,strict,2022,wet,110,0,0.0,110,6.0
+Nusa Tenggara,strict,2022,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2023,dry,285,47,791.0,164,6.0
+Nusa Tenggara,strict,2023,wet,80,0,0.0,80,6.0
+Nusa Tenggara,strict,2023,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2024,dry,224,26,410.0,139,6.0
+Nusa Tenggara,strict,2024,wet,142,0,12.0,135,6.0
+Nusa Tenggara,strict,2024,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,strict,2025,dry,293,13,209.0,236,6.0
+Nusa Tenggara,strict,2025,wet,51,0,0.0,51,6.0
+Nusa Tenggara,strict,2025,unclassified,21,0,0.0,21,6.0
+Nusa Tenggara,mixed_sensitivity,2019,dry,292,59,1152.0,142,6.0
+Nusa Tenggara,mixed_sensitivity,2019,wet,73,0,0.0,73,6.0
+Nusa Tenggara,mixed_sensitivity,2019,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2020,dry,265,31,473.0,163,6.0
+Nusa Tenggara,mixed_sensitivity,2020,wet,101,0,0.0,101,6.0
+Nusa Tenggara,mixed_sensitivity,2020,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2021,dry,214,22,340.0,124,6.0
+Nusa Tenggara,mixed_sensitivity,2021,wet,151,0,1.0,150,6.0
+Nusa Tenggara,mixed_sensitivity,2021,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2022,dry,235,6,199.0,163,6.0
+Nusa Tenggara,mixed_sensitivity,2022,wet,130,0,1.0,129,6.0
+Nusa Tenggara,mixed_sensitivity,2022,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2023,dry,337,47,791.0,216,6.0
+Nusa Tenggara,mixed_sensitivity,2023,wet,28,0,0.0,28,6.0
+Nusa Tenggara,mixed_sensitivity,2023,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2024,dry,224,26,410.0,139,6.0
+Nusa Tenggara,mixed_sensitivity,2024,wet,142,0,12.0,135,6.0
+Nusa Tenggara,mixed_sensitivity,2024,unclassified,0,0,0.0,0,6.0
+Nusa Tenggara,mixed_sensitivity,2025,dry,242,13,209.0,185,6.0
+Nusa Tenggara,mixed_sensitivity,2025,wet,102,0,0.0,102,6.0
+Nusa Tenggara,mixed_sensitivity,2025,unclassified,21,0,0.0,21,6.0
+Papua,strict,2019,dry,91,35,459.0,37,3.0
+Papua,strict,2019,wet,274,21,395.0,228,3.0
+Papua,strict,2019,unclassified,0,0,0.0,0,3.0
+Papua,strict,2020,dry,0,0,0.0,0,3.0
+Papua,strict,2020,wet,366,24,273.0,298,3.0
+Papua,strict,2020,unclassified,0,0,0.0,0,3.0
+Papua,strict,2021,dry,0,0,0.0,0,3.0
+Papua,strict,2021,wet,365,7,79.0,322,3.0
+Papua,strict,2021,unclassified,0,0,0.0,0,3.0
+Papua,strict,2022,dry,0,0,0.0,0,3.0
+Papua,strict,2022,wet,365,7,60.0,327,3.0
+Papua,strict,2022,unclassified,0,0,0.0,0,3.0
+Papua,strict,2023,dry,143,65,1161.0,54,3.0
+Papua,strict,2023,wet,222,2,24.0,206,3.0
+Papua,strict,2023,unclassified,0,0,0.0,0,3.0
+Papua,strict,2024,dry,0,0,0.0,0,3.0
+Papua,strict,2024,wet,366,18,219.0,319,3.0
+Papua,strict,2024,unclassified,0,0,0.0,0,3.0
+Papua,strict,2025,dry,0,0,0.0,0,3.0
+Papua,strict,2025,wet,344,6,44.0,320,3.0
+Papua,strict,2025,unclassified,21,0,0.0,21,3.0
+Papua,mixed_sensitivity,2019,dry,132,37,473.0,69,3.0
+Papua,mixed_sensitivity,2019,wet,233,19,381.0,196,3.0
+Papua,mixed_sensitivity,2019,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2020,dry,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2020,wet,366,24,273.0,298,3.0
+Papua,mixed_sensitivity,2020,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2021,dry,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2021,wet,365,7,79.0,322,3.0
+Papua,mixed_sensitivity,2021,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2022,dry,31,1,8.0,26,3.0
+Papua,mixed_sensitivity,2022,wet,334,6,52.0,301,3.0
+Papua,mixed_sensitivity,2022,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2023,dry,113,53,906.0,44,3.0
+Papua,mixed_sensitivity,2023,wet,252,14,279.0,216,3.0
+Papua,mixed_sensitivity,2023,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2024,dry,61,7,64.0,46,3.0
+Papua,mixed_sensitivity,2024,wet,305,11,155.0,273,3.0
+Papua,mixed_sensitivity,2024,unclassified,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2025,dry,0,0,0.0,0,3.0
+Papua,mixed_sensitivity,2025,wet,344,6,44.0,320,3.0
+Papua,mixed_sensitivity,2025,unclassified,21,0,0.0,21,3.0

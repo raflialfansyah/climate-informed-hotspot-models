@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "cases": 624,
+  "metric_cases": 3120,
+  "native_replays_reused": true,
+  "summary_metric_means_and_ranks_checked": 147420,
+  "maximum_replayed_metric_difference": 3.353761712787673e-12,
+  "maximum_difference_by_metric": {
+    "rmse": 8.09963207615283e-13,
+    "mae": 1.510488782663355e-13,
+    "rmse90": 3.353761712787673e-12,
+    "mae90": 2.870578774682997e-12,
+    "r2": 1.6352370846295372e-14
+  },
+  "all_40_maps_independently_reconstructed": true,
+  "all_four_rmse_frequency_tables_recomputed": true,
+  "month_calendar_negative_control_passed": true,
+  "protected_files": 2405,
+  "changed_protected_files": [],
+  "scientific_sources_matching_pilot": 2061,
+  "scientific_source_changes": [],
+  "fit_calls": 0,
+  "runner_sha256": "609c8ddd916658783d1b0a01ed05adef4c1d633165eccbfba94df88e4a1d6ef2",
+  "forest_paths_sha256": "273e210e0b83afcd9420e580b5c22bcad74b1c6747d1d881e893ba89b700490e",
+  "rbf_acceleration_sha256": "763318897b865fc3cb828ad88455a87b3fe53902cd3b5aa982b785fe6a59d974"
+}

@@ -1,0 +1,51 @@
+{
+  "kind": "keras_numeric_weights",
+  "architecture": {
+    "name": "MLP_Model_2",
+    "hidden_layer_sizes": [
+      512,
+      256,
+      64,
+      256,
+      512,
+      256,
+      128,
+      64
+    ],
+    "alpha": 0.001,
+    "learning_rate_init": 0.0008,
+    "max_iter": 500
+  },
+  "seed": 42,
+  "weights_n": 18,
+  "training_n": 5053,
+  "n_iter": 227,
+  "input_columns": [
+    "month_sin",
+    "month_cos",
+    "doy_sin",
+    "doy_cos",
+    "y_lag_1",
+    "y_lag_2",
+    "y_lag_3",
+    "y_lag_7",
+    "y_lag_14",
+    "y_lag_21",
+    "y_lag_30",
+    "y_rollmean_3",
+    "y_rollstd_3",
+    "y_rollsum_3",
+    "y_rollmean_7",
+    "y_rollstd_7",
+    "y_rollsum_7",
+    "y_rollmean_14",
+    "y_rollstd_14",
+    "y_rollsum_14",
+    "y_rollmean_30",
+    "y_rollstd_30",
+    "y_rollsum_30",
+    "y_rollmean_60",
+    "y_rollstd_60",
+    "y_rollsum_60"
+  ]
+}

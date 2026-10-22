@@ -1,0 +1,65 @@
+{
+  "passed": true,
+  "checked": "2026-10-22",
+  "scripts": {
+    "GeT_DaTa_OISST.m": {
+      "sha256": "ed5d6221cfe59a0901e95d7070216f2772a51a416fa379550c440f98e4f46b3f",
+      "lines": 30
+    },
+    "Proses_data_Nino_IOD.m": {
+      "sha256": "63992e4da0140183deb510d4caa5e219154e402bc6dc7a22c092edfcc043e361",
+      "lines": 144
+    }
+  },
+  "product": "NOAA OISST v2.1",
+  "filename_version": "v02r01",
+  "download_base_url": "https://www.ncei.noaa.gov/data/sea-surface-temperature-optimum-interpolation/v2.1/access/avhrr/",
+  "download_script_years": [
+    2001,
+    2025
+  ],
+  "processing_script_years": [
+    2000,
+    2025
+  ],
+  "grid_degrees": 0.25,
+  "sst_variable": "sst",
+  "documented_units": "degrees Celsius",
+  "raw_context_rows": 9497,
+  "raw_context_bitwise_equal_to_original_csv": {
+    "nino_sst_issue": true,
+    "iod_west_sst_issue": true,
+    "iod_east_sst_issue": true
+  },
+  "legacy_derived_columns_checked": 14,
+  "maximum_absolute_differences": {
+    "nino_climatology": 4.973799150320701e-14,
+    "nino_daily": 6.483702463810914e-14,
+    "nino_monthly_sst": 6.039613253960852e-14,
+    "nino_monthly_anomaly": 2.5118795932144167e-14,
+    "west_climatology": 3.907985046680551e-14,
+    "east_climatology": 4.973799150320701e-14,
+    "west_daily_anomaly": 6.505906924303417e-14,
+    "east_daily_anomaly": 6.078471059822732e-14,
+    "iod_daily": 1.1726730697603216e-13,
+    "west_monthly_sst": 6.039613253960852e-14,
+    "east_monthly_sst": 6.394884621840902e-14,
+    "west_monthly_anomaly": 2.506328478091291e-14,
+    "east_monthly_anomaly": 2.864375403532904e-14,
+    "iod_monthly": 4.618527782440651e-14
+  },
+  "legacy_climatology_years": [
+    2000,
+    2025
+  ],
+  "main_climatology_context_years": [
+    2000,
+    2014
+  ],
+  "original_grids_reprocessed": false,
+  "matlab_scripts_executed": false,
+  "missing_history": "Downloader omits 2000 although processor and supplied CSV context include it; initial acquisition of those files is not shown.",
+  "matlab_mat_to_csv_export_step_supplied": false,
+  "new_estimator_fits": 0,
+  "new_model_inference": 0
+}

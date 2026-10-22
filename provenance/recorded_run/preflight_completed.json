@@ -1,0 +1,10 @@
+{
+  "status": "source_preflight_complete_no_estimator_fits",
+  "contract_digest": "7008fb57df11affb71587d59c6e39c35053d689f1e34b748694499d7461ec8f7",
+  "files": {
+    "data_quality.csv": "40a7a6742056ed828426f960a51e1a305986270e727332da17b73ae4f81de299",
+    "frames.pkl": "1e195cbd400d149e8de30c1bc5588b4434f1ac81385c0e9a9fde650c1b83eb13",
+    "input_inventory.csv": "69c3f8ca0d349da03fbf7d1a9b2fddb2ae24b89a06effcf62c9dcbaa0738716c",
+    "preflight.json": "cb89bfa11a111dd5a8f5e4721ab89391dc7295b688f46ada184ebd43af537b47"
+  }
+}

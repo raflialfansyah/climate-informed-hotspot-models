@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "likely_secret_patterns_found": 0,
+  "payload_files_scanned": 1834,
+  "raw_files_excluded": true,
+  "fit_records": 371
+}

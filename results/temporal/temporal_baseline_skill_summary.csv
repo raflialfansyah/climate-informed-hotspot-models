@@ -1,0 +1,17 @@
+schedule,model,reference,comparisons,lower_rmse,interval_below_zero,interval_above_zero
+fit_2008,BayesianRidge,Persistence,7,7,7,0
+fit_2008,BayesianRidge,MonthlyClimatology,7,7,6,0
+fit_2008,MLP_Model_2,Persistence,7,7,7,0
+fit_2008,MLP_Model_2,MonthlyClimatology,7,7,6,0
+fit_2010,BayesianRidge,Persistence,7,6,6,0
+fit_2010,BayesianRidge,MonthlyClimatology,7,7,7,0
+fit_2010,MLP_Model_2,Persistence,7,6,5,0
+fit_2010,MLP_Model_2,MonthlyClimatology,7,6,5,0
+fit_2012,BayesianRidge,Persistence,7,7,7,0
+fit_2012,BayesianRidge,MonthlyClimatology,7,7,7,0
+fit_2012,MLP_Model_2,Persistence,7,6,5,1
+fit_2012,MLP_Model_2,MonthlyClimatology,7,7,6,0
+main,BayesianRidge,Persistence,7,7,7,0
+main,BayesianRidge,MonthlyClimatology,7,7,7,0
+main,MLP_Model_2,Persistence,7,7,5,0
+main,MLP_Model_2,MonthlyClimatology,7,7,6,0

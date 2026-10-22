@@ -1,0 +1,11 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "Tweedie",
+    "family": "tweedie",
+    "parameters": {},
+    "use_extreme_weights": false,
+    "optional_package": null
+  },
+  "seed": 42
+}

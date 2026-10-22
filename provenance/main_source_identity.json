@@ -1,0 +1,20 @@
+{
+  "distribution": "main scheme",
+  "release_date": "2026-10-21",
+  "scientific_definitions_sha256": "d20cd99d9f7833d12618382157ec157ac730e2dc07ea72fdb95438c766bdc98b",
+  "inherited_source_identity": {
+    "parent_notebook": "Hotspot_SameDay_Keras_Corrected.ipynb",
+    "parent_sha256": "8ec6566d70ad75a3ab7535a29ca5f3f410315f1f76adf9ef6addc3c383fb697b",
+    "implementation_sha256": {
+      "common": "3a933b031d6d46a75aae6e9b75e0c3f60eb01ed11c61363297235d586f799045",
+      "sources": "896f12ea20e408dec4b4a2f7882e52f7e6d128ec57f96c47c48abea357228d33",
+      "features": "d2ed38395a15d4961ba1ffcaf116211a9d2cd0a695875bdb04e2993d99b3de7f",
+      "numeric": "97b236021c111b89716ecf6aa12f7c47a2c0ce41a6a07c3e6aef123e00381f60",
+      "workflow": "9008906c3140cda9fca3594da376a56ec30f981304dce40cdec9f5a6df3c6b47"
+    },
+    "backend": "keras/tensorflow",
+    "model_settings": "unchanged original corrected model panel",
+    "scientific_change": "no Lasso/OOF/refit; separate chronological calibration and inversion selection"
+  },
+  "changes": "Scheme/identifier names and configurable startup/output paths only; scientific definitions preserved"
+}

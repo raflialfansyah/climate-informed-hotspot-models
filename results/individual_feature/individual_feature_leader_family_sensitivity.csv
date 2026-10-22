@@ -1,0 +1,92 @@
+unit,model,block_30_feature_leaders,block_30_family_leaders,block_7_feature_leaders,block_7_family_leaders,block_90_feature_leaders,block_90_family_leaders,within_month_feature_leaders,within_month_family_leaders,same_feature_three_blocks,same_family_three_blocks,same_feature_all4,same_family_all4
+Kalimantan,BayesianRidge,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,True,True,True,True
+Kalimantan,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Kalimantan,KNN,hth_lag_0,Dry-spell duration,hth_lag_30,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_30,Dry-spell duration,False,True,False,True
+Kalimantan,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+Kalimantan,MLP_Model_1,hth_lag_0,Dry-spell duration,y_lag_2,Hotspot history,hth_lag_0,Dry-spell duration,evap_lag_0,Signed evaporation,False,False,False,False
+Kalimantan,MLP_Model_2,y_lag_1,Hotspot history,y_lag_1,Hotspot history,y_lag_1,Hotspot history,hth_lag_0,Dry-spell duration,True,True,False,False
+Kalimantan,MLP_Model_3,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,y_lag_7,Hotspot history,True,True,False,False
+Kalimantan,MLP_Model_4,y_lag_1,Hotspot history,y_lag_1,Hotspot history,y_lag_1,Hotspot history,hth_lag_0,Dry-spell duration,True,True,False,False
+Kalimantan,Poisson,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,True,True,True,True
+Kalimantan,RandomForest,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Kalimantan,SVM_RBF,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,True,True,True,True
+Kalimantan,Tweedie,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,y_rollstd_14,Hotspot history,True,True,False,False
+Kalimantan,XGBoost,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+National,BayesianRidge,y_lag_2,Hotspot history,y_lag_2,Hotspot history,hth_lag_0,Dry-spell duration,y_lag_2,Hotspot history,False,False,False,False
+National,ExtraTrees,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_lag_2,Hotspot history,True,True,False,True
+National,KNN,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_0,Dry-spell duration,evap_lag_0,Signed evaporation,False,True,False,False
+National,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_rollmean_3,Hotspot history,y_lag_2,Hotspot history,False,True,False,True
+National,MLP_Model_1,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,wind_lag_0,Wind speed,True,True,False,False
+National,MLP_Model_2,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+National,MLP_Model_3,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+National,MLP_Model_4,y_lag_2,Hotspot history,y_lag_2,Hotspot history,hth_lag_0,Dry-spell duration,y_lag_2,Hotspot history,False,False,False,False
+National,Poisson,y_lag_2,Hotspot history,hth_lag_3,Dry-spell duration,y_lag_2,Hotspot history,y_lag_2,Hotspot history,False,False,False,False
+National,RandomForest,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_lag_2,Hotspot history,True,True,False,True
+National,SVM_RBF,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,True,True,True,True
+National,Tweedie,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+National,XGBoost,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_rollmean_3,Hotspot history,y_lag_2,Hotspot history,True,True,False,True
+North Sumatra,BayesianRidge,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,KNN,y_lag_3,Hotspot history,iod_lag_7,IOD,romi2_lag_14,ROMI2,wind_lag_14,Wind speed,False,False,False,False
+North Sumatra,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,MLP_Model_1,romi1_lag_3,ROMI1,romi1_lag_3,ROMI1,romi1_lag_3,ROMI1,romi1_lag_3,ROMI1,True,True,True,True
+North Sumatra,MLP_Model_2,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,MLP_Model_3,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_3,Hotspot history,True,True,False,True
+North Sumatra,MLP_Model_4,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,Poisson,y_lag_3,Hotspot history,y_lag_3,Hotspot history,y_lag_3,Hotspot history,y_lag_3,Hotspot history,True,True,True,True
+North Sumatra,RandomForest,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+North Sumatra,SVM_RBF,y_rollstd_30,Hotspot history,y_rollstd_30,Hotspot history,y_rollstd_30,Hotspot history,romi1_lag_7,ROMI1,True,True,False,False
+North Sumatra,Tweedie,y_lag_3,Hotspot history,y_lag_3,Hotspot history,y_lag_3,Hotspot history,y_lag_3,Hotspot history,True,True,True,True
+North Sumatra,XGBoost,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,BayesianRidge,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,y_lag_2,Hotspot history,True,True,False,False
+Nusa Tenggara,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,KNN,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,MLP_Model_1,y_rollmean_60,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_1,Hotspot history,False,True,False,True
+Nusa Tenggara,MLP_Model_2,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,MLP_Model_3,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,MLP_Model_4,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_3,Hotspot history,True,True,False,True
+Nusa Tenggara,Poisson,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,RandomForest,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,SVM_RBF,hth_lag_3,Dry-spell duration,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,False,False,False,False
+Nusa Tenggara,Tweedie,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Nusa Tenggara,XGBoost,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Papua,BayesianRidge,y_lag_2,Hotspot history,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,y_lag_2,Hotspot history,False,False,False,False
+Papua,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,y_lag_2,Hotspot history,False,True,False,True
+Papua,KNN,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,True,True,True,True
+Papua,LightGBM,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,rain_lag_1,Rainfall,True,True,False,False
+Papua,MLP_Model_1,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Papua,MLP_Model_2,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,evap_lag_0,Signed evaporation,True,True,False,False
+Papua,MLP_Model_3,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,True,True,True,True
+Papua,MLP_Model_4,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,evap_lag_0,Signed evaporation,True,True,False,False
+Papua,Poisson,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Papua,RandomForest,rain_rollsum_3,Rainfall,rain_rollsum_3,Rainfall,rain_rollsum_3,Rainfall,y_lag_2,Hotspot history,True,True,False,False
+Papua,SVM_RBF,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,evap_lag_0,Signed evaporation,True,True,False,False
+Papua,Tweedie,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Papua,XGBoost,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,evap_lag_0,Signed evaporation,True,True,False,False
+South Sumatra,BayesianRidge,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_1,Dry-spell duration,hth_lag_0,Dry-spell duration,True,True,False,True
+South Sumatra,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,KNN,y_lag_2,Hotspot history,y_lag_2,Hotspot history,hth_lag_0,Dry-spell duration,y_lag_2,Hotspot history,False,False,False,False
+South Sumatra,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,MLP_Model_1,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,MLP_Model_2,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,MLP_Model_3,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,MLP_Model_4,hth_lag_7,Dry-spell duration,hth_lag_7,Dry-spell duration,hth_lag_7,Dry-spell duration,y_lag_2,Hotspot history,True,True,False,False
+South Sumatra,Poisson,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,RandomForest,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,SVM_RBF,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,hth_lag_0,Dry-spell duration,True,True,True,True
+South Sumatra,Tweedie,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+South Sumatra,XGBoost,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Sulawesi,BayesianRidge,hth_lag_3,Dry-spell duration,hth_lag_3,Dry-spell duration,y_lag_2,Hotspot history,y_lag_2,Hotspot history,False,False,False,False
+Sulawesi,ExtraTrees,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+Sulawesi,KNN,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+Sulawesi,LightGBM,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+Sulawesi,MLP_Model_1,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,True,True,True,True
+Sulawesi,MLP_Model_2,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,True,True,True,True
+Sulawesi,MLP_Model_3,y_lag_7,Hotspot history,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,False,False,False,False
+Sulawesi,MLP_Model_4,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,evap_lag_0,Signed evaporation,True,True,True,True
+Sulawesi,Poisson,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Sulawesi,RandomForest,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_7,Hotspot history,True,True,False,True
+Sulawesi,SVM_RBF,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,y_lag_7,Hotspot history,True,True,True,True
+Sulawesi,Tweedie,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True
+Sulawesi,XGBoost,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,y_lag_2,Hotspot history,True,True,True,True

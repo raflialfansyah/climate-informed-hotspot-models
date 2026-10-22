@@ -1,0 +1,369 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "bundles": [
+    {
+      "path": "procedures/main/national/S5/RandomForest",
+      "digest": "69eec012be6980343dd1ee4d7ef1b6740d12a5b829a63f8cbcb7df5abfa89a40"
+    },
+    {
+      "path": "procedures/main/national/S5/ExtraTrees",
+      "digest": "cc8aec52efa87043d73cab48a29ca193a4b35b82d4216a1dcb1a8612741138bb"
+    },
+    {
+      "path": "procedures/main/national/S5/XGBoost",
+      "digest": "ca8a1dbb7293e56c311fe1e2f1dc9632f7fb287148534edf7c2b1d2ee6133f9e"
+    },
+    {
+      "path": "procedures/main/national/S5/LightGBM",
+      "digest": "245a55f3b4ec1b9152985b59f37e565bb7aec65d640b31deb514595f1d4bfe41"
+    },
+    {
+      "path": "procedures/main/national/S5/SVM_RBF",
+      "digest": "e74c3c54c55247cb7e068184ed9e00ba5c67a7ad440e4357d563bdd65bc6753b"
+    },
+    {
+      "path": "procedures/main/national/S5/KNN",
+      "digest": "6dd31541790a77ab129ae96c18d89739fcdffb8d4f685c14ab53092591307ba5"
+    },
+    {
+      "path": "procedures/main/national/S5/BayesianRidge",
+      "digest": "b8a0ff90d7fac9e52a6ef0df18ebab9491f4e440a8980ba15dfaa688e0c3075d"
+    },
+    {
+      "path": "procedures/main/national/S5/MLP_Model_1",
+      "digest": "5ef142a20099effbbeac9c430ee01ea59a1748d5be81a2baa14b1b30bd1f2f41"
+    },
+    {
+      "path": "procedures/main/national/S5/MLP_Model_2",
+      "digest": "1988a8c51f0ea08b6b5b38f613dc35145be18343fe7240831a0e7362cc4f8420"
+    },
+    {
+      "path": "procedures/main/national/S5/MLP_Model_3",
+      "digest": "a8b75093cb0355eb86d9c9fa7828a4ec167a865f0a6590a3afb967fe62d66282"
+    },
+    {
+      "path": "procedures/main/national/S5/MLP_Model_4",
+      "digest": "9a83e0d7c377744685956008cf1bdb4e82bb123d72cf4f5f589a3338544adec2"
+    },
+    {
+      "path": "procedures/main/national/S5/Poisson",
+      "digest": "6ff67a6aaecddcd6b72f58ce9b09c0df8ff6800471fb81eb93c24d71c1bb2d61"
+    },
+    {
+      "path": "procedures/main/national/S5/Tweedie",
+      "digest": "cad56a083a16ac0a434fe0cd1e5a753d3e653d3495705d291193f505befa3bec"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/RandomForest",
+      "digest": "0f007dc6caa2f422324164dde608b40752efe0ec0064e9a2ba0869cd3348d110"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/ExtraTrees",
+      "digest": "47061ebe8a3be02297971c2dc6dd87ef322f034e3a196d1a5d5457fa81b45803"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/XGBoost",
+      "digest": "de1d1508e322f85427ba04033f2575810b61d0e8dd0821309c30aeef7705d28a"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/LightGBM",
+      "digest": "8c0958b32d0b5ec422c3344157c32ff5b31843c860524fc60a31d1f203447903"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/SVM_RBF",
+      "digest": "4b67f88fae3848e7a84f9a99576c2afa788b92b6884c89dd46cc1c7e418a4467"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/KNN",
+      "digest": "ec20228b7c1593619e58e78bd5908c44f067e34628b599d801b145a44fcdaabc"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/BayesianRidge",
+      "digest": "f5e046f2db5c8930f1f5c10f4d8db8b17f1f0f0967b206501334ce845933fe30"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/MLP_Model_1",
+      "digest": "d550625bf5340f9421fa0b73ccc6776e818bc95c6d0693072cfcfdb12ef48d0b"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/MLP_Model_2",
+      "digest": "9b12501c766cc8c2b2ed14f6308f8d0105133b3bc49c0f3ce2d5781912746c00"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/MLP_Model_3",
+      "digest": "f3e8a7db3abcb2879733088e34522b8c157d14c524167ba2a3006accf696c4b6"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/MLP_Model_4",
+      "digest": "48f24a2b257f844a6d8d6651368e42a723054750fd76d01a227956ef668a0bf8"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/Poisson",
+      "digest": "4d47884e00a15d62d4161f44302eceb3b10f6072149a714dcc4caadff7dce0d4"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/Tweedie",
+      "digest": "d0c2dbe123a424cc60ab1ec3fed5b304f71ed0241b0f7635a866a6d3cedb3b6c"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/RandomForest",
+      "digest": "408e4cefb0489889ed7219af799f0cd37837b4a9beb77e8eb1b2c78d262f7f62"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/ExtraTrees",
+      "digest": "6de75bcd8c87ac307ee8ca0a68c16e48f3a7284393784f272454621e7194d695"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/XGBoost",
+      "digest": "30743fbb9727fa179b50e4c67246cda36396f4a89c225a8aecea9e4dda52346a"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/LightGBM",
+      "digest": "e7cc639cbf7f0c4966b594b16b5c5db3bc2d7a9c244680bae5d226a925458ddd"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/SVM_RBF",
+      "digest": "f0cb541fa6abb637ff3c54c74128f3f3c29881ae196d94c98f5a5eca625a2f69"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/KNN",
+      "digest": "97adf1b78c405f618f43f9dcad8a8e21e35cc44360104635dc9d917b17872ea2"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/BayesianRidge",
+      "digest": "1594a262ff2a9d76554328748f213b555be12b8eb2efd4802229c4a5218ecb1a"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/MLP_Model_1",
+      "digest": "69dbadfbf28a3a46aeb765d4d83c95b8285182e39b0dab3792ad143e6e12ce67"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/MLP_Model_2",
+      "digest": "5d55041d15f9e08f69037a7f234581f42b9d8bb55df0ddc4e8e1fb0765f9225f"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/MLP_Model_3",
+      "digest": "70d8673894210e4a96f1b1985b00a9c9a1134759a845f7dd8b3bbe162f8e56db"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/MLP_Model_4",
+      "digest": "5d3d9f1d65750eb6e1e71e97f86f125c5450a729957cbde669077a4b5f26bb43"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/Poisson",
+      "digest": "f96fc9cc1c531eb5c205c8496ccea85b9824a024c31a73e4c265a9af639bc726"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/Tweedie",
+      "digest": "8af48800ec3960a9c1a99d9c0eab3aac7663abb8ac7487f318b54f0c0031ab74"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/RandomForest",
+      "digest": "54d7b899591254e886ab6a12565ee8930c33e5f7a8c64d552212d4f5a6d3966c"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/ExtraTrees",
+      "digest": "2a0d38f9560b94a28642ae7fd5f5ca660253a068419fd732f429c322b4e27242"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/XGBoost",
+      "digest": "ae12bc8a7bcdba24d940bf5cb033e439e029fdca24378ff7dce3e04c11797ef8"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/LightGBM",
+      "digest": "a47d56b183420071b8c9e9530750cd86976f963a954a871d07c5ca8111820801"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/SVM_RBF",
+      "digest": "b780f25dc8b490f95c38e1720d6ab66884e1e75b4854dd5e1d1899c219f7e746"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/KNN",
+      "digest": "f4ee688482c8458ba5d54197bf8d23d3df7dc74b943f51d85036c0ba3ee528fd"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/BayesianRidge",
+      "digest": "2919844ecf53ac00e09c03a80171c616d5d4b5978dec38c5a058569734f1db2c"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/MLP_Model_1",
+      "digest": "5c9863b59c6c70c5ad110e54b4a9e8f043acd0540a2b532f305327f4df66fdbf"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/MLP_Model_2",
+      "digest": "2bd5097c750dc2c91b36a34f7a9bfe941d857a9b3bc10253d03df1548952741d"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/MLP_Model_3",
+      "digest": "f6d2f5607460d3c5abeab0fd56b9f066a14bf999a6335517d13c3625455ed090"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/MLP_Model_4",
+      "digest": "db8f61e1f8cc5eecc443567f91f111d668998154a16d97d6790cd8df6c539a13"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/Poisson",
+      "digest": "c809e3559c74997c66dddf91a94aa5d6f4e418adaf1112156658b7a04b12879e"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/Tweedie",
+      "digest": "22556750f9016fa4a622269f4eada795fa3a695b268ee1a318cd6d34ebbb821e"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/RandomForest",
+      "digest": "f57526435b3ed5fece845210c802f6c9adbb351a3f8e3ce72a939230bc25b670"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/ExtraTrees",
+      "digest": "8d1cd4e8908987dfee624c7c2014aea7621801fe95a32e67babcc22882dc925c"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/XGBoost",
+      "digest": "1fcc12afe70ecda5b0f826c2e0335f1d7633223c967c2e1f810345d5ce5ffb54"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/LightGBM",
+      "digest": "bef5745dca3c69e156252eb399ef45c5b4dc9351b3544bb2cb51d348e283bc39"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/SVM_RBF",
+      "digest": "bdde9bef2cdad8c0dad5c629f32f83b462ffb1feb28c11ae29051bb1c3462a99"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/KNN",
+      "digest": "0a379fb4e14d2b8c0bd27dc30e179fe3fbef10c61b8b0415520b9b8f4ac5d26c"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/BayesianRidge",
+      "digest": "540d416d7946eb7d7ba92e2aacd6686f868bd4fc6871f9b7273eb799e7ade273"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/MLP_Model_1",
+      "digest": "85b1615158ad226317f9bfae79c6aa8e7259aa63aa0e64effe808215c881c086"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/MLP_Model_2",
+      "digest": "8706cd4aa4bde0245ef3fb8a1f536ea8d6968755d4c1f3408218a183671459ff"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/MLP_Model_3",
+      "digest": "c8a84c2e24b3941066cc641095e9460be5e70a8532d8d6db8037a08dd2105b86"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/MLP_Model_4",
+      "digest": "0d81dc923affbe552690f7d3ebb7ae9cf57fbf15f4008ab6c6ae296fed669f71"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/Poisson",
+      "digest": "34a26ee4f74cf8bb26080d3c933fc052190506341f9e68f646c1964a4d1e5174"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/Tweedie",
+      "digest": "da840f872932e28981fa3a7b23b0bc4ad8e23fa9b3dc73223c9ae4d589dd9782"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/RandomForest",
+      "digest": "1cc7f3cea3d9d84183a13176a50208db9140c120acefec8811dcc0114ec41004"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/ExtraTrees",
+      "digest": "6456ba66583999ed482648c380cb6eb94416d4d045baee6d6fdd6618601789ae"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/XGBoost",
+      "digest": "2b646c99258ed5509588f17b9174bdbd22c810fba327b628eabf0be461e9c49a"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/LightGBM",
+      "digest": "3504bccd554a3979b965a215854f69aac8990e975f32278a8f6fffe71a17cc24"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/SVM_RBF",
+      "digest": "3fec763062a598fabe2a7fe0288be0c367720a1562e16777e6f41742c1686917"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/KNN",
+      "digest": "e1a1cb1d5a832073a35da663f9e92008fef6bf130e8e39d1060c851a5633d809"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/BayesianRidge",
+      "digest": "230b68734dc6a239bfe8b0e435371ef95a4662746672dd792ae233d4d7c30029"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/MLP_Model_1",
+      "digest": "d6dee485f049425bade46bfd0b43100bfd504b81aa7fdd82a091430c24c8e8db"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/MLP_Model_2",
+      "digest": "13dff56cb6da1581aee15ab212e7b5e91ccd33f2baacad7b5245e93769abf9f2"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/MLP_Model_3",
+      "digest": "0ac62144f912422ece33fd1b45ced4a65e066a1ae3a441786f4d4a46da73fdbc"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/MLP_Model_4",
+      "digest": "b259585903314c8d93d4b23bf7d2e9966de610d0a80597b77f518f198116fda7"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/Poisson",
+      "digest": "ed8d4f84bed205d004992f6e5ce133b6a187cebd46820f2c31dd4474c84a4388"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/Tweedie",
+      "digest": "8a90dff7b2daf1d37a352e64a72850ab112456bcce524286a904115da723d327"
+    },
+    {
+      "path": "procedures/main/papua/S5/RandomForest",
+      "digest": "40f0937eb7c6461a867d0aca975c29b79ce3438c3daa148edf1fe4cd85c94ac4"
+    },
+    {
+      "path": "procedures/main/papua/S5/ExtraTrees",
+      "digest": "44ab7b48c7402606c495de790700052ca26c677b53c5712b85d276d7a6fc813f"
+    },
+    {
+      "path": "procedures/main/papua/S5/XGBoost",
+      "digest": "d239a8b543f35c9ba6a7e3d654090d42f28c720eae2e3e984402a8dc1c3a87cb"
+    },
+    {
+      "path": "procedures/main/papua/S5/LightGBM",
+      "digest": "33f13daf4f7bcf8415f1ca35cfa43c7f1ccf62f4e94df816e65bacf2c5e6bb2c"
+    },
+    {
+      "path": "procedures/main/papua/S5/SVM_RBF",
+      "digest": "4e6c5025964c20a3213057730be039727033c82de86dfd744faca1bdf62a2aec"
+    },
+    {
+      "path": "procedures/main/papua/S5/KNN",
+      "digest": "3150b330e8c419a908d8ff8c6a0a251ae67987b8b6af13b5385ad38bf153b10a"
+    },
+    {
+      "path": "procedures/main/papua/S5/BayesianRidge",
+      "digest": "6020939aa2c02afd61bfa377f997a06624e8f0899466dd627d630522c980e25c"
+    },
+    {
+      "path": "procedures/main/papua/S5/MLP_Model_1",
+      "digest": "2e3256fd797b33d4e4bdcda023dece62ecaf7d576aa75f9f2a9761fc82caf574"
+    },
+    {
+      "path": "procedures/main/papua/S5/MLP_Model_2",
+      "digest": "d6e37dde233871758dcc73f9272375f4dcf08f5d48a271808acec604118134f5"
+    },
+    {
+      "path": "procedures/main/papua/S5/MLP_Model_3",
+      "digest": "cc759c4656b9137b10818855e304cf9da93541638e762a7a2b80196ad3c223d9"
+    },
+    {
+      "path": "procedures/main/papua/S5/MLP_Model_4",
+      "digest": "3aae3c15d165ea48d25260c0d4a665409dd4bdd7aea6df970f13dff71650fe85"
+    },
+    {
+      "path": "procedures/main/papua/S5/Poisson",
+      "digest": "37b1887a2eda8d8a2df7f0d7060ce4da6d2e76a19b24734b91f0bcbb2ed381ec"
+    },
+    {
+      "path": "procedures/main/papua/S5/Tweedie",
+      "digest": "fdc470f9a64a6aae5062b9bbd7f93f432a4307d123ad7523e5c6b593c1e45a1b"
+    }
+  ]
+}

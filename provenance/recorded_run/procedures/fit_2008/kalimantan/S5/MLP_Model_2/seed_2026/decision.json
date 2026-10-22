@@ -1,0 +1,16 @@
+{
+  "method": "plain_expm1",
+  "calibration_factor": 2.1762664466322805,
+  "effective_factor": 1.0,
+  "calibration_n": 730,
+  "calibration_start": "2009-01-01",
+  "calibration_end": "2010-12-31",
+  "calibration_log_bias": -0.18769541186972213,
+  "selection_start": "2011-01-01",
+  "selection_end": "2012-12-31",
+  "selection_rmse_plain": 31.77733592059358,
+  "selection_rmse_corrected": 56.58976322029032,
+  "correction_policy": "calibration residuals; choose on later selection; tie uses plain",
+  "test_outcomes_used_for_choice": false,
+  "smoke_only": false
+}

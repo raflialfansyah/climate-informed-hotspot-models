@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "figures": [
+    {
+      "figure": 1,
+      "name": "study-area-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 2,
+      "name": "temporal-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 3,
+      "name": "annual-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 4,
+      "name": "seasonal-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 1.9234411882481874
+    },
+    {
+      "figure": 5,
+      "name": "national-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 6,
+      "name": "regional-integrated.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 7,
+      "name": "complete_metrics_corrected.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 8,
+      "name": "individual_feature_consistency.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.47177973451927574
+    },
+    {
+      "figure": 9,
+      "name": "seed_instability_corrected.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 10,
+      "name": "ablation_rmse_changes.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.3825460183413604
+    },
+    {
+      "figure": 11,
+      "name": "temporal_persistence_skill.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.0
+    },
+    {
+      "figure": 12,
+      "name": "dry_state_coverage.pdf",
+      "same_page_geometry": true,
+      "same_extracted_text": true,
+      "mean_pixel_difference": 0.5563183761555656
+    }
+  ],
+  "reference_assets_unchanged": true,
+  "manual_visual_review": "Passed: both contact sheets inspected for all 12 main figures"
+}

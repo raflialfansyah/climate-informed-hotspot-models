@@ -1,0 +1,18 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "BayesianRidge",
+    "family": "bayesian_ridge",
+    "parameters": {
+      "max_iter": 1000,
+      "tol": 0.0001,
+      "alpha_1": 1e-05,
+      "alpha_2": 1e-05,
+      "lambda_1": 0.0001,
+      "lambda_2": 0.0001
+    },
+    "use_extreme_weights": false,
+    "optional_package": null
+  },
+  "seed": 42
+}

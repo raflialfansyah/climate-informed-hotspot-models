@@ -1,0 +1,88 @@
+{
+  "created": "2026-10-21",
+  "scope": "Public payload packaging; original COPY_MANIFEST remains historical",
+  "files": {
+    "data/derived/figure_inputs.npz": {
+      "operation": "remove_gadm_geometry",
+      "original_sha256": "7fe3de6bf6be25d69d3c055a9709fb86d7e1de2b1dae4e5092a9bdf6e77c3dff",
+      "current_sha256": "4b08e8ca7356680938bdda5c9dac5ab99157f3a42e01640234fe0c6df4dc1770",
+      "removed_arrays": [
+        "coast"
+      ],
+      "retained_arrays": {
+        "lat": {
+          "shape": [
+            69
+          ],
+          "dtype": "float64",
+          "sha256": "574f823220b66ecfde04557cebaeb90d42f7b3cd27a80224c078b4e90d0f2751"
+        },
+        "lon": {
+          "shape": [
+            185
+          ],
+          "dtype": "float64",
+          "sha256": "c78ccd11878ade8fa3b3cea3664c2bab638c107ea0c5f6f8c22dc6bdcc40721f"
+        },
+        "total": {
+          "shape": [
+            69,
+            185
+          ],
+          "dtype": "int64",
+          "sha256": "b7c6316e9c3379f839f1c7ed5b2b133910a781961fd51699ebfa223bf9535a38"
+        },
+        "masks": {
+          "shape": [
+            69,
+            185
+          ],
+          "dtype": "int64",
+          "sha256": "1088eb42007de218d7fa7bef67fc8fdcd741a46e2663d19c5749e8bd36252904"
+        },
+        "dates": {
+          "shape": [
+            9131
+          ],
+          "dtype": "<U10",
+          "sha256": "f0c4b58db60a5274cb278ec47772d2cba8eeface6d2614fadce710112a613b74"
+        },
+        "counts": {
+          "shape": [
+            9131,
+            7
+          ],
+          "dtype": "int64",
+          "sha256": "889bfe467623bddcb25c90e741c6ced0de2bd0aed5a30bd2e1b1104332b1adfe"
+        },
+        "months": {
+          "shape": [
+            300
+          ],
+          "dtype": "<U7",
+          "sha256": "721ccf4181d52298d7aa453bd17f218696f6bde15aeafd77d40b12635a993928"
+        },
+        "enso": {
+          "shape": [
+            300
+          ],
+          "dtype": "<U32",
+          "sha256": "d081c9e92028c7da103d94a5fa288c14951407c29690efa05a5cdff56ba4c06e"
+        },
+        "iod": {
+          "shape": [
+            300
+          ],
+          "dtype": "<U40",
+          "sha256": "b1d08969a1130528484238399dd3df4bd30f213ff6e7aed11ed536d74487cf49"
+        }
+      }
+    },
+    "figures/main/study-area-integrated.pdf": {
+      "operation": "exclude_gadm_map_from_public_payload",
+      "original_sha256": "cea5bfc5725faeef177879ccbdf1d29953c78687aea09b44884bd62be536f0ad",
+      "current_status": "local_only",
+      "recovery": "Preserved in private before-edit archive outside the public candidate"
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "bundles": [
+    {
+      "path": "procedures/main/national/S2/BayesianRidge",
+      "digest": "fc259314ab1421e3ea3c63f593f8e9d194ec462c0c0460eb26332a803c8b8b23"
+    },
+    {
+      "path": "procedures/main/national/S3/BayesianRidge",
+      "digest": "eb84cdf1b9e2c086821af13d5da62c8b273fb6ba5a31a15cd377b251921420bb"
+    },
+    {
+      "path": "procedures/main/national/S4/BayesianRidge",
+      "digest": "cb49d86159f23e987c3834c892e9c8bb8381d3ba9ea0451a8c5a0262616e38a0"
+    },
+    {
+      "path": "procedures/main/national/S5/BayesianRidge",
+      "digest": "b8a0ff90d7fac9e52a6ef0df18ebab9491f4e440a8980ba15dfaa688e0c3075d"
+    },
+    {
+      "path": "procedures/main/national/S2/MLP_Model_2",
+      "digest": "abb3407a11b6c1f3d6f4e5e7482ff0c024848a8c1a570c9c9c5d4a3944f63f1f"
+    },
+    {
+      "path": "procedures/main/national/S3/MLP_Model_2",
+      "digest": "682edf1b0252d08bb257ab2c9bca520658e693b222d301ae6a1ed9824df15486"
+    },
+    {
+      "path": "procedures/main/national/S4/MLP_Model_2",
+      "digest": "8a150460ca48b5e4c73231da54bf899211cb7cfd32d49605ab997d341d389e25"
+    },
+    {
+      "path": "procedures/main/national/S5/MLP_Model_2",
+      "digest": "1988a8c51f0ea08b6b5b38f613dc35145be18343fe7240831a0e7362cc4f8420"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S2/BayesianRidge",
+      "digest": "00c134003f5164042de2bac5ddd6da2edbd1485764eecc4599659314899118f4"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S3/BayesianRidge",
+      "digest": "409f9c848aaef95f6f1b96637f6ee82be6a6ebe80981a9157792ffa44c200508"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S4/BayesianRidge",
+      "digest": "23c22f6fc04f6b86d0b7d180d73858fcb0ad914c1ddba2cd407ec732a710e3c6"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/BayesianRidge",
+      "digest": "f5e046f2db5c8930f1f5c10f4d8db8b17f1f0f0967b206501334ce845933fe30"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S2/MLP_Model_2",
+      "digest": "0386254806541e8c605dd2bcaa16cf80b6dc7624ad66eda62f2bd83534867839"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S3/MLP_Model_2",
+      "digest": "b1c0e3d6350b46a967deb77bd99a35f6334007d3f627d695cf8de0bdd9a83c15"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S4/MLP_Model_2",
+      "digest": "2cf2782220fdb5f9d19ca34bd2743e6621cfc82faefa6341d66fec15007b722e"
+    },
+    {
+      "path": "procedures/main/north_sumatra/S5/MLP_Model_2",
+      "digest": "9b12501c766cc8c2b2ed14f6308f8d0105133b3bc49c0f3ce2d5781912746c00"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S2/BayesianRidge",
+      "digest": "e3453b93f2f365d3f261b5f8c643233e555811bb9ddafad692ff0b8361ebe60b"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S3/BayesianRidge",
+      "digest": "cbc0672c115796f0bd63183807e71ac2e40b7211cd5c754961d8b88b587837f8"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S4/BayesianRidge",
+      "digest": "cfd66958dd224275aa18fab4ac23ee2f5f854dc4fa419af1f9bfe2f2dc190d50"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/BayesianRidge",
+      "digest": "1594a262ff2a9d76554328748f213b555be12b8eb2efd4802229c4a5218ecb1a"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S2/MLP_Model_2",
+      "digest": "cbcb3f893102c5138d5eaeb5ec306db8bcc92fdbc6d15def604bba810b5881fa"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S3/MLP_Model_2",
+      "digest": "d51d210ced5ef14bea90bb24056bb00575fd238e94d29100412f9718381d8316"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S4/MLP_Model_2",
+      "digest": "b24bed7ae77dcdf07aaf22ab936aa565911973807e2d5ebc67ae976ad9af2a47"
+    },
+    {
+      "path": "procedures/main/south_sumatra/S5/MLP_Model_2",
+      "digest": "5d55041d15f9e08f69037a7f234581f42b9d8bb55df0ddc4e8e1fb0765f9225f"
+    },
+    {
+      "path": "procedures/main/kalimantan/S2/BayesianRidge",
+      "digest": "29b214d08f3eee84866f21d727e1d0f2318cde1e2f8564bfd2da2fa5197d969a"
+    },
+    {
+      "path": "procedures/main/kalimantan/S3/BayesianRidge",
+      "digest": "e8377ef16dc9144f43a6a81698e0ffd02bf3de0e6f0f27515e21cf281dded965"
+    },
+    {
+      "path": "procedures/main/kalimantan/S4/BayesianRidge",
+      "digest": "b7ffe6b4c93628a84b8bef0c045fa331604c7dfcad85d096c43408ad9aeded18"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/BayesianRidge",
+      "digest": "2919844ecf53ac00e09c03a80171c616d5d4b5978dec38c5a058569734f1db2c"
+    },
+    {
+      "path": "procedures/main/kalimantan/S2/MLP_Model_2",
+      "digest": "1195d10725eb8b2e54c21fae4c037086b30983a8b743c947d9c3193dbfdabdbb"
+    },
+    {
+      "path": "procedures/main/kalimantan/S3/MLP_Model_2",
+      "digest": "e3aca6236527d73747f294825c92c5bf514474110ff9a088221b3668da24a1e0"
+    },
+    {
+      "path": "procedures/main/kalimantan/S4/MLP_Model_2",
+      "digest": "997bc4586d0896da3c634893a477414b275e21b65a8e39c554ac7aaf319e2c3b"
+    },
+    {
+      "path": "procedures/main/kalimantan/S5/MLP_Model_2",
+      "digest": "2bd5097c750dc2c91b36a34f7a9bfe941d857a9b3bc10253d03df1548952741d"
+    },
+    {
+      "path": "procedures/main/sulawesi/S2/BayesianRidge",
+      "digest": "4d3383db723c71d1d6a3c1ae05e51a6c56b5c399dea4e1114824ec0779eddf92"
+    },
+    {
+      "path": "procedures/main/sulawesi/S3/BayesianRidge",
+      "digest": "bc1d19388390fb01e3bbf85608dc0005cad37ee15de387aad840e93277befe0a"
+    },
+    {
+      "path": "procedures/main/sulawesi/S4/BayesianRidge",
+      "digest": "649aa749b4e641896ffaa22325b6096c3bdcdade6b71ff4db1f6a6bda8f05125"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/BayesianRidge",
+      "digest": "540d416d7946eb7d7ba92e2aacd6686f868bd4fc6871f9b7273eb799e7ade273"
+    },
+    {
+      "path": "procedures/main/sulawesi/S2/MLP_Model_2",
+      "digest": "af48488ca92b8ce880604240e3f5dc818052cb52454df4bec7820291af55c03d"
+    },
+    {
+      "path": "procedures/main/sulawesi/S3/MLP_Model_2",
+      "digest": "597b0df4f3367e0864d7177885d88e2798d00a3b793d8f4dbe7a5f0b3cc4af9a"
+    },
+    {
+      "path": "procedures/main/sulawesi/S4/MLP_Model_2",
+      "digest": "706177b98225e080e6ee368db07ded0a91c75d878ae72a29e0b2520ac83c70f1"
+    },
+    {
+      "path": "procedures/main/sulawesi/S5/MLP_Model_2",
+      "digest": "8706cd4aa4bde0245ef3fb8a1f536ea8d6968755d4c1f3408218a183671459ff"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S2/BayesianRidge",
+      "digest": "52ac3d658de330020c7a19b2a5648a8d08f839228852a43b32b7d733ebd9982e"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S3/BayesianRidge",
+      "digest": "dfd66d3244a0ae656c4cd43ae54e44da39afcdb9bf774dad8b659d48bbafdad0"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S4/BayesianRidge",
+      "digest": "3aa4031ce3c03d7a886798915486ac020678854cc49ddaa2a95fd49990efdc76"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/BayesianRidge",
+      "digest": "230b68734dc6a239bfe8b0e435371ef95a4662746672dd792ae233d4d7c30029"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S2/MLP_Model_2",
+      "digest": "7a2919d7b3c34b6e54175bf185ef9594a1bce7cd5221d97a776e32deb6e33312"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S3/MLP_Model_2",
+      "digest": "2733ea441415f9579f6342c604087ba22fd2e0d152c82770a04d79d909e4c54c"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S4/MLP_Model_2",
+      "digest": "2f0516778624230aa119b79fe300fbdec47b7acb88f2b19a42cfb0320973802d"
+    },
+    {
+      "path": "procedures/main/nusa_tenggara/S5/MLP_Model_2",
+      "digest": "13dff56cb6da1581aee15ab212e7b5e91ccd33f2baacad7b5245e93769abf9f2"
+    },
+    {
+      "path": "procedures/main/papua/S2/BayesianRidge",
+      "digest": "ea0ebf39c24c7b8dd479faa413e57e13a9aabf0f548d95da47b8e1e76e21fb1d"
+    },
+    {
+      "path": "procedures/main/papua/S3/BayesianRidge",
+      "digest": "f65affcbee0deafa0a0cc69672b9aeb042c59d085efa3a8f2623d11444ecb3e4"
+    },
+    {
+      "path": "procedures/main/papua/S4/BayesianRidge",
+      "digest": "cea1d05ad14ff650dbedc55d23e5967b19afdb170b160693765f9355e2abdcef"
+    },
+    {
+      "path": "procedures/main/papua/S5/BayesianRidge",
+      "digest": "6020939aa2c02afd61bfa377f997a06624e8f0899466dd627d630522c980e25c"
+    },
+    {
+      "path": "procedures/main/papua/S2/MLP_Model_2",
+      "digest": "17cfd41a488ced64ad1da6aba67790f13076416a8e6e21f911436a18a1a11039"
+    },
+    {
+      "path": "procedures/main/papua/S3/MLP_Model_2",
+      "digest": "6aa593f4e093fdee98749cf22df97313feb9f78d2e463f536a0c22c6d840876d"
+    },
+    {
+      "path": "procedures/main/papua/S4/MLP_Model_2",
+      "digest": "355ca56ad70e5f52e73a41fb5beb2a2ec6da6cd3f4720cf382dd26014874f7bd"
+    },
+    {
+      "path": "procedures/main/papua/S5/MLP_Model_2",
+      "digest": "d6e37dde233871758dcc73f9272375f4dcf08f5d48a271808acec604118134f5"
+    }
+  ]
+}

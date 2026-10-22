@@ -1,0 +1,1621 @@
+setting,feature,label,family,top20_positive_count,positive_mean_count,median_rank,metric,denominator_bundles
+block_30,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,72,76,2.0,mae,91
+block_30,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,64,73,6.0,mae,91
+block_30,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,57,72,12.0,mae,91
+block_30,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,51,70,15.0,mae,91
+block_30,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,51,66,15.0,mae,91
+block_30,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,51,69,18.0,mae,91
+block_30,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,49,57,10.0,mae,91
+block_30,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,48,68,18.0,mae,91
+block_30,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,42,64,25.0,mae,91
+block_30,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,41,60,25.0,mae,91
+block_30,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,40,55,25.0,mae,91
+block_30,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,35,60,27.0,mae,91
+block_30,iod_lag_7,"IOD, lag 7 day(s)",IOD,31,61,33.0,mae,91
+block_30,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,31,63,35.0,mae,91
+block_30,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,31,59,35.0,mae,91
+block_30,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,30,50,41.0,mae,91
+block_30,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,30,40,63.0,mae,91
+block_30,doy_cos,Day-of-year cosine,Calendar,29,61,31.0,mae,91
+block_30,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,29,40,58.0,mae,91
+block_30,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,28,67,32.0,mae,91
+block_30,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,27,54,36.0,mae,91
+block_30,iod_lag_14,"IOD, lag 14 day(s)",IOD,26,53,37.0,mae,91
+block_30,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,26,49,48.0,mae,91
+block_30,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,25,55,37.0,mae,91
+block_30,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,25,56,41.0,mae,91
+block_30,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,25,32,63.0,mae,91
+block_30,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,24,65,33.0,mae,91
+block_30,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,24,55,37.0,mae,91
+block_30,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,24,58,38.0,mae,91
+block_30,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,23,63,36.0,mae,91
+block_30,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,23,42,52.0,mae,91
+block_30,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,23,36,63.0,mae,91
+block_30,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,22,37,60.0,mae,91
+block_30,month_cos,Month cosine,Calendar,21,61,37.0,mae,91
+block_30,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,21,49,42.0,mae,91
+block_30,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,21,53,43.0,mae,91
+block_30,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,21,35,62.0,mae,91
+block_30,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,21,35,64.0,mae,91
+block_30,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,20,68,32.0,mae,91
+block_30,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,20,65,36.0,mae,91
+block_30,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,20,60,37.0,mae,91
+block_30,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,20,48,43.0,mae,91
+block_30,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,20,42,57.0,mae,91
+block_30,iod_lag_0,"IOD, lag 0 day(s)",IOD,19,56,36.0,mae,91
+block_30,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,18,65,39.0,mae,91
+block_30,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,18,57,41.0,mae,91
+block_30,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,18,47,45.0,mae,91
+block_30,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,18,44,48.0,mae,91
+block_30,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,18,38,65.0,mae,91
+block_30,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,17,45,46.0,mae,91
+block_30,doy_sin,Day-of-year sine,Calendar,17,38,56.0,mae,91
+block_30,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,16,43,49.0,mae,91
+block_30,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,16,39,59.0,mae,91
+block_30,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,15,55,37.0,mae,91
+block_30,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,15,52,42.0,mae,91
+block_30,month_sin,Month sine,Calendar,15,43,54.0,mae,91
+block_30,iod_lag_30,"IOD, lag 30 day(s)",IOD,14,53,43.0,mae,91
+block_30,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,13,53,42.0,mae,91
+block_30,iod_lag_3,"IOD, lag 3 day(s)",IOD,13,45,47.0,mae,91
+block_30,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,12,58,36.0,mae,91
+block_30,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,12,62,39.0,mae,91
+block_30,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,12,52,43.0,mae,91
+block_30,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,12,39,55.0,mae,91
+block_30,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,11,55,43.0,mae,91
+block_30,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,11,43,51.0,mae,91
+block_30,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,10,44,46.0,mae,91
+block_30,iod_lag_1,"IOD, lag 1 day(s)",IOD,10,44,47.0,mae,91
+block_30,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,10,45,49.0,mae,91
+block_30,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,10,38,51.0,mae,91
+block_30,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,9,58,41.0,mae,91
+block_30,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,9,40,53.0,mae,91
+block_30,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,7,41,46.0,mae,91
+block_30,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,7,42,47.0,mae,91
+block_30,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,6,47,40.0,mae,91
+block_30,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,6,53,41.0,mae,91
+block_30,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,6,47,42.0,mae,91
+block_30,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,6,43,44.0,mae,91
+block_30,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,6,39,52.0,mae,91
+block_30,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,5,52,44.0,mae,91
+block_30,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,5,49,47.0,mae,91
+block_30,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,5,39,56.0,mae,91
+block_30,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,89,1.0,mae90,91
+block_30,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,88,89,3.0,mae90,91
+block_30,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,79,85,7.0,mae90,91
+block_30,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,78,81,4.0,mae90,91
+block_30,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,67,80,10.0,mae90,91
+block_30,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,61,77,13.0,mae90,91
+block_30,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,60,78,15.0,mae90,91
+block_30,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,53,68,16.0,mae90,91
+block_30,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,52,77,18.0,mae90,91
+block_30,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,49,64,17.0,mae90,91
+block_30,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,48,64,18.0,mae90,91
+block_30,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,47,73,20.0,mae90,91
+block_30,month_sin,Month sine,Calendar,46,74,20.0,mae90,91
+block_30,doy_sin,Day-of-year sine,Calendar,44,66,21.0,mae90,91
+block_30,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,43,64,22.0,mae90,91
+block_30,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,43,59,23.0,mae90,91
+block_30,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,42,64,21.0,mae90,91
+block_30,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,42,59,26.0,mae90,91
+block_30,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,37,64,28.0,mae90,91
+block_30,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,33,56,32.0,mae90,91
+block_30,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,32,56,30.0,mae90,91
+block_30,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,30,58,29.0,mae90,91
+block_30,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,30,44,49.0,mae90,91
+block_30,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,28,66,31.0,mae90,91
+block_30,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,27,53,33.0,mae90,91
+block_30,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,26,69,30.0,mae90,91
+block_30,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,25,58,36.0,mae90,91
+block_30,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,24,62,38.0,mae90,91
+block_30,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,23,34,67.0,mae90,91
+block_30,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,22,57,37.0,mae90,91
+block_30,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,22,42,56.0,mae90,91
+block_30,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,20,54,38.0,mae90,91
+block_30,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,20,60,40.0,mae90,91
+block_30,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,20,42,57.0,mae90,91
+block_30,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,19,54,40.0,mae90,91
+block_30,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,17,58,42.0,mae90,91
+block_30,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,16,54,40.0,mae90,91
+block_30,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,16,53,40.0,mae90,91
+block_30,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,16,53,43.0,mae90,91
+block_30,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,13,54,43.0,mae90,91
+block_30,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,13,39,54.0,mae90,91
+block_30,iod_lag_0,"IOD, lag 0 day(s)",IOD,13,39,58.0,mae90,91
+block_30,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,12,54,42.0,mae90,91
+block_30,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,12,58,43.0,mae90,91
+block_30,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,11,45,50.0,mae90,91
+block_30,iod_lag_30,"IOD, lag 30 day(s)",IOD,11,48,51.0,mae90,91
+block_30,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,10,64,39.0,mae90,91
+block_30,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,10,63,39.0,mae90,91
+block_30,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,10,58,40.0,mae90,91
+block_30,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,9,54,41.0,mae90,91
+block_30,doy_cos,Day-of-year cosine,Calendar,9,53,42.0,mae90,91
+block_30,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,9,53,43.0,mae90,91
+block_30,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,9,37,54.0,mae90,91
+block_30,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,8,55,44.0,mae90,91
+block_30,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,8,54,45.0,mae90,91
+block_30,iod_lag_7,"IOD, lag 7 day(s)",IOD,8,50,46.0,mae90,91
+block_30,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,8,50,48.0,mae90,91
+block_30,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,7,57,47.0,mae90,91
+block_30,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,7,42,54.0,mae90,91
+block_30,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,6,57,41.0,mae90,91
+block_30,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,6,54,42.0,mae90,91
+block_30,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,6,49,48.0,mae90,91
+block_30,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,6,43,48.0,mae90,91
+block_30,iod_lag_3,"IOD, lag 3 day(s)",IOD,6,35,53.0,mae90,91
+block_30,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,6,38,53.0,mae90,91
+block_30,iod_lag_14,"IOD, lag 14 day(s)",IOD,6,38,55.0,mae90,91
+block_30,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,5,46,45.0,mae90,91
+block_30,iod_lag_1,"IOD, lag 1 day(s)",IOD,5,40,51.0,mae90,91
+block_30,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,5,45,51.0,mae90,91
+block_30,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,4,49,46.0,mae90,91
+block_30,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,4,39,52.0,mae90,91
+block_30,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,39,52.0,mae90,91
+block_30,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,3,51,42.0,mae90,91
+block_30,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,3,40,51.0,mae90,91
+block_30,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,3,41,53.0,mae90,91
+block_30,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,3,38,53.0,mae90,91
+block_30,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,3,37,55.0,mae90,91
+block_30,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,3,28,58.0,mae90,91
+block_30,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,2,40,52.0,mae90,91
+block_30,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,1,25,61.0,mae90,91
+block_30,month_cos,Month cosine,Calendar,0,51,46.0,mae90,91
+block_30,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,84,86,1.0,r2,91
+block_30,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,81,84,3.0,r2,91
+block_30,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,76,80,9.0,r2,91
+block_30,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,62,67,8.0,r2,91
+block_30,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,53,75,17.0,r2,91
+block_30,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,52,70,15.0,r2,91
+block_30,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,48,65,17.0,r2,91
+block_30,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,47,63,20.0,r2,91
+block_30,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,46,60,20.0,r2,91
+block_30,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,43,66,24.0,r2,91
+block_30,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,43,59,24.0,r2,91
+block_30,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,42,54,23.0,r2,91
+block_30,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,39,61,26.0,r2,91
+block_30,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,39,55,30.0,r2,91
+block_30,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,37,47,42.0,r2,91
+block_30,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,36,55,31.0,r2,91
+block_30,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,34,50,34.0,r2,91
+block_30,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,32,51,36.0,r2,91
+block_30,month_sin,Month sine,Calendar,31,68,25.0,r2,91
+block_30,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,31,58,29.0,r2,91
+block_30,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,31,50,35.0,r2,91
+block_30,doy_sin,Day-of-year sine,Calendar,30,63,28.0,r2,91
+block_30,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,29,53,37.0,r2,91
+block_30,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,27,55,36.0,r2,91
+block_30,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,25,53,35.0,r2,91
+block_30,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,25,59,36.0,r2,91
+block_30,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,24,42,50.0,r2,91
+block_30,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,23,52,38.0,r2,91
+block_30,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,23,47,43.0,r2,91
+block_30,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,22,58,33.0,r2,91
+block_30,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,22,56,36.0,r2,91
+block_30,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,22,46,42.0,r2,91
+block_30,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,20,53,38.0,r2,91
+block_30,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,19,51,38.0,r2,91
+block_30,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,18,60,34.0,r2,91
+block_30,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,18,56,35.0,r2,91
+block_30,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,18,60,40.0,r2,91
+block_30,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,18,55,40.0,r2,91
+block_30,iod_lag_0,"IOD, lag 0 day(s)",IOD,18,38,53.0,r2,91
+block_30,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,17,59,37.0,r2,91
+block_30,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,17,54,41.0,r2,91
+block_30,iod_lag_7,"IOD, lag 7 day(s)",IOD,17,54,44.0,r2,91
+block_30,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,16,59,37.0,r2,91
+block_30,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,16,56,38.0,r2,91
+block_30,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,16,55,40.0,r2,91
+block_30,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,16,51,45.0,r2,91
+block_30,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,16,48,45.0,r2,91
+block_30,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,16,47,48.0,r2,91
+block_30,iod_lag_30,"IOD, lag 30 day(s)",IOD,15,52,43.0,r2,91
+block_30,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,15,46,46.0,r2,91
+block_30,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,15,48,46.0,r2,91
+block_30,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,14,57,36.0,r2,91
+block_30,doy_cos,Day-of-year cosine,Calendar,14,53,39.0,r2,91
+block_30,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,14,50,46.0,r2,91
+block_30,iod_lag_14,"IOD, lag 14 day(s)",IOD,14,44,48.0,r2,91
+block_30,iod_lag_3,"IOD, lag 3 day(s)",IOD,13,35,53.0,r2,91
+block_30,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,12,52,43.0,r2,91
+block_30,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,58,43.0,r2,91
+block_30,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,10,44,47.0,r2,91
+block_30,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,10,44,50.0,r2,91
+block_30,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,10,39,52.0,r2,91
+block_30,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,9,51,45.0,r2,91
+block_30,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,9,37,53.0,r2,91
+block_30,month_cos,Month cosine,Calendar,8,60,41.0,r2,91
+block_30,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,8,54,44.0,r2,91
+block_30,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,7,43,45.0,r2,91
+block_30,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,7,38,50.0,r2,91
+block_30,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,6,43,46.0,r2,91
+block_30,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,6,40,49.0,r2,91
+block_30,iod_lag_1,"IOD, lag 1 day(s)",IOD,6,32,50.0,r2,91
+block_30,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,5,48,44.0,r2,91
+block_30,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,5,51,47.0,r2,91
+block_30,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,5,32,53.0,r2,91
+block_30,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,5,33,53.0,r2,91
+block_30,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,47,47.0,r2,91
+block_30,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,41,51.0,r2,91
+block_30,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,30,53.0,r2,91
+block_30,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,36,54.0,r2,91
+block_30,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,4,38,55.0,r2,91
+block_30,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,3,49,47.0,r2,91
+block_30,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,2,28,55.0,r2,91
+block_30,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,84,86,1.0,rmse,91
+block_30,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,81,84,3.0,rmse,91
+block_30,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,76,80,9.0,rmse,91
+block_30,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,62,67,8.0,rmse,91
+block_30,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,54,75,17.0,rmse,91
+block_30,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,52,70,15.0,rmse,91
+block_30,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,48,65,18.0,rmse,91
+block_30,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,46,63,20.0,rmse,91
+block_30,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,46,60,20.0,rmse,91
+block_30,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,43,66,24.0,rmse,91
+block_30,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,43,59,24.0,rmse,91
+block_30,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,42,54,23.0,rmse,91
+block_30,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,39,61,26.0,rmse,91
+block_30,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,39,55,30.0,rmse,91
+block_30,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,37,47,42.0,rmse,91
+block_30,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,36,55,30.0,rmse,91
+block_30,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,34,50,33.0,rmse,91
+block_30,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,32,51,35.0,rmse,91
+block_30,month_sin,Month sine,Calendar,31,68,25.0,rmse,91
+block_30,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,31,58,29.0,rmse,91
+block_30,doy_sin,Day-of-year sine,Calendar,30,63,28.0,rmse,91
+block_30,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,30,50,36.0,rmse,91
+block_30,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,29,53,37.0,rmse,91
+block_30,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,28,54,36.0,rmse,91
+block_30,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,25,53,35.0,rmse,91
+block_30,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,25,59,36.0,rmse,91
+block_30,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,24,42,50.0,rmse,91
+block_30,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,23,56,36.0,rmse,91
+block_30,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,23,52,38.0,rmse,91
+block_30,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,23,46,43.0,rmse,91
+block_30,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,22,58,33.0,rmse,91
+block_30,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,22,46,42.0,rmse,91
+block_30,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,20,53,38.0,rmse,91
+block_30,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,19,51,38.0,rmse,91
+block_30,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,18,60,34.0,rmse,91
+block_30,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,18,56,35.0,rmse,91
+block_30,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,18,60,40.0,rmse,91
+block_30,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,18,55,40.0,rmse,91
+block_30,iod_lag_0,"IOD, lag 0 day(s)",IOD,18,38,53.0,rmse,91
+block_30,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,17,59,37.0,rmse,91
+block_30,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,17,54,41.0,rmse,91
+block_30,iod_lag_7,"IOD, lag 7 day(s)",IOD,17,54,44.0,rmse,91
+block_30,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,16,56,38.0,rmse,91
+block_30,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,16,55,40.0,rmse,91
+block_30,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,16,48,44.0,rmse,91
+block_30,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,16,51,45.0,rmse,91
+block_30,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,16,47,48.0,rmse,91
+block_30,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,15,59,37.0,rmse,91
+block_30,iod_lag_30,"IOD, lag 30 day(s)",IOD,15,52,43.0,rmse,91
+block_30,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,15,50,44.0,rmse,91
+block_30,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,15,45,46.0,rmse,91
+block_30,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,15,48,46.0,rmse,91
+block_30,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,13,57,36.0,rmse,91
+block_30,doy_cos,Day-of-year cosine,Calendar,13,53,39.0,rmse,91
+block_30,iod_lag_14,"IOD, lag 14 day(s)",IOD,13,42,48.0,rmse,91
+block_30,iod_lag_3,"IOD, lag 3 day(s)",IOD,13,35,53.0,rmse,91
+block_30,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,12,52,43.0,rmse,91
+block_30,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,57,43.0,rmse,91
+block_30,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,10,44,47.0,rmse,91
+block_30,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,10,44,50.0,rmse,91
+block_30,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,10,39,52.0,rmse,91
+block_30,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,9,51,45.0,rmse,91
+block_30,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,9,37,51.0,rmse,91
+block_30,month_cos,Month cosine,Calendar,8,60,42.0,rmse,91
+block_30,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,8,54,44.0,rmse,91
+block_30,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,7,43,45.0,rmse,91
+block_30,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,7,43,46.0,rmse,91
+block_30,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,7,38,50.0,rmse,91
+block_30,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,6,40,49.0,rmse,91
+block_30,iod_lag_1,"IOD, lag 1 day(s)",IOD,6,32,50.0,rmse,91
+block_30,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,5,48,44.0,rmse,91
+block_30,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,5,51,47.0,rmse,91
+block_30,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,5,32,53.0,rmse,91
+block_30,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,5,33,53.0,rmse,91
+block_30,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,47,47.0,rmse,91
+block_30,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,41,51.0,rmse,91
+block_30,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,30,53.0,rmse,91
+block_30,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,36,53.0,rmse,91
+block_30,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,4,38,55.0,rmse,91
+block_30,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,3,49,47.0,rmse,91
+block_30,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,2,28,55.0,rmse,91
+block_30,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,91,1.0,rmse90,91
+block_30,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,86,90,2.0,rmse90,91
+block_30,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,83,85,7.0,rmse90,91
+block_30,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,82,88,5.0,rmse90,91
+block_30,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,73,84,11.0,rmse90,91
+block_30,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,64,77,13.0,rmse90,91
+block_30,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,62,83,15.0,rmse90,91
+block_30,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,61,73,11.0,rmse90,91
+block_30,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,59,80,16.0,rmse90,91
+block_30,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,57,71,11.0,rmse90,91
+block_30,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,50,65,17.0,rmse90,91
+block_30,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,50,72,19.0,rmse90,91
+block_30,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,49,67,18.0,rmse90,91
+block_30,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,46,63,19.0,rmse90,91
+block_30,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,43,71,21.0,rmse90,91
+block_30,month_sin,Month sine,Calendar,41,80,21.0,rmse90,91
+block_30,doy_sin,Day-of-year sine,Calendar,39,74,22.0,rmse90,91
+block_30,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,39,72,23.0,rmse90,91
+block_30,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,37,63,24.0,rmse90,91
+block_30,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,36,54,30.0,rmse90,91
+block_30,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,32,66,27.0,rmse90,91
+block_30,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,31,57,34.0,rmse90,91
+block_30,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,29,63,28.0,rmse90,91
+block_30,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,28,62,31.0,rmse90,91
+block_30,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,28,40,63.0,rmse90,91
+block_30,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,27,65,29.0,rmse90,91
+block_30,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,27,59,39.0,rmse90,91
+block_30,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,26,62,32.0,rmse90,91
+block_30,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,23,75,28.0,rmse90,91
+block_30,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,20,35,62.0,rmse90,91
+block_30,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,19,62,40.0,rmse90,91
+block_30,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,19,37,63.0,rmse90,91
+block_30,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,18,62,36.0,rmse90,91
+block_30,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,17,59,36.0,rmse90,91
+block_30,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,17,61,39.0,rmse90,91
+block_30,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,16,32,74.0,rmse90,91
+block_30,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,15,58,39.0,rmse90,91
+block_30,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,15,61,41.0,rmse90,91
+block_30,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,14,49,43.0,rmse90,91
+block_30,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,14,50,44.0,rmse90,91
+block_30,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,13,50,46.0,rmse90,91
+block_30,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,12,66,37.0,rmse90,91
+block_30,doy_cos,Day-of-year cosine,Calendar,12,61,39.0,rmse90,91
+block_30,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,12,61,41.0,rmse90,91
+block_30,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,12,45,49.0,rmse90,91
+block_30,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,11,50,48.0,rmse90,91
+block_30,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,11,42,58.0,rmse90,91
+block_30,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,10,46,48.0,rmse90,91
+block_30,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,9,63,37.0,rmse90,91
+block_30,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,9,51,44.0,rmse90,91
+block_30,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,9,61,46.0,rmse90,91
+block_30,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,9,49,47.0,rmse90,91
+block_30,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,9,38,54.0,rmse90,91
+block_30,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,8,53,48.0,rmse90,91
+block_30,iod_lag_30,"IOD, lag 30 day(s)",IOD,8,47,49.0,rmse90,91
+block_30,iod_lag_0,"IOD, lag 0 day(s)",IOD,8,33,61.0,rmse90,91
+block_30,iod_lag_7,"IOD, lag 7 day(s)",IOD,7,42,51.0,rmse90,91
+block_30,iod_lag_14,"IOD, lag 14 day(s)",IOD,7,40,54.0,rmse90,91
+block_30,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,6,50,48.0,rmse90,91
+block_30,iod_lag_3,"IOD, lag 3 day(s)",IOD,5,30,55.0,rmse90,91
+block_30,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,54,45.0,rmse90,91
+block_30,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,4,53,48.0,rmse90,91
+block_30,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,40,51.0,rmse90,91
+block_30,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,4,40,53.0,rmse90,91
+block_30,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,4,34,58.0,rmse90,91
+block_30,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,3,53,45.0,rmse90,91
+block_30,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,3,49,45.0,rmse90,91
+block_30,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,3,40,52.0,rmse90,91
+block_30,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,3,41,53.0,rmse90,91
+block_30,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,3,33,55.0,rmse90,91
+block_30,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,3,25,59.0,rmse90,91
+block_30,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,2,58,48.0,rmse90,91
+block_30,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,2,45,52.0,rmse90,91
+block_30,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,2,44,53.0,rmse90,91
+block_30,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,2,41,54.0,rmse90,91
+block_30,month_cos,Month cosine,Calendar,1,61,44.0,rmse90,91
+block_30,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,1,41,53.0,rmse90,91
+block_30,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,1,42,54.0,rmse90,91
+block_30,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,1,31,56.0,rmse90,91
+block_30,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,1,38,56.0,rmse90,91
+block_30,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,1,25,61.0,rmse90,91
+block_7,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,73,75,2.0,mae,91
+block_7,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,67,73,6.0,mae,91
+block_7,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,59,72,14.0,mae,91
+block_7,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,56,67,12.0,mae,91
+block_7,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,51,56,8.0,mae,91
+block_7,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,51,68,17.0,mae,91
+block_7,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,49,67,17.0,mae,91
+block_7,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,49,74,19.0,mae,91
+block_7,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,48,71,18.0,mae,91
+block_7,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,43,55,23.0,mae,91
+block_7,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,37,56,26.0,mae,91
+block_7,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,37,64,28.0,mae,91
+block_7,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,31,41,55.0,mae,91
+block_7,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,31,41,61.0,mae,91
+block_7,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,29,67,30.0,mae,91
+block_7,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,29,60,30.0,mae,91
+block_7,iod_lag_7,"IOD, lag 7 day(s)",IOD,29,61,35.0,mae,91
+block_7,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,29,54,36.0,mae,91
+block_7,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,28,59,36.0,mae,91
+block_7,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,26,62,35.0,mae,91
+block_7,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,26,50,35.0,mae,91
+block_7,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,26,62,36.0,mae,91
+block_7,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,26,56,38.0,mae,91
+block_7,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,26,47,43.0,mae,91
+block_7,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,26,40,54.0,mae,91
+block_7,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,26,34,66.0,mae,91
+block_7,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,25,61,36.0,mae,91
+block_7,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,24,61,36.0,mae,91
+block_7,doy_cos,Day-of-year cosine,Calendar,24,59,38.0,mae,91
+block_7,iod_lag_14,"IOD, lag 14 day(s)",IOD,24,53,42.0,mae,91
+block_7,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,24,36,62.0,mae,91
+block_7,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,23,37,58.0,mae,91
+block_7,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,22,60,35.0,mae,91
+block_7,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,22,39,56.0,mae,91
+block_7,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,21,62,35.0,mae,91
+block_7,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,21,57,40.0,mae,91
+block_7,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,21,35,59.0,mae,91
+block_7,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,21,37,60.0,mae,91
+block_7,iod_lag_0,"IOD, lag 0 day(s)",IOD,19,49,40.0,mae,91
+block_7,month_cos,Month cosine,Calendar,19,56,40.0,mae,91
+block_7,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,19,46,42.0,mae,91
+block_7,iod_lag_30,"IOD, lag 30 day(s)",IOD,19,53,44.0,mae,91
+block_7,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,19,47,45.0,mae,91
+block_7,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,19,42,54.0,mae,91
+block_7,doy_sin,Day-of-year sine,Calendar,19,35,58.0,mae,91
+block_7,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,18,45,50.0,mae,91
+block_7,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,17,50,46.0,mae,91
+block_7,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,17,46,47.0,mae,91
+block_7,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,16,63,38.0,mae,91
+block_7,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,16,57,38.0,mae,91
+block_7,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,16,56,42.0,mae,91
+block_7,month_sin,Month sine,Calendar,16,42,49.0,mae,91
+block_7,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,15,60,36.0,mae,91
+block_7,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,15,62,38.0,mae,91
+block_7,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,15,56,41.0,mae,91
+block_7,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,15,35,60.0,mae,91
+block_7,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,14,41,52.0,mae,91
+block_7,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,13,58,39.0,mae,91
+block_7,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,13,51,44.0,mae,91
+block_7,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,13,55,47.0,mae,91
+block_7,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,12,54,39.0,mae,91
+block_7,iod_lag_3,"IOD, lag 3 day(s)",IOD,12,41,50.0,mae,91
+block_7,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,11,54,43.0,mae,91
+block_7,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,10,56,44.0,mae,91
+block_7,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,10,45,45.0,mae,91
+block_7,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,9,56,37.0,mae,91
+block_7,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,8,55,41.0,mae,91
+block_7,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,8,50,46.0,mae,91
+block_7,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,8,38,47.0,mae,91
+block_7,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,8,42,51.0,mae,91
+block_7,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,8,40,54.0,mae,91
+block_7,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,7,56,40.0,mae,91
+block_7,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,7,48,43.0,mae,91
+block_7,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,7,51,46.0,mae,91
+block_7,iod_lag_1,"IOD, lag 1 day(s)",IOD,7,43,51.0,mae,91
+block_7,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,6,48,41.0,mae,91
+block_7,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,6,45,45.0,mae,91
+block_7,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,6,39,49.0,mae,91
+block_7,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,6,44,49.0,mae,91
+block_7,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,6,48,51.0,mae,91
+block_7,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,4,38,53.0,mae,91
+block_7,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,89,1.0,mae90,91
+block_7,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,88,89,3.0,mae90,91
+block_7,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,78,79,4.0,mae90,91
+block_7,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,78,84,8.0,mae90,91
+block_7,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,70,84,10.0,mae90,91
+block_7,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,65,79,12.0,mae90,91
+block_7,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,59,80,15.0,mae90,91
+block_7,month_sin,Month sine,Calendar,54,75,18.0,mae90,91
+block_7,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,53,68,16.0,mae90,91
+block_7,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,52,74,17.0,mae90,91
+block_7,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,50,65,16.0,mae90,91
+block_7,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,49,64,17.0,mae90,91
+block_7,doy_sin,Day-of-year sine,Calendar,46,72,20.0,mae90,91
+block_7,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,45,70,21.0,mae90,91
+block_7,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,43,61,22.0,mae90,91
+block_7,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,43,61,24.0,mae90,91
+block_7,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,40,63,21.0,mae90,91
+block_7,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,39,65,24.0,mae90,91
+block_7,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,36,65,26.0,mae90,91
+block_7,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,33,43,58.0,mae90,91
+block_7,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,32,61,30.0,mae90,91
+block_7,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,32,55,34.0,mae90,91
+block_7,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,32,54,35.0,mae90,91
+block_7,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,31,65,28.0,mae90,91
+block_7,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,28,68,34.0,mae90,91
+block_7,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,26,60,38.0,mae90,91
+block_7,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,26,52,38.0,mae90,91
+block_7,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,23,58,36.0,mae90,91
+block_7,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,23,52,36.0,mae90,91
+block_7,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,22,33,71.0,mae90,91
+block_7,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,21,38,57.0,mae90,91
+block_7,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,19,61,38.0,mae90,91
+block_7,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,19,55,38.0,mae90,91
+block_7,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,18,57,37.0,mae90,91
+block_7,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,18,38,62.0,mae90,91
+block_7,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,17,52,39.0,mae90,91
+block_7,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,15,52,42.0,mae90,91
+block_7,iod_lag_30,"IOD, lag 30 day(s)",IOD,15,49,47.0,mae90,91
+block_7,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,14,54,43.0,mae90,91
+block_7,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,13,58,38.0,mae90,91
+block_7,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,13,52,40.0,mae90,91
+block_7,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,13,62,42.0,mae90,91
+block_7,doy_cos,Day-of-year cosine,Calendar,12,56,41.0,mae90,91
+block_7,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,11,53,42.0,mae90,91
+block_7,iod_lag_7,"IOD, lag 7 day(s)",IOD,11,53,45.0,mae90,91
+block_7,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,11,52,45.0,mae90,91
+block_7,iod_lag_0,"IOD, lag 0 day(s)",IOD,11,29,58.0,mae90,91
+block_7,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,10,62,36.0,mae90,91
+block_7,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,10,53,39.0,mae90,91
+block_7,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,10,58,41.0,mae90,91
+block_7,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,10,36,56.0,mae90,91
+block_7,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,9,52,44.0,mae90,91
+block_7,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,9,53,46.0,mae90,91
+block_7,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,9,39,50.0,mae90,91
+block_7,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,8,54,43.0,mae90,91
+block_7,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,8,59,44.0,mae90,91
+block_7,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,8,46,44.0,mae90,91
+block_7,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,8,42,51.0,mae90,91
+block_7,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,8,45,54.0,mae90,91
+block_7,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,7,53,43.0,mae90,91
+block_7,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,6,55,44.0,mae90,91
+block_7,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,6,47,45.0,mae90,91
+block_7,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,6,46,49.0,mae90,91
+block_7,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,5,49,48.0,mae90,91
+block_7,iod_lag_14,"IOD, lag 14 day(s)",IOD,5,43,49.0,mae90,91
+block_7,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,4,46,51.0,mae90,91
+block_7,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,42,51.0,mae90,91
+block_7,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,4,49,52.0,mae90,91
+block_7,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,32,56.0,mae90,91
+block_7,iod_lag_3,"IOD, lag 3 day(s)",IOD,4,31,59.0,mae90,91
+block_7,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,3,51,43.0,mae90,91
+block_7,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,3,46,50.0,mae90,91
+block_7,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,3,38,51.0,mae90,91
+block_7,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,3,42,51.0,mae90,91
+block_7,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,3,44,56.0,mae90,91
+block_7,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,2,40,47.0,mae90,91
+block_7,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,2,40,52.0,mae90,91
+block_7,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,2,25,59.0,mae90,91
+block_7,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,1,34,53.0,mae90,91
+block_7,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,1,25,61.0,mae90,91
+block_7,month_cos,Month cosine,Calendar,0,51,45.0,mae90,91
+block_7,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,83,85,1.0,r2,91
+block_7,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,81,85,3.0,r2,91
+block_7,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,72,80,9.0,r2,91
+block_7,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,65,68,7.0,r2,91
+block_7,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,55,68,13.0,r2,91
+block_7,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,52,71,15.0,r2,91
+block_7,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,51,75,18.0,r2,91
+block_7,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,46,63,20.0,r2,91
+block_7,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,46,71,20.0,r2,91
+block_7,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,43,56,23.0,r2,91
+block_7,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,43,68,24.0,r2,91
+block_7,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,42,53,25.0,r2,91
+block_7,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,40,54,30.0,r2,91
+block_7,month_sin,Month sine,Calendar,39,73,24.0,r2,91
+block_7,doy_sin,Day-of-year sine,Calendar,37,65,24.0,r2,91
+block_7,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,36,54,29.0,r2,91
+block_7,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,36,53,31.0,r2,91
+block_7,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,36,47,46.0,r2,91
+block_7,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,34,59,27.0,r2,91
+block_7,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,34,57,29.0,r2,91
+block_7,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,50,42.0,r2,91
+block_7,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,31,65,26.0,r2,91
+block_7,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,29,53,38.0,r2,91
+block_7,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,28,52,38.0,r2,91
+block_7,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,26,63,33.0,r2,91
+block_7,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,26,39,54.0,r2,91
+block_7,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,25,59,37.0,r2,91
+block_7,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,25,50,40.0,r2,91
+block_7,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,23,54,35.0,r2,91
+block_7,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,22,42,46.0,r2,91
+block_7,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,21,52,39.0,r2,91
+block_7,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,21,51,41.0,r2,91
+block_7,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,20,55,36.0,r2,91
+block_7,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,20,46,44.0,r2,91
+block_7,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,19,54,39.0,r2,91
+block_7,iod_lag_30,"IOD, lag 30 day(s)",IOD,18,50,44.0,r2,91
+block_7,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,17,60,38.0,r2,91
+block_7,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,17,56,39.0,r2,91
+block_7,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,17,57,41.0,r2,91
+block_7,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,17,51,42.0,r2,91
+block_7,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,17,48,43.0,r2,91
+block_7,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,17,53,43.0,r2,91
+block_7,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,17,57,44.0,r2,91
+block_7,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,16,59,35.0,r2,91
+block_7,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,16,63,36.0,r2,91
+block_7,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,16,46,48.0,r2,91
+block_7,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,15,64,33.0,r2,91
+block_7,iod_lag_7,"IOD, lag 7 day(s)",IOD,15,47,47.0,r2,91
+block_7,iod_lag_0,"IOD, lag 0 day(s)",IOD,15,31,61.0,r2,91
+block_7,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,14,51,44.0,r2,91
+block_7,doy_cos,Day-of-year cosine,Calendar,13,56,37.0,r2,91
+block_7,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,50,46.0,r2,91
+block_7,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,12,46,45.0,r2,91
+block_7,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,12,52,47.0,r2,91
+block_7,iod_lag_14,"IOD, lag 14 day(s)",IOD,12,43,49.0,r2,91
+block_7,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,56,44.0,r2,91
+block_7,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,11,40,53.0,r2,91
+block_7,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,10,54,46.0,r2,91
+block_7,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,10,48,47.0,r2,91
+block_7,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,10,48,48.0,r2,91
+block_7,iod_lag_3,"IOD, lag 3 day(s)",IOD,10,31,59.0,r2,91
+block_7,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,9,49,46.0,r2,91
+block_7,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,9,40,47.0,r2,91
+block_7,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,9,45,51.0,r2,91
+block_7,month_cos,Month cosine,Calendar,8,59,44.0,r2,91
+block_7,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,7,47,44.0,r2,91
+block_7,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,6,55,41.0,r2,91
+block_7,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,6,46,48.0,r2,91
+block_7,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,6,34,51.0,r2,91
+block_7,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,5,39,51.0,r2,91
+block_7,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,5,37,53.0,r2,91
+block_7,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,4,51,39.0,r2,91
+block_7,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,4,54,48.0,r2,91
+block_7,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,4,42,49.0,r2,91
+block_7,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,4,41,50.0,r2,91
+block_7,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,37,50.0,r2,91
+block_7,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,4,40,51.0,r2,91
+block_7,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,33,53.0,r2,91
+block_7,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,30,56.0,r2,91
+block_7,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,3,39,52.0,r2,91
+block_7,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,1,42,52.0,r2,91
+block_7,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,83,85,1.0,rmse,91
+block_7,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,81,85,3.0,rmse,91
+block_7,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,72,80,9.0,rmse,91
+block_7,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,65,68,7.0,rmse,91
+block_7,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,56,68,13.0,rmse,91
+block_7,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,52,71,15.0,rmse,91
+block_7,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,51,75,18.0,rmse,91
+block_7,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,46,71,20.0,rmse,91
+block_7,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,45,63,21.0,rmse,91
+block_7,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,44,56,23.0,rmse,91
+block_7,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,43,68,24.0,rmse,91
+block_7,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,42,53,25.0,rmse,91
+block_7,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,40,54,30.0,rmse,91
+block_7,month_sin,Month sine,Calendar,39,73,24.0,rmse,91
+block_7,doy_sin,Day-of-year sine,Calendar,37,65,24.0,rmse,91
+block_7,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,37,54,29.0,rmse,91
+block_7,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,36,53,32.0,rmse,91
+block_7,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,36,47,46.0,rmse,91
+block_7,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,34,59,27.0,rmse,91
+block_7,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,34,57,29.0,rmse,91
+block_7,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,50,42.0,rmse,91
+block_7,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,31,65,26.0,rmse,91
+block_7,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,29,53,38.0,rmse,91
+block_7,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,28,52,38.0,rmse,91
+block_7,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,26,63,33.0,rmse,91
+block_7,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,26,39,54.0,rmse,91
+block_7,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,25,59,37.0,rmse,91
+block_7,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,25,50,40.0,rmse,91
+block_7,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,23,53,35.0,rmse,91
+block_7,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,22,42,46.0,rmse,91
+block_7,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,21,51,41.0,rmse,91
+block_7,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,20,55,36.0,rmse,91
+block_7,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,20,52,39.0,rmse,91
+block_7,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,20,46,44.0,rmse,91
+block_7,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,19,54,39.0,rmse,91
+block_7,iod_lag_30,"IOD, lag 30 day(s)",IOD,18,50,44.0,rmse,91
+block_7,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,17,60,38.0,rmse,91
+block_7,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,17,56,39.0,rmse,91
+block_7,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,17,57,41.0,rmse,91
+block_7,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,17,51,42.0,rmse,91
+block_7,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,17,48,43.0,rmse,91
+block_7,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,17,53,43.0,rmse,91
+block_7,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,17,57,44.0,rmse,91
+block_7,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,16,59,36.0,rmse,91
+block_7,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,16,63,36.0,rmse,91
+block_7,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,16,46,48.0,rmse,91
+block_7,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,15,64,33.0,rmse,91
+block_7,iod_lag_7,"IOD, lag 7 day(s)",IOD,15,47,47.0,rmse,91
+block_7,iod_lag_0,"IOD, lag 0 day(s)",IOD,15,31,61.0,rmse,91
+block_7,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,14,51,44.0,rmse,91
+block_7,doy_cos,Day-of-year cosine,Calendar,13,56,37.0,rmse,91
+block_7,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,50,46.0,rmse,91
+block_7,iod_lag_14,"IOD, lag 14 day(s)",IOD,13,43,49.0,rmse,91
+block_7,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,12,46,45.0,rmse,91
+block_7,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,12,52,47.0,rmse,91
+block_7,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,56,44.0,rmse,91
+block_7,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,11,40,53.0,rmse,91
+block_7,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,10,54,46.0,rmse,91
+block_7,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,10,47,47.0,rmse,91
+block_7,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,10,48,48.0,rmse,91
+block_7,iod_lag_3,"IOD, lag 3 day(s)",IOD,10,31,59.0,rmse,91
+block_7,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,9,49,46.0,rmse,91
+block_7,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,9,40,47.0,rmse,91
+block_7,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,9,45,51.0,rmse,91
+block_7,month_cos,Month cosine,Calendar,8,59,44.0,rmse,91
+block_7,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,7,47,44.0,rmse,91
+block_7,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,6,55,42.0,rmse,91
+block_7,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,6,45,48.0,rmse,91
+block_7,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,6,34,51.0,rmse,91
+block_7,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,5,38,51.0,rmse,91
+block_7,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,5,37,53.0,rmse,91
+block_7,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,4,51,39.0,rmse,91
+block_7,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,4,54,48.0,rmse,91
+block_7,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,4,42,49.0,rmse,91
+block_7,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,37,50.0,rmse,91
+block_7,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,4,40,51.0,rmse,91
+block_7,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,33,52.0,rmse,91
+block_7,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,30,56.0,rmse,91
+block_7,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,3,41,50.0,rmse,91
+block_7,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,3,39,52.0,rmse,91
+block_7,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,1,42,52.0,rmse,91
+block_7,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,90,1.0,rmse90,91
+block_7,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,86,90,2.0,rmse90,91
+block_7,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,85,88,5.0,rmse90,91
+block_7,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,82,86,8.0,rmse90,91
+block_7,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,69,84,9.0,rmse90,91
+block_7,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,64,79,13.0,rmse90,91
+block_7,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,62,85,14.0,rmse90,91
+block_7,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,59,73,11.0,rmse90,91
+block_7,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,59,77,15.0,rmse90,91
+block_7,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,55,71,11.0,rmse90,91
+block_7,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,53,70,17.0,rmse90,91
+block_7,month_sin,Month sine,Calendar,51,83,19.0,rmse90,91
+block_7,doy_sin,Day-of-year sine,Calendar,47,76,20.0,rmse90,91
+block_7,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,47,72,20.0,rmse90,91
+block_7,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,47,67,20.0,rmse90,91
+block_7,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,44,63,24.0,rmse90,91
+block_7,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,43,70,23.0,rmse90,91
+block_7,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,39,71,22.0,rmse90,91
+block_7,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,38,63,25.0,rmse90,91
+block_7,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,36,53,33.0,rmse90,91
+block_7,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,33,65,29.0,rmse90,91
+block_7,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,33,62,32.0,rmse90,91
+block_7,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,32,70,26.0,rmse90,91
+block_7,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,30,55,33.0,rmse90,91
+block_7,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,30,42,56.0,rmse90,91
+block_7,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,28,63,29.0,rmse90,91
+block_7,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,24,65,39.0,rmse90,91
+block_7,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,23,62,32.0,rmse90,91
+block_7,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,19,67,30.0,rmse90,91
+block_7,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,19,36,58.0,rmse90,91
+block_7,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,19,34,63.0,rmse90,91
+block_7,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,19,32,74.0,rmse90,91
+block_7,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,17,58,37.0,rmse90,91
+block_7,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,16,65,35.0,rmse90,91
+block_7,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,16,66,35.0,rmse90,91
+block_7,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,16,52,39.0,rmse90,91
+block_7,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,15,49,47.0,rmse90,91
+block_7,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,15,47,50.0,rmse90,91
+block_7,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,14,62,34.0,rmse90,91
+block_7,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,14,64,38.0,rmse90,91
+block_7,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,14,49,47.0,rmse90,91
+block_7,doy_cos,Day-of-year cosine,Calendar,13,62,40.0,rmse90,91
+block_7,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,13,57,41.0,rmse90,91
+block_7,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,13,56,43.0,rmse90,91
+block_7,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,11,52,45.0,rmse90,91
+block_7,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,11,50,49.0,rmse90,91
+block_7,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,10,58,42.0,rmse90,91
+block_7,iod_lag_30,"IOD, lag 30 day(s)",IOD,10,44,49.0,rmse90,91
+block_7,iod_lag_7,"IOD, lag 7 day(s)",IOD,9,43,50.0,rmse90,91
+block_7,iod_lag_0,"IOD, lag 0 day(s)",IOD,9,26,66.0,rmse90,91
+block_7,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,8,61,36.0,rmse90,91
+block_7,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,8,57,45.0,rmse90,91
+block_7,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,8,36,62.0,rmse90,91
+block_7,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,7,57,47.0,rmse90,91
+block_7,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,7,45,52.0,rmse90,91
+block_7,iod_lag_14,"IOD, lag 14 day(s)",IOD,7,44,52.0,rmse90,91
+block_7,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,7,40,53.0,rmse90,91
+block_7,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,6,53,43.0,rmse90,91
+block_7,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,6,58,43.0,rmse90,91
+block_7,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,6,52,49.0,rmse90,91
+block_7,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,6,32,57.0,rmse90,91
+block_7,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,5,59,47.0,rmse90,91
+block_7,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,5,51,48.0,rmse90,91
+block_7,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,4,54,44.0,rmse90,91
+block_7,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,4,43,51.0,rmse90,91
+block_7,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,29,57.0,rmse90,91
+block_7,iod_lag_3,"IOD, lag 3 day(s)",IOD,4,27,62.0,rmse90,91
+block_7,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,3,48,49.0,rmse90,91
+block_7,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,2,48,51.0,rmse90,91
+block_7,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,2,39,52.0,rmse90,91
+block_7,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,2,36,57.0,rmse90,91
+block_7,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,2,27,61.0,rmse90,91
+block_7,month_cos,Month cosine,Calendar,1,64,44.0,rmse90,91
+block_7,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,1,51,46.0,rmse90,91
+block_7,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,1,50,49.0,rmse90,91
+block_7,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,1,43,52.0,rmse90,91
+block_7,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,1,42,53.0,rmse90,91
+block_7,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,1,41,56.0,rmse90,91
+block_7,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,1,40,57.0,rmse90,91
+block_7,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,1,28,63.0,rmse90,91
+block_7,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,0,37,56.0,rmse90,91
+block_90,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,74,78,2.0,mae,91
+block_90,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,68,74,6.0,mae,91
+block_90,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,56,64,16.0,mae,91
+block_90,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,55,68,15.0,mae,91
+block_90,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,54,66,13.0,mae,91
+block_90,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,52,54,7.0,mae,91
+block_90,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,51,72,18.0,mae,91
+block_90,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,48,70,17.0,mae,91
+block_90,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,48,68,19.0,mae,91
+block_90,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,42,55,30.0,mae,91
+block_90,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,39,56,27.0,mae,91
+block_90,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,35,60,26.0,mae,91
+block_90,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,31,43,52.0,mae,91
+block_90,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,30,66,34.0,mae,91
+block_90,iod_lag_7,"IOD, lag 7 day(s)",IOD,30,60,34.0,mae,91
+block_90,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,30,42,58.0,mae,91
+block_90,doy_cos,Day-of-year cosine,Calendar,29,58,35.0,mae,91
+block_90,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,28,62,35.0,mae,91
+block_90,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,28,59,38.0,mae,91
+block_90,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,28,48,42.0,mae,91
+block_90,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,27,67,31.0,mae,91
+block_90,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,27,61,34.0,mae,91
+block_90,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,27,49,43.0,mae,91
+block_90,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,26,58,37.0,mae,91
+block_90,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,25,38,59.0,mae,91
+block_90,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,25,35,61.0,mae,91
+block_90,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,24,55,36.0,mae,91
+block_90,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,24,42,47.0,mae,91
+block_90,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,24,38,56.0,mae,91
+block_90,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,23,58,37.0,mae,91
+block_90,iod_lag_14,"IOD, lag 14 day(s)",IOD,23,56,39.0,mae,91
+block_90,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,23,48,41.0,mae,91
+block_90,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,22,57,41.0,mae,91
+block_90,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,21,56,36.0,mae,91
+block_90,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,21,38,58.0,mae,91
+block_90,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,20,43,45.0,mae,91
+block_90,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,20,45,45.0,mae,91
+block_90,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,20,43,57.0,mae,91
+block_90,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,20,37,60.0,mae,91
+block_90,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,19,58,35.0,mae,91
+block_90,month_cos,Month cosine,Calendar,19,59,38.0,mae,91
+block_90,iod_lag_0,"IOD, lag 0 day(s)",IOD,19,48,40.0,mae,91
+block_90,iod_lag_30,"IOD, lag 30 day(s)",IOD,19,54,42.0,mae,91
+block_90,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,19,43,47.0,mae,91
+block_90,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,18,63,37.0,mae,91
+block_90,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,18,47,42.0,mae,91
+block_90,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,18,39,61.0,mae,91
+block_90,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,17,49,39.0,mae,91
+block_90,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,17,55,42.0,mae,91
+block_90,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,17,53,43.0,mae,91
+block_90,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,17,46,48.0,mae,91
+block_90,month_sin,Month sine,Calendar,17,38,52.0,mae,91
+block_90,doy_sin,Day-of-year sine,Calendar,17,36,57.0,mae,91
+block_90,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,16,63,36.0,mae,91
+block_90,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,16,35,62.0,mae,91
+block_90,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,15,60,40.0,mae,91
+block_90,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,14,53,39.0,mae,91
+block_90,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,14,46,45.0,mae,91
+block_90,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,13,42,50.0,mae,91
+block_90,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,12,36,58.0,mae,91
+block_90,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,59,35.0,mae,91
+block_90,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,11,57,36.0,mae,91
+block_90,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,11,53,45.0,mae,91
+block_90,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,11,41,48.0,mae,91
+block_90,iod_lag_3,"IOD, lag 3 day(s)",IOD,11,39,49.0,mae,91
+block_90,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,10,53,41.0,mae,91
+block_90,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,10,47,43.0,mae,91
+block_90,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,10,46,47.0,mae,91
+block_90,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,10,41,51.0,mae,91
+block_90,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,9,56,40.0,mae,91
+block_90,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,9,37,54.0,mae,91
+block_90,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,8,43,48.0,mae,91
+block_90,iod_lag_1,"IOD, lag 1 day(s)",IOD,7,37,50.0,mae,91
+block_90,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,6,60,41.0,mae,91
+block_90,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,6,54,43.0,mae,91
+block_90,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,6,49,43.0,mae,91
+block_90,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,6,38,46.0,mae,91
+block_90,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,5,46,45.0,mae,91
+block_90,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,5,43,49.0,mae,91
+block_90,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,5,46,50.0,mae,91
+block_90,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,4,38,50.0,mae,91
+block_90,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,89,1.0,mae90,91
+block_90,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,88,89,3.0,mae90,91
+block_90,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,80,85,7.0,mae90,91
+block_90,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,79,81,4.0,mae90,91
+block_90,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,68,82,10.0,mae90,91
+block_90,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,65,80,14.0,mae90,91
+block_90,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,64,78,12.0,mae90,91
+block_90,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,53,70,15.0,mae90,91
+block_90,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,50,63,19.0,mae90,91
+block_90,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,49,73,19.0,mae90,91
+block_90,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,49,65,19.0,mae90,91
+block_90,month_sin,Month sine,Calendar,48,76,19.0,mae90,91
+block_90,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,47,70,19.0,mae90,91
+block_90,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,43,64,22.0,mae90,91
+block_90,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,42,64,21.0,mae90,91
+block_90,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,42,61,22.0,mae90,91
+block_90,doy_sin,Day-of-year sine,Calendar,42,69,23.0,mae90,91
+block_90,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,41,61,25.0,mae90,91
+block_90,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,40,66,27.0,mae90,91
+block_90,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,32,58,31.0,mae90,91
+block_90,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,32,61,32.0,mae90,91
+block_90,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,32,53,34.0,mae90,91
+block_90,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,29,43,56.0,mae90,91
+block_90,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,27,69,32.0,mae90,91
+block_90,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,27,64,34.0,mae90,91
+block_90,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,26,58,36.0,mae90,91
+block_90,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,25,56,39.0,mae90,91
+block_90,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,24,54,37.0,mae90,91
+block_90,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,23,55,36.0,mae90,91
+block_90,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,22,59,38.0,mae90,91
+block_90,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,22,31,71.0,mae90,91
+block_90,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,21,41,61.0,mae90,91
+block_90,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,20,60,36.0,mae90,91
+block_90,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,20,39,60.0,mae90,91
+block_90,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,16,57,42.0,mae90,91
+block_90,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,16,43,52.0,mae90,91
+block_90,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,15,60,38.0,mae90,91
+block_90,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,15,60,39.0,mae90,91
+block_90,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,15,58,39.0,mae90,91
+block_90,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,15,51,45.0,mae90,91
+block_90,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,15,48,46.0,mae90,91
+block_90,doy_cos,Day-of-year cosine,Calendar,13,55,38.0,mae90,91
+block_90,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,12,54,40.0,mae90,91
+block_90,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,12,51,48.0,mae90,91
+block_90,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,11,56,39.0,mae90,91
+block_90,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,11,57,41.0,mae90,91
+block_90,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,11,53,44.0,mae90,91
+block_90,iod_lag_30,"IOD, lag 30 day(s)",IOD,11,45,49.0,mae90,91
+block_90,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,10,50,48.0,mae90,91
+block_90,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,9,58,41.0,mae90,91
+block_90,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,9,51,47.0,mae90,91
+block_90,iod_lag_7,"IOD, lag 7 day(s)",IOD,9,46,49.0,mae90,91
+block_90,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,9,37,55.0,mae90,91
+block_90,iod_lag_0,"IOD, lag 0 day(s)",IOD,9,29,61.0,mae90,91
+block_90,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,8,47,44.0,mae90,91
+block_90,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,8,50,47.0,mae90,91
+block_90,iod_lag_14,"IOD, lag 14 day(s)",IOD,8,41,51.0,mae90,91
+block_90,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,7,57,40.0,mae90,91
+block_90,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,7,51,42.0,mae90,91
+block_90,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,7,56,44.0,mae90,91
+block_90,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,6,40,54.0,mae90,91
+block_90,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,5,52,42.0,mae90,91
+block_90,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,5,44,49.0,mae90,91
+block_90,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,5,43,51.0,mae90,91
+block_90,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,5,38,53.0,mae90,91
+block_90,iod_lag_3,"IOD, lag 3 day(s)",IOD,5,31,57.0,mae90,91
+block_90,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,4,49,46.0,mae90,91
+block_90,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,53,50.0,mae90,91
+block_90,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,4,41,54.0,mae90,91
+block_90,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,31,58.0,mae90,91
+block_90,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,3,61,40.0,mae90,91
+block_90,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,3,45,49.0,mae90,91
+block_90,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,3,35,53.0,mae90,91
+block_90,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,3,38,54.0,mae90,91
+block_90,month_cos,Month cosine,Calendar,2,59,45.0,mae90,91
+block_90,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,2,48,45.0,mae90,91
+block_90,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,2,50,48.0,mae90,91
+block_90,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,1,39,52.0,mae90,91
+block_90,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,1,40,54.0,mae90,91
+block_90,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,1,23,59.0,mae90,91
+block_90,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,1,25,59.0,mae90,91
+block_90,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,84,87,1.0,r2,91
+block_90,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,77,81,3.0,r2,91
+block_90,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,74,78,9.0,r2,91
+block_90,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,62,69,8.0,r2,91
+block_90,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,53,66,15.0,r2,91
+block_90,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,51,75,18.0,r2,91
+block_90,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,50,67,16.0,r2,91
+block_90,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,50,72,17.0,r2,91
+block_90,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,48,64,18.0,r2,91
+block_90,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,47,60,20.0,r2,91
+block_90,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,45,69,21.0,r2,91
+block_90,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,43,55,26.0,r2,91
+block_90,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,40,57,28.0,r2,91
+block_90,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,38,52,31.0,r2,91
+block_90,month_sin,Month sine,Calendar,37,75,26.0,r2,91
+block_90,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,36,56,29.0,r2,91
+block_90,doy_sin,Day-of-year sine,Calendar,35,66,28.0,r2,91
+block_90,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,51,42.0,r2,91
+block_90,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,32,42,50.0,r2,91
+block_90,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,30,60,27.0,r2,91
+block_90,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,30,61,31.0,r2,91
+block_90,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,30,60,31.0,r2,91
+block_90,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,28,52,35.0,r2,91
+block_90,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,28,48,48.0,r2,91
+block_90,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,26,53,36.0,r2,91
+block_90,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,25,57,37.0,r2,91
+block_90,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,24,43,51.0,r2,91
+block_90,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,22,54,36.0,r2,91
+block_90,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,22,54,37.0,r2,91
+block_90,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,21,56,35.0,r2,91
+block_90,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,21,51,36.0,r2,91
+block_90,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,20,48,44.0,r2,91
+block_90,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,20,47,45.0,r2,91
+block_90,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,19,63,34.0,r2,91
+block_90,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,19,52,39.0,r2,91
+block_90,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,19,53,42.0,r2,91
+block_90,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,19,49,44.0,r2,91
+block_90,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,19,47,46.0,r2,91
+block_90,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,18,56,39.0,r2,91
+block_90,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,18,44,46.0,r2,91
+block_90,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,17,51,46.0,r2,91
+block_90,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,16,54,40.0,r2,91
+block_90,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,16,56,41.0,r2,91
+block_90,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,16,46,45.0,r2,91
+block_90,iod_lag_30,"IOD, lag 30 day(s)",IOD,16,50,48.0,r2,91
+block_90,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,15,63,38.0,r2,91
+block_90,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,15,58,39.0,r2,91
+block_90,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,15,48,46.0,r2,91
+block_90,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,14,59,36.0,r2,91
+block_90,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,14,62,38.0,r2,91
+block_90,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,14,47,49.0,r2,91
+block_90,doy_cos,Day-of-year cosine,Calendar,13,52,38.0,r2,91
+block_90,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,13,53,40.0,r2,91
+block_90,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,50,44.0,r2,91
+block_90,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,13,44,49.0,r2,91
+block_90,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,13,37,54.0,r2,91
+block_90,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,63,36.0,r2,91
+block_90,iod_lag_14,"IOD, lag 14 day(s)",IOD,11,43,45.0,r2,91
+block_90,iod_lag_7,"IOD, lag 7 day(s)",IOD,11,47,49.0,r2,91
+block_90,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,11,44,49.0,r2,91
+block_90,iod_lag_0,"IOD, lag 0 day(s)",IOD,11,29,59.0,r2,91
+block_90,month_cos,Month cosine,Calendar,10,57,42.0,r2,91
+block_90,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,8,53,43.0,r2,91
+block_90,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,8,56,45.0,r2,91
+block_90,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,8,44,47.0,r2,91
+block_90,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,8,43,50.0,r2,91
+block_90,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,8,42,50.0,r2,91
+block_90,iod_lag_3,"IOD, lag 3 day(s)",IOD,7,25,58.0,r2,91
+block_90,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,6,44,43.0,r2,91
+block_90,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,6,43,50.0,r2,91
+block_90,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,5,43,46.0,r2,91
+block_90,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,5,35,52.0,r2,91
+block_90,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,5,43,53.0,r2,91
+block_90,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,50,48.0,r2,91
+block_90,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,33,50.0,r2,91
+block_90,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,39,52.0,r2,91
+block_90,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,4,35,53.0,r2,91
+block_90,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,33,54.0,r2,91
+block_90,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,35,54.0,r2,91
+block_90,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,28,59.0,r2,91
+block_90,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,3,45,50.0,r2,91
+block_90,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,84,87,1.0,rmse,91
+block_90,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,77,81,3.0,rmse,91
+block_90,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,74,78,9.0,rmse,91
+block_90,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,62,69,8.0,rmse,91
+block_90,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,53,66,15.0,rmse,91
+block_90,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,51,75,17.0,rmse,91
+block_90,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,50,67,16.0,rmse,91
+block_90,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,50,72,17.0,rmse,91
+block_90,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,48,64,18.0,rmse,91
+block_90,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,47,60,20.0,rmse,91
+block_90,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,45,69,21.0,rmse,91
+block_90,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,43,55,27.0,rmse,91
+block_90,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,40,56,28.0,rmse,91
+block_90,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,38,52,31.0,rmse,91
+block_90,month_sin,Month sine,Calendar,37,75,26.0,rmse,91
+block_90,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,36,56,29.0,rmse,91
+block_90,doy_sin,Day-of-year sine,Calendar,34,66,28.0,rmse,91
+block_90,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,51,42.0,rmse,91
+block_90,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,32,42,50.0,rmse,91
+block_90,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,30,60,27.0,rmse,91
+block_90,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,30,61,31.0,rmse,91
+block_90,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,30,60,31.0,rmse,91
+block_90,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,28,52,35.0,rmse,91
+block_90,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,28,48,49.0,rmse,91
+block_90,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,26,53,36.0,rmse,91
+block_90,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,25,57,37.0,rmse,91
+block_90,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,24,43,51.0,rmse,91
+block_90,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,22,54,36.0,rmse,91
+block_90,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,22,51,36.0,rmse,91
+block_90,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,22,54,37.0,rmse,91
+block_90,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,21,56,35.0,rmse,91
+block_90,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,20,48,44.0,rmse,91
+block_90,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,20,47,45.0,rmse,91
+block_90,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,19,63,34.0,rmse,91
+block_90,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,19,52,39.0,rmse,91
+block_90,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,19,53,42.0,rmse,91
+block_90,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,19,49,44.0,rmse,91
+block_90,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,19,47,45.0,rmse,91
+block_90,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,18,56,39.0,rmse,91
+block_90,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,18,44,46.0,rmse,91
+block_90,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,17,51,46.0,rmse,91
+block_90,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,16,54,40.0,rmse,91
+block_90,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,16,56,41.0,rmse,91
+block_90,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,16,46,45.0,rmse,91
+block_90,iod_lag_30,"IOD, lag 30 day(s)",IOD,16,50,48.0,rmse,91
+block_90,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,15,63,38.0,rmse,91
+block_90,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,15,58,39.0,rmse,91
+block_90,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,15,48,46.0,rmse,91
+block_90,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,14,59,36.0,rmse,91
+block_90,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,14,61,38.0,rmse,91
+block_90,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,14,47,49.0,rmse,91
+block_90,doy_cos,Day-of-year cosine,Calendar,13,52,38.0,rmse,91
+block_90,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,13,53,40.0,rmse,91
+block_90,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,50,44.0,rmse,91
+block_90,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,13,44,49.0,rmse,91
+block_90,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,13,37,54.0,rmse,91
+block_90,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,11,63,36.0,rmse,91
+block_90,iod_lag_14,"IOD, lag 14 day(s)",IOD,11,43,45.0,rmse,91
+block_90,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,11,44,49.0,rmse,91
+block_90,iod_lag_0,"IOD, lag 0 day(s)",IOD,11,29,59.0,rmse,91
+block_90,month_cos,Month cosine,Calendar,10,57,42.0,rmse,91
+block_90,iod_lag_7,"IOD, lag 7 day(s)",IOD,10,47,49.0,rmse,91
+block_90,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,9,42,50.0,rmse,91
+block_90,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,8,53,43.0,rmse,91
+block_90,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,8,56,45.0,rmse,91
+block_90,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,8,44,47.0,rmse,91
+block_90,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,8,43,50.0,rmse,91
+block_90,iod_lag_3,"IOD, lag 3 day(s)",IOD,7,25,58.0,rmse,91
+block_90,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,6,44,43.0,rmse,91
+block_90,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,6,43,50.0,rmse,91
+block_90,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,5,43,46.0,rmse,91
+block_90,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,5,35,52.0,rmse,91
+block_90,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,5,43,53.0,rmse,91
+block_90,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,50,48.0,rmse,91
+block_90,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,4,33,50.0,rmse,91
+block_90,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,39,52.0,rmse,91
+block_90,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,4,35,53.0,rmse,91
+block_90,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,4,35,53.0,rmse,91
+block_90,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,33,54.0,rmse,91
+block_90,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,28,59.0,rmse,91
+block_90,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,3,45,50.0,rmse,91
+block_90,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,91,1.0,rmse90,91
+block_90,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,87,90,3.0,rmse90,91
+block_90,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,83,88,5.0,rmse90,91
+block_90,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,82,85,8.0,rmse90,91
+block_90,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,68,84,9.0,rmse90,91
+block_90,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,65,80,11.0,rmse90,91
+block_90,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,65,87,13.0,rmse90,91
+block_90,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,62,73,11.0,rmse90,91
+block_90,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,57,71,11.0,rmse90,91
+block_90,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,55,75,17.0,rmse90,91
+block_90,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,51,70,17.0,rmse90,91
+block_90,month_sin,Month sine,Calendar,48,82,19.0,rmse90,91
+block_90,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,45,64,21.0,rmse90,91
+block_90,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,45,69,21.0,rmse90,91
+block_90,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,45,74,22.0,rmse90,91
+block_90,doy_sin,Day-of-year sine,Calendar,44,76,22.0,rmse90,91
+block_90,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,43,70,21.0,rmse90,91
+block_90,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,42,71,22.0,rmse90,91
+block_90,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,39,63,25.0,rmse90,91
+block_90,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,35,62,30.0,rmse90,91
+block_90,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,33,55,33.0,rmse90,91
+block_90,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,32,67,30.0,rmse90,91
+block_90,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,28,39,72.0,rmse90,91
+block_90,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,26,70,27.0,rmse90,91
+block_90,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,26,76,28.0,rmse90,91
+block_90,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,26,62,31.0,rmse90,91
+block_90,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,26,56,34.0,rmse90,91
+block_90,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,24,58,39.0,rmse90,91
+block_90,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,23,61,35.0,rmse90,91
+block_90,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,19,65,34.0,rmse90,91
+block_90,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,19,59,34.0,rmse90,91
+block_90,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,19,60,37.0,rmse90,91
+block_90,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,19,37,66.0,rmse90,91
+block_90,doy_cos,Day-of-year cosine,Calendar,17,60,40.0,rmse90,91
+block_90,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,17,58,42.0,rmse90,91
+block_90,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,17,33,65.0,rmse90,91
+block_90,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,16,60,40.0,rmse90,91
+block_90,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,14,53,40.0,rmse90,91
+block_90,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,14,52,48.0,rmse90,91
+block_90,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,14,45,51.0,rmse90,91
+block_90,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,14,27,76.0,rmse90,91
+block_90,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,12,57,44.0,rmse90,91
+block_90,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,11,65,40.0,rmse90,91
+block_90,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,11,58,42.0,rmse90,91
+block_90,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,11,50,48.0,rmse90,91
+block_90,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,10,49,48.0,rmse90,91
+block_90,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,10,44,51.0,rmse90,91
+block_90,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,9,62,39.0,rmse90,91
+block_90,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,9,58,42.0,rmse90,91
+block_90,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,9,52,44.0,rmse90,91
+block_90,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,9,51,46.0,rmse90,91
+block_90,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,9,51,49.0,rmse90,91
+block_90,iod_lag_30,"IOD, lag 30 day(s)",IOD,9,43,52.0,rmse90,91
+block_90,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,8,50,44.0,rmse90,91
+block_90,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,8,39,60.0,rmse90,91
+block_90,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,7,64,39.0,rmse90,91
+block_90,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,7,51,45.0,rmse90,91
+block_90,iod_lag_14,"IOD, lag 14 day(s)",IOD,7,42,53.0,rmse90,91
+block_90,iod_lag_0,"IOD, lag 0 day(s)",IOD,7,28,64.0,rmse90,91
+block_90,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,6,56,44.0,rmse90,91
+block_90,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,6,48,50.0,rmse90,91
+block_90,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,5,47,51.0,rmse90,91
+block_90,iod_lag_7,"IOD, lag 7 day(s)",IOD,5,40,52.0,rmse90,91
+block_90,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,4,61,43.0,rmse90,91
+block_90,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,4,52,48.0,rmse90,91
+block_90,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,4,47,51.0,rmse90,91
+block_90,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,4,42,55.0,rmse90,91
+block_90,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,4,35,57.0,rmse90,91
+block_90,iod_lag_1,"IOD, lag 1 day(s)",IOD,4,31,59.0,rmse90,91
+block_90,iod_lag_3,"IOD, lag 3 day(s)",IOD,4,25,62.0,rmse90,91
+block_90,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,3,35,56.0,rmse90,91
+block_90,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,2,51,47.0,rmse90,91
+block_90,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,2,48,53.0,rmse90,91
+block_90,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,2,26,59.0,rmse90,91
+block_90,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,1,52,49.0,rmse90,91
+block_90,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,1,40,53.0,rmse90,91
+block_90,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,1,35,54.0,rmse90,91
+block_90,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,1,39,54.0,rmse90,91
+block_90,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,1,39,56.0,rmse90,91
+block_90,month_cos,Month cosine,Calendar,0,63,43.0,rmse90,91
+block_90,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,0,25,62.0,rmse90,91
+within_month,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,86,87,1.0,mae,91
+within_month,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,82,82,2.0,mae,91
+within_month,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,62,73,9.0,mae,91
+within_month,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,57,62,9.0,mae,91
+within_month,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,57,75,10.0,mae,91
+within_month,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,54,69,16.0,mae,91
+within_month,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,50,66,17.0,mae,91
+within_month,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,48,57,16.0,mae,91
+within_month,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,48,68,16.0,mae,91
+within_month,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,46,69,20.0,mae,91
+within_month,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,46,63,20.0,mae,91
+within_month,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,45,60,21.0,mae,91
+within_month,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,45,69,22.0,mae,91
+within_month,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,40,69,23.0,mae,91
+within_month,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,39,58,26.0,mae,91
+within_month,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,38,55,32.0,mae,91
+within_month,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,36,63,27.0,mae,91
+within_month,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,36,53,33.0,mae,91
+within_month,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,35,62,28.0,mae,91
+within_month,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,34,61,26.0,mae,91
+within_month,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,34,59,28.0,mae,91
+within_month,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,34,63,29.0,mae,91
+within_month,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,31,53,36.0,mae,91
+within_month,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,29,57,35.0,mae,91
+within_month,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,28,55,33.0,mae,91
+within_month,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,26,72,31.0,mae,91
+within_month,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,26,49,41.0,mae,91
+within_month,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,26,50,42.0,mae,91
+within_month,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,24,58,35.0,mae,91
+within_month,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,23,54,37.0,mae,91
+within_month,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,23,48,38.0,mae,91
+within_month,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,22,60,31.0,mae,91
+within_month,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,21,57,33.0,mae,91
+within_month,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,21,53,34.0,mae,91
+within_month,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,21,42,50.0,mae,91
+within_month,iod_lag_30,"IOD, lag 30 day(s)",IOD,19,50,42.0,mae,91
+within_month,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,19,51,46.0,mae,91
+within_month,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,18,55,36.0,mae,91
+within_month,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,18,51,40.0,mae,91
+within_month,iod_lag_0,"IOD, lag 0 day(s)",IOD,17,45,44.0,mae,91
+within_month,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,17,44,51.0,mae,91
+within_month,iod_lag_7,"IOD, lag 7 day(s)",IOD,16,55,36.0,mae,91
+within_month,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,16,55,39.0,mae,91
+within_month,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,16,48,44.0,mae,91
+within_month,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,16,31,63.0,mae,91
+within_month,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,15,46,47.0,mae,91
+within_month,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,14,46,43.0,mae,91
+within_month,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,13,46,45.0,mae,91
+within_month,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,13,46,46.0,mae,91
+within_month,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,13,43,47.0,mae,91
+within_month,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,13,27,67.0,mae,91
+within_month,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,12,44,43.0,mae,91
+within_month,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,11,50,45.0,mae,91
+within_month,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,10,55,40.0,mae,91
+within_month,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,10,36,55.0,mae,91
+within_month,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,10,22,66.0,mae,91
+within_month,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,10,24,69.0,mae,91
+within_month,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,9,49,42.0,mae,91
+within_month,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,9,52,44.0,mae,91
+within_month,iod_lag_3,"IOD, lag 3 day(s)",IOD,9,44,45.0,mae,91
+within_month,iod_lag_1,"IOD, lag 1 day(s)",IOD,9,44,47.0,mae,91
+within_month,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,9,39,50.0,mae,91
+within_month,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,8,41,47.0,mae,91
+within_month,doy_sin,Day-of-year sine,Calendar,8,35,49.0,mae,91
+within_month,iod_lag_14,"IOD, lag 14 day(s)",IOD,8,43,49.0,mae,91
+within_month,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,8,31,63.0,mae,91
+within_month,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,7,43,50.0,mae,91
+within_month,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,6,43,47.0,mae,91
+within_month,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,6,39,53.0,mae,91
+within_month,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,5,56,44.0,mae,91
+within_month,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,5,36,51.0,mae,91
+within_month,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,4,48,45.0,mae,91
+within_month,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,37,46.0,mae,91
+within_month,doy_cos,Day-of-year cosine,Calendar,3,43,49.0,mae,91
+within_month,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,3,31,52.0,mae,91
+within_month,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,2,62,41.0,mae,91
+within_month,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,2,42,48.0,mae,91
+within_month,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,1,38,54.0,mae,91
+within_month,month_cos,Month cosine,Calendar,0,3,45.0,mae,91
+within_month,month_sin,Month sine,Calendar,0,4,45.0,mae,91
+within_month,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,0,35,48.0,mae,91
+within_month,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,91,1.0,mae90,91
+within_month,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,82,85,3.0,mae90,91
+within_month,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,68,74,8.0,mae90,91
+within_month,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,60,78,13.0,mae90,91
+within_month,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,59,81,10.0,mae90,91
+within_month,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,56,77,15.0,mae90,91
+within_month,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,55,59,12.0,mae90,91
+within_month,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,55,63,13.0,mae90,91
+within_month,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,50,60,15.0,mae90,91
+within_month,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,50,66,17.0,mae90,91
+within_month,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,45,58,21.0,mae90,91
+within_month,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,45,59,22.0,mae90,91
+within_month,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,42,66,22.0,mae90,91
+within_month,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,42,54,23.0,mae90,91
+within_month,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,42,59,23.0,mae90,91
+within_month,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,38,57,25.0,mae90,91
+within_month,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,35,56,30.0,mae90,91
+within_month,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,34,67,29.0,mae90,91
+within_month,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,29,58,38.0,mae90,91
+within_month,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,28,54,37.0,mae90,91
+within_month,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,28,53,37.0,mae90,91
+within_month,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,26,60,30.0,mae90,91
+within_month,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,26,51,38.0,mae90,91
+within_month,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,26,49,43.0,mae90,91
+within_month,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,25,48,46.0,mae90,91
+within_month,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,23,47,40.0,mae90,91
+within_month,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,23,45,47.0,mae90,91
+within_month,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,22,51,39.0,mae90,91
+within_month,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,21,53,35.0,mae90,91
+within_month,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,21,52,39.0,mae90,91
+within_month,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,21,40,55.0,mae90,91
+within_month,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,20,38,58.0,mae90,91
+within_month,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,19,57,36.0,mae90,91
+within_month,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,19,48,37.0,mae90,91
+within_month,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,19,50,42.0,mae90,91
+within_month,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,19,46,47.0,mae90,91
+within_month,iod_lag_0,"IOD, lag 0 day(s)",IOD,19,42,50.0,mae90,91
+within_month,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,18,47,46.0,mae90,91
+within_month,iod_lag_30,"IOD, lag 30 day(s)",IOD,17,51,40.0,mae90,91
+within_month,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,17,51,41.0,mae90,91
+within_month,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,17,43,50.0,mae90,91
+within_month,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,16,48,46.0,mae90,91
+within_month,iod_lag_1,"IOD, lag 1 day(s)",IOD,16,37,52.0,mae90,91
+within_month,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,15,47,42.0,mae90,91
+within_month,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,15,49,45.0,mae90,91
+within_month,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,15,36,58.0,mae90,91
+within_month,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,15,35,58.0,mae90,91
+within_month,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,14,52,43.0,mae90,91
+within_month,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,14,40,47.0,mae90,91
+within_month,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,14,42,50.0,mae90,91
+within_month,iod_lag_7,"IOD, lag 7 day(s)",IOD,13,53,42.0,mae90,91
+within_month,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,13,45,44.0,mae90,91
+within_month,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,12,48,43.0,mae90,91
+within_month,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,12,49,45.0,mae90,91
+within_month,doy_sin,Day-of-year sine,Calendar,11,48,44.0,mae90,91
+within_month,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,11,47,44.0,mae90,91
+within_month,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,11,49,44.0,mae90,91
+within_month,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,11,42,47.0,mae90,91
+within_month,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,10,50,43.0,mae90,91
+within_month,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,10,45,45.0,mae90,91
+within_month,iod_lag_3,"IOD, lag 3 day(s)",IOD,10,48,46.0,mae90,91
+within_month,iod_lag_14,"IOD, lag 14 day(s)",IOD,10,38,51.0,mae90,91
+within_month,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,9,55,40.0,mae90,91
+within_month,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,9,48,46.0,mae90,91
+within_month,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,9,42,50.0,mae90,91
+within_month,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,9,35,53.0,mae90,91
+within_month,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,9,38,53.0,mae90,91
+within_month,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,8,49,46.0,mae90,91
+within_month,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,7,47,44.0,mae90,91
+within_month,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,6,53,42.0,mae90,91
+within_month,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,6,46,47.0,mae90,91
+within_month,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,6,39,47.0,mae90,91
+within_month,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,5,47,43.0,mae90,91
+within_month,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,5,45,49.0,mae90,91
+within_month,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,4,41,47.0,mae90,91
+within_month,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,34,51.0,mae90,91
+within_month,doy_cos,Day-of-year cosine,Calendar,3,55,43.0,mae90,91
+within_month,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,2,44,49.0,mae90,91
+within_month,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,1,33,49.0,mae90,91
+within_month,month_cos,Month cosine,Calendar,0,7,45.0,mae90,91
+within_month,month_sin,Month sine,Calendar,0,7,45.0,mae90,91
+within_month,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,86,88,1.0,r2,91
+within_month,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,85,87,2.0,r2,91
+within_month,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,64,77,11.0,r2,91
+within_month,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,61,68,9.0,r2,91
+within_month,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,59,72,15.0,r2,91
+within_month,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,56,67,12.0,r2,91
+within_month,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,54,61,15.0,r2,91
+within_month,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,53,71,16.0,r2,91
+within_month,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,50,58,17.0,r2,91
+within_month,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,49,75,17.0,r2,91
+within_month,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,46,60,20.0,r2,91
+within_month,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,42,57,24.0,r2,91
+within_month,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,42,61,26.0,r2,91
+within_month,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,40,59,24.0,r2,91
+within_month,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,38,59,27.0,r2,91
+within_month,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,34,63,30.0,r2,91
+within_month,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,33,63,27.0,r2,91
+within_month,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,33,46,44.0,r2,91
+within_month,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,32,50,32.0,r2,91
+within_month,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,32,49,35.0,r2,91
+within_month,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,48,43.0,r2,91
+within_month,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,30,52,30.0,r2,91
+within_month,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,27,62,28.0,r2,91
+within_month,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,27,48,36.0,r2,91
+within_month,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,27,48,40.0,r2,91
+within_month,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,27,47,43.0,r2,91
+within_month,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,26,52,31.0,r2,91
+within_month,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,26,46,44.0,r2,91
+within_month,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,23,52,40.0,r2,91
+within_month,iod_lag_0,"IOD, lag 0 day(s)",IOD,23,39,46.0,r2,91
+within_month,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,22,47,43.0,r2,91
+within_month,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,22,40,47.0,r2,91
+within_month,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,21,47,43.0,r2,91
+within_month,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,21,46,48.0,r2,91
+within_month,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,20,48,38.0,r2,91
+within_month,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,20,50,43.0,r2,91
+within_month,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,20,48,44.0,r2,91
+within_month,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,19,45,42.0,r2,91
+within_month,iod_lag_30,"IOD, lag 30 day(s)",IOD,18,48,41.0,r2,91
+within_month,iod_lag_7,"IOD, lag 7 day(s)",IOD,17,54,37.0,r2,91
+within_month,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,17,36,48.0,r2,91
+within_month,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,16,50,39.0,r2,91
+within_month,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,16,45,43.0,r2,91
+within_month,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,16,33,66.0,r2,91
+within_month,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,15,57,38.0,r2,91
+within_month,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,15,43,46.0,r2,91
+within_month,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,14,34,49.0,r2,91
+within_month,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,14,43,51.0,r2,91
+within_month,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,14,38,51.0,r2,91
+within_month,iod_lag_3,"IOD, lag 3 day(s)",IOD,13,44,47.0,r2,91
+within_month,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,36,55.0,r2,91
+within_month,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,12,51,41.0,r2,91
+within_month,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,12,41,49.0,r2,91
+within_month,iod_lag_14,"IOD, lag 14 day(s)",IOD,12,35,50.0,r2,91
+within_month,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,11,46,42.0,r2,91
+within_month,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,11,40,47.0,r2,91
+within_month,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,11,27,66.0,r2,91
+within_month,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,10,40,45.0,r2,91
+within_month,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,10,34,50.0,r2,91
+within_month,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,9,42,50.0,r2,91
+within_month,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,8,40,50.0,r2,91
+within_month,iod_lag_1,"IOD, lag 1 day(s)",IOD,8,39,51.0,r2,91
+within_month,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,8,38,55.0,r2,91
+within_month,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,8,30,57.0,r2,91
+within_month,doy_sin,Day-of-year sine,Calendar,7,51,45.0,r2,91
+within_month,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,7,39,48.0,r2,91
+within_month,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,6,47,42.0,r2,91
+within_month,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,6,37,55.0,r2,91
+within_month,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,5,48,42.0,r2,91
+within_month,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,5,50,43.0,r2,91
+within_month,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,5,43,45.0,r2,91
+within_month,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,5,44,45.0,r2,91
+within_month,doy_cos,Day-of-year cosine,Calendar,5,46,46.0,r2,91
+within_month,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,4,46,43.0,r2,91
+within_month,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,42,45.0,r2,91
+within_month,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,3,36,46.0,r2,91
+within_month,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,2,38,44.0,r2,91
+within_month,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,1,24,51.0,r2,91
+within_month,month_cos,Month cosine,Calendar,0,5,44.0,r2,91
+within_month,month_sin,Month sine,Calendar,0,4,44.0,r2,91
+within_month,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,0,36,51.0,r2,91
+within_month,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,86,88,1.0,rmse,91
+within_month,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,85,87,2.0,rmse,91
+within_month,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,64,77,11.0,rmse,91
+within_month,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,61,68,9.0,rmse,91
+within_month,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,59,72,15.0,rmse,91
+within_month,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,56,67,12.0,rmse,91
+within_month,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,54,61,15.0,rmse,91
+within_month,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,53,71,16.0,rmse,91
+within_month,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,50,58,17.0,rmse,91
+within_month,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,49,75,17.0,rmse,91
+within_month,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,46,60,20.0,rmse,91
+within_month,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,42,57,24.0,rmse,91
+within_month,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,42,61,26.0,rmse,91
+within_month,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,40,59,24.0,rmse,91
+within_month,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,38,59,27.0,rmse,91
+within_month,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,34,63,30.0,rmse,91
+within_month,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,33,63,27.0,rmse,91
+within_month,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,33,46,44.0,rmse,91
+within_month,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,32,50,33.0,rmse,91
+within_month,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,32,49,35.0,rmse,91
+within_month,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,32,48,43.0,rmse,91
+within_month,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,30,52,30.0,rmse,91
+within_month,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,27,61,28.0,rmse,91
+within_month,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,27,48,36.0,rmse,91
+within_month,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,27,48,40.0,rmse,91
+within_month,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,27,47,43.0,rmse,91
+within_month,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,27,46,43.0,rmse,91
+within_month,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,26,52,31.0,rmse,91
+within_month,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,23,52,40.0,rmse,91
+within_month,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,22,47,43.0,rmse,91
+within_month,iod_lag_0,"IOD, lag 0 day(s)",IOD,22,39,46.0,rmse,91
+within_month,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,22,40,47.0,rmse,91
+within_month,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,21,47,43.0,rmse,91
+within_month,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,21,46,47.0,rmse,91
+within_month,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,20,48,38.0,rmse,91
+within_month,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,20,50,43.0,rmse,91
+within_month,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,20,48,44.0,rmse,91
+within_month,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,19,45,42.0,rmse,91
+within_month,iod_lag_30,"IOD, lag 30 day(s)",IOD,18,48,41.0,rmse,91
+within_month,iod_lag_7,"IOD, lag 7 day(s)",IOD,17,54,37.0,rmse,91
+within_month,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,17,50,39.0,rmse,91
+within_month,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,17,36,48.0,rmse,91
+within_month,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,16,45,43.0,rmse,91
+within_month,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,16,33,66.0,rmse,91
+within_month,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,15,57,38.0,rmse,91
+within_month,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,15,43,46.0,rmse,91
+within_month,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,14,34,49.0,rmse,91
+within_month,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,14,43,51.0,rmse,91
+within_month,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,14,38,51.0,rmse,91
+within_month,iod_lag_3,"IOD, lag 3 day(s)",IOD,13,44,47.0,rmse,91
+within_month,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,13,36,54.0,rmse,91
+within_month,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,12,51,41.0,rmse,91
+within_month,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,12,41,49.0,rmse,91
+within_month,iod_lag_14,"IOD, lag 14 day(s)",IOD,12,35,50.0,rmse,91
+within_month,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,11,46,42.0,rmse,91
+within_month,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,11,40,47.0,rmse,91
+within_month,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,11,27,66.0,rmse,91
+within_month,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,10,40,45.0,rmse,91
+within_month,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,10,34,50.0,rmse,91
+within_month,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,9,42,50.0,rmse,91
+within_month,iod_lag_1,"IOD, lag 1 day(s)",IOD,8,39,51.0,rmse,91
+within_month,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,8,40,51.0,rmse,91
+within_month,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,8,38,55.0,rmse,91
+within_month,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,8,30,57.0,rmse,91
+within_month,doy_sin,Day-of-year sine,Calendar,7,51,44.0,rmse,91
+within_month,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,7,39,48.0,rmse,91
+within_month,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,6,47,42.0,rmse,91
+within_month,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,6,37,55.0,rmse,91
+within_month,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,5,48,42.0,rmse,91
+within_month,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,5,50,43.0,rmse,91
+within_month,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,5,43,45.0,rmse,91
+within_month,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,5,44,45.0,rmse,91
+within_month,doy_cos,Day-of-year cosine,Calendar,5,46,46.0,rmse,91
+within_month,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,4,46,43.0,rmse,91
+within_month,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,4,42,45.0,rmse,91
+within_month,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,3,36,46.0,rmse,91
+within_month,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,2,38,44.0,rmse,91
+within_month,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,1,24,51.0,rmse,91
+within_month,month_cos,Month cosine,Calendar,0,4,44.0,rmse,91
+within_month,month_sin,Month sine,Calendar,0,4,44.0,rmse,91
+within_month,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,0,36,51.0,rmse,91
+within_month,y_lag_2,"Log hotspot count, lag 2 day(s)",Hotspot history,89,91,1.0,rmse90,91
+within_month,y_lag_7,"Log hotspot count, lag 7 day(s)",Hotspot history,85,87,3.0,rmse90,91
+within_month,hth_lag_0,"Dry-spell duration (DS), lag 0 day(s)",Dry-spell duration,65,76,8.0,rmse90,91
+within_month,evap_lag_0,"Signed evaporation, lag 0 day(s)",Signed evaporation,64,78,10.0,rmse90,91
+within_month,y_lag_14,"Log hotspot count, lag 14 day(s)",Hotspot history,60,71,8.0,rmse90,91
+within_month,rain_lag_1,"Rainfall, lag 1 day(s)",Rainfall,58,81,9.0,rmse90,91
+within_month,rain_lag_0,"Rainfall, lag 0 day(s)",Rainfall,57,84,15.0,rmse90,91
+within_month,wind_lag_0,"Wind speed, lag 0 day(s)",Wind speed,55,73,13.0,rmse90,91
+within_month,y_rollmean_3,Previous 3-day log hotspot mean,Hotspot history,53,65,16.0,rmse90,91
+within_month,y_rollsum_3,Previous 3-day log hotspot sum,Hotspot history,52,65,16.0,rmse90,91
+within_month,rain_rollsum_3,"Rainfall, 3-day sum through target day",Rainfall,51,76,18.0,rmse90,91
+within_month,y_rollstd_3,Previous 3-day log hotspot std,Hotspot history,50,67,17.0,rmse90,91
+within_month,y_lag_3,"Log hotspot count, lag 3 day(s)",Hotspot history,46,60,20.0,rmse90,91
+within_month,y_lag_30,"Log hotspot count, lag 30 day(s)",Hotspot history,43,62,22.0,rmse90,91
+within_month,y_lag_1,"Log hotspot count, lag 1 day(s)",Hotspot history,43,53,26.0,rmse90,91
+within_month,y_lag_21,"Log hotspot count, lag 21 day(s)",Hotspot history,36,51,31.0,rmse90,91
+within_month,hth_lag_7,"Dry-spell duration (DS), lag 7 day(s)",Dry-spell duration,35,65,32.0,rmse90,91
+within_month,hth_lag_1,"Dry-spell duration (DS), lag 1 day(s)",Dry-spell duration,34,62,31.0,rmse90,91
+within_month,romi1_lag_1,"ROMI1, lag 1 day(s)",ROMI1,33,60,28.0,rmse90,91
+within_month,y_rollmean_7,Previous 7-day log hotspot mean,Hotspot history,33,50,37.0,rmse90,91
+within_month,evap_lag_1,"Signed evaporation, lag 1 day(s)",Signed evaporation,32,54,31.0,rmse90,91
+within_month,wind_lag_1,"Wind speed, lag 1 day(s)",Wind speed,31,52,40.0,rmse90,91
+within_month,y_rollsum_7,Previous 7-day log hotspot sum,Hotspot history,30,51,35.0,rmse90,91
+within_month,evap_lag_30,"Signed evaporation, lag 30 day(s)",Signed evaporation,30,51,40.0,rmse90,91
+within_month,romi1_lag_0,"ROMI1, lag 0 day(s)",ROMI1,29,59,31.0,rmse90,91
+within_month,evap_lag_3,"Signed evaporation, lag 3 day(s)",Signed evaporation,29,56,39.0,rmse90,91
+within_month,hth_lag_3,"Dry-spell duration (DS), lag 3 day(s)",Dry-spell duration,26,57,35.0,rmse90,91
+within_month,evap_lag_7,"Signed evaporation, lag 7 day(s)",Signed evaporation,26,47,47.0,rmse90,91
+within_month,romi2_lag_7,"ROMI2, lag 7 day(s)",ROMI2,24,57,39.0,rmse90,91
+within_month,romi1_lag_3,"ROMI1, lag 3 day(s)",ROMI1,20,55,33.0,rmse90,91
+within_month,romi1_lag_7,"ROMI1, lag 7 day(s)",ROMI1,20,50,37.0,rmse90,91
+within_month,iod_lag_3,"IOD, lag 3 day(s)",IOD,19,48,43.0,rmse90,91
+within_month,iod_lag_0,"IOD, lag 0 day(s)",IOD,19,42,50.0,rmse90,91
+within_month,wind_lag_3,"Wind speed, lag 3 day(s)",Wind speed,18,45,45.0,rmse90,91
+within_month,romi1_lag_14,"ROMI1, lag 14 day(s)",ROMI1,18,46,46.0,rmse90,91
+within_month,rain_rollsum_7,"Rainfall, 7-day sum through target day",Rainfall,17,52,38.0,rmse90,91
+within_month,romi2_lag_14,"ROMI2, lag 14 day(s)",ROMI2,17,49,42.0,rmse90,91
+within_month,romi2_lag_0,"ROMI2, lag 0 day(s)",ROMI2,17,46,48.0,rmse90,91
+within_month,iod_lag_30,"IOD, lag 30 day(s)",IOD,16,47,45.0,rmse90,91
+within_month,hth_lag_14,"Dry-spell duration (DS), lag 14 day(s)",Dry-spell duration,15,45,46.0,rmse90,91
+within_month,y_rollstd_14,Previous 14-day log hotspot std,Hotspot history,15,33,64.0,rmse90,91
+within_month,rain_lag_3,"Rainfall, lag 3 day(s)",Rainfall,14,50,42.0,rmse90,91
+within_month,romi2_lag_3,"ROMI2, lag 3 day(s)",ROMI2,14,48,43.0,rmse90,91
+within_month,mjo_amp_lag_0,"MJO amplitude, lag 0 day(s)",MJO amplitude,14,50,45.0,rmse90,91
+within_month,rain_lag_30,"Rainfall, lag 30 day(s)",Rainfall,14,45,46.0,rmse90,91
+within_month,y_rollsum_14,Previous 14-day log hotspot sum,Hotspot history,14,45,47.0,rmse90,91
+within_month,y_rollmean_14,Previous 14-day log hotspot mean,Hotspot history,14,42,54.0,rmse90,91
+within_month,y_rollstd_7,Previous 7-day log hotspot std,Hotspot history,14,30,70.0,rmse90,91
+within_month,wind_lag_14,"Wind speed, lag 14 day(s)",Wind speed,13,45,51.0,rmse90,91
+within_month,iod_lag_14,"IOD, lag 14 day(s)",IOD,13,41,52.0,rmse90,91
+within_month,wind_lag_30,"Wind speed, lag 30 day(s)",Wind speed,13,40,54.0,rmse90,91
+within_month,evap_lag_14,"Signed evaporation, lag 14 day(s)",Signed evaporation,13,36,58.0,rmse90,91
+within_month,rain_lag_7,"Rainfall, lag 7 day(s)",Rainfall,12,54,41.0,rmse90,91
+within_month,iod_lag_7,"IOD, lag 7 day(s)",IOD,12,51,44.0,rmse90,91
+within_month,doy_sin,Day-of-year sine,Calendar,9,56,44.0,rmse90,91
+within_month,romi2_lag_1,"ROMI2, lag 1 day(s)",ROMI2,9,48,44.0,rmse90,91
+within_month,y_rollmean_30,Previous 30-day log hotspot mean,Hotspot history,8,54,43.0,rmse90,91
+within_month,mjo_amp_lag_1,"MJO amplitude, lag 1 day(s)",MJO amplitude,8,43,49.0,rmse90,91
+within_month,iod_lag_1,"IOD, lag 1 day(s)",IOD,8,37,50.0,rmse90,91
+within_month,y_rollstd_30,Previous 30-day log hotspot std,Hotspot history,8,41,54.0,rmse90,91
+within_month,rain_lag_14,"Rainfall, lag 14 day(s)",Rainfall,7,44,45.0,rmse90,91
+within_month,mjo_amp_lag_3,"MJO amplitude, lag 3 day(s)",MJO amplitude,7,46,47.0,rmse90,91
+within_month,hth_lag_30,"Dry-spell duration (DS), lag 30 day(s)",Dry-spell duration,7,31,56.0,rmse90,91
+within_month,wind_lag_7,"Wind speed, lag 7 day(s)",Wind speed,7,34,57.0,rmse90,91
+within_month,doy_cos,Day-of-year cosine,Calendar,6,57,43.0,rmse90,91
+within_month,y_rollsum_30,Previous 30-day log hotspot sum,Hotspot history,6,54,44.0,rmse90,91
+within_month,nino_lag_7,"Nino 3.4, lag 7 day(s)",Nino 3.4,5,49,45.0,rmse90,91
+within_month,y_rollsum_60,Previous 60-day log hotspot sum,Hotspot history,5,47,45.0,rmse90,91
+within_month,nino_lag_14,"Nino 3.4, lag 14 day(s)",Nino 3.4,5,41,48.0,rmse90,91
+within_month,y_rollmean_60,Previous 60-day log hotspot mean,Hotspot history,5,44,48.0,rmse90,91
+within_month,mjo_amp_lag_7,"MJO amplitude, lag 7 day(s)",MJO amplitude,5,35,55.0,rmse90,91
+within_month,rain_rollsum_14,"Rainfall, 14-day sum through target day",Rainfall,4,51,42.0,rmse90,91
+within_month,nino_lag_0,"Nino 3.4, lag 0 day(s)",Nino 3.4,4,34,49.0,rmse90,91
+within_month,y_rollstd_60,Previous 60-day log hotspot std,Hotspot history,4,37,50.0,rmse90,91
+within_month,nino_lag_1,"Nino 3.4, lag 1 day(s)",Nino 3.4,3,38,46.0,rmse90,91
+within_month,rain_rollsum_30,"Rainfall, 30-day sum through target day",Rainfall,2,43,45.0,rmse90,91
+within_month,mjo_amp_lag_14,"MJO amplitude, lag 14 day(s)",MJO amplitude,2,30,59.0,rmse90,91
+within_month,nino_lag_30,"Nino 3.4, lag 30 day(s)",Nino 3.4,1,46,45.0,rmse90,91
+within_month,nino_lag_3,"Nino 3.4, lag 3 day(s)",Nino 3.4,1,34,51.0,rmse90,91
+within_month,month_cos,Month cosine,Calendar,0,4,46.0,rmse90,91
+within_month,month_sin,Month sine,Calendar,0,3,46.0,rmse90,91

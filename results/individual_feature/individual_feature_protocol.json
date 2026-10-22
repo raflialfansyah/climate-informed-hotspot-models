@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "scope": "91 main S5 frozen region-procedure bundles, all 81 features, all retained seeds",
+  "score_dates": [
+    "2019-01-01",
+    "2025-12-31"
+  ],
+  "n": 2557,
+  "repeats": 10,
+  "settings": [
+    {
+      "name": "block_30",
+      "block_days": 30,
+      "seed": 20261018
+    },
+    {
+      "name": "block_7",
+      "block_days": 7,
+      "seed": 20261025
+    },
+    {
+      "name": "block_90",
+      "block_days": 90,
+      "seed": 20261108
+    },
+    {
+      "name": "within_month",
+      "block_days": null,
+      "seed": 20261118
+    }
+  ],
+  "perturbation_unit": "one already engineered column; outcomes and other columns unchanged",
+  "block_rule": "Partition each calendar year into consecutive fixed-length chunks, retain final short chunk, randomly reorder chunks; reject identity orders",
+  "month_rule": "Independently permute individual dates inside each year-month; preserves the monthly marginal distribution but destroys within-month serial order",
+  "shared_maps": "Same maps for every feature, model and region; independent setting RNG seeds",
+  "score": "Unweighted count-scale RMSE, MAE, RMSE90, MAE90; baseline R2 minus perturbed R2",
+  "high_days": "Observed count at least original fitting-only saved threshold, identical target rows before/after perturbation",
+  "fixed": "Original scaler, fitted weights, per-seed inversion and equal count-scale seed average; zero estimator fits",
+  "rationale": "Ten repeats improve Monte Carlo assessment relative to three; 7/30/90-day blocks vary retained local order and displacement; within-month shuffling probes the contribution of disrupting seasonal timing",
+  "inference_limits": [
+    "Post hoc reliance on an already exposed retrospective record, not independent confirmation or a selection exercise",
+    "Correlated engineered columns remain unchanged, creating potentially inconsistent inputs and masking/substitution effects",
+    "No permutation scheme fully preserves dependence; within-month and block settings have different intervention strengths",
+    "Repeat SD/SE and prefix stability describe Monte Carlo variation conditional on dates and models, not population confidence intervals",
+    "No guarantee that ten repeats are sufficient: compare first 3/5 with all 10 and report unstable rankings",
+    "Inherited predictor calendar/unit provenance qualifications remain unresolved"
+  ],
+  "comparisons": [
+    "Pilot 735 dates/3 repeats versus full 2557 dates/first 3 identical block_30 maps",
+    "Full block_30 first 3/5 versus 10 repeats",
+    "All six pairs of perturbation settings on the full record, same 10-repeat count"
+  ],
+  "ordering": "All settings reported; block_30 retained as reference from the pilot, not selected using the new results",
+  "expected_scores": 294840
+}

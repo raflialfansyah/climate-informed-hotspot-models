@@ -1,0 +1,365 @@
+setting,unit,model,spearman_all81,top20_positive_jaccard,top20_a,top20_b,positive_leaders_overlap,leaders_a,leaders_b,changed_sign_count
+block_30,Kalimantan,BayesianRidge,0.9172086720867209,0.9047619047619048,20,20,True,hth_lag_1,hth_lag_1,11
+block_7,Kalimantan,BayesianRidge,0.9749096657633244,0.8181818181818182,20,20,True,hth_lag_1,hth_lag_1,7
+block_90,Kalimantan,BayesianRidge,0.9691056910569105,0.7391304347826086,20,20,True,hth_lag_1,hth_lag_1,8
+within_month,Kalimantan,BayesianRidge,0.9787712146704457,0.7391304347826086,20,20,True,hth_lag_1,hth_lag_1,5
+block_30,Kalimantan,ExtraTrees,0.9514679313459801,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,10
+block_7,Kalimantan,ExtraTrees,0.9787037037037036,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,6
+block_90,Kalimantan,ExtraTrees,0.9525067750677506,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,9
+within_month,Kalimantan,ExtraTrees,0.876331033548256,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,14
+block_30,Kalimantan,KNN,0.8479093034022516,0.7391304347826086,20,20,True,hth_lag_0,hth_lag_0,13
+block_7,Kalimantan,KNN,0.8405243961652684,0.6,20,20,True,hth_lag_30,hth_lag_30,21
+block_90,Kalimantan,KNN,0.8021387355036869,0.6666666666666666,20,20,True,hth_lag_0,hth_lag_0,16
+within_month,Kalimantan,KNN,0.7271628848163342,0.48148148148148145,20,20,False,y_lag_7,hth_lag_30,13
+block_30,Kalimantan,LightGBM,0.9087398373983739,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,9
+block_7,Kalimantan,LightGBM,0.9711833785004517,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,4
+block_90,Kalimantan,LightGBM,0.9169150858175248,0.6666666666666666,20,20,False,y_lag_2,hth_lag_0,8
+within_month,Kalimantan,LightGBM,0.8793798484626069,0.6,20,20,True,y_lag_7,y_lag_7,11
+block_30,Kalimantan,MLP_Model_1,0.8623757904245709,0.6,20,20,False,hth_lag_0,y_lag_2,15
+block_7,Kalimantan,MLP_Model_1,0.9269873532068653,0.6,20,20,False,hth_lag_0,y_lag_7,12
+block_90,Kalimantan,MLP_Model_1,0.9161020776874435,0.6666666666666666,20,20,False,y_lag_2,hth_lag_0,9
+within_month,Kalimantan,MLP_Model_1,0.7833986381960051,0.6,20,20,False,y_lag_7,y_lag_2,19
+block_30,Kalimantan,MLP_Model_2,0.8046973803071364,0.6,20,20,True,y_lag_1,y_lag_1,17
+block_7,Kalimantan,MLP_Model_2,0.9333107497741643,0.7391304347826086,20,20,True,y_lag_1,y_lag_1,11
+block_90,Kalimantan,MLP_Model_2,0.8544037940379403,0.8181818181818182,20,20,True,y_lag_1,y_lag_1,11
+within_month,Kalimantan,MLP_Model_2,0.9409884935466752,0.8181818181818182,20,20,True,hth_lag_0,hth_lag_0,9
+block_30,Kalimantan,MLP_Model_3,0.8925700090334235,0.8181818181818182,20,20,True,hth_lag_0,hth_lag_0,10
+block_7,Kalimantan,MLP_Model_3,0.9718383017163505,0.9047619047619048,20,20,True,hth_lag_0,hth_lag_0,4
+block_90,Kalimantan,MLP_Model_3,0.9105239385727191,0.6666666666666666,20,20,True,hth_lag_0,hth_lag_0,4
+within_month,Kalimantan,MLP_Model_3,0.865603721812577,0.6,20,20,True,y_lag_7,y_lag_7,11
+block_30,Kalimantan,MLP_Model_4,0.8685636856368564,0.8181818181818182,20,20,True,y_lag_1,y_lag_1,14
+block_7,Kalimantan,MLP_Model_4,0.9325880758807588,0.7391304347826086,20,20,True,y_lag_1,y_lag_1,7
+block_90,Kalimantan,MLP_Model_4,0.9267389340560073,0.6666666666666666,20,20,True,y_lag_1,y_lag_1,6
+within_month,Kalimantan,MLP_Model_4,0.8771892184871104,0.6,20,20,True,hth_lag_0,hth_lag_0,11
+block_30,Kalimantan,Poisson,0.839853431886872,0.8181818181818182,20,20,True,hth_lag_3,hth_lag_3,15
+block_7,Kalimantan,Poisson,0.9574015210265567,0.8181818181818182,20,20,True,hth_lag_3,hth_lag_3,8
+block_90,Kalimantan,Poisson,0.8613805485608464,0.8181818181818182,20,20,True,hth_lag_3,hth_lag_3,11
+within_month,Kalimantan,Poisson,0.9427155085404207,0.8181818181818182,20,20,True,hth_lag_3,hth_lag_3,8
+block_30,Kalimantan,RandomForest,0.9039069557362239,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,13
+block_7,Kalimantan,RandomForest,0.9783875338753387,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,6
+block_90,Kalimantan,RandomForest,0.9221996386630532,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,9
+within_month,Kalimantan,RandomForest,0.7743876963380346,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,12
+block_30,Kalimantan,SVM_RBF,0.8000225835591689,0.5384615384615384,20,20,True,hth_lag_0,hth_lag_0,12
+block_7,Kalimantan,SVM_RBF,0.7460407974418671,0.48148148148148145,20,20,True,hth_lag_0,hth_lag_0,19
+block_90,Kalimantan,SVM_RBF,0.7088195938391063,0.5769230769230769,20,21,True,hth_lag_0,hth_lag_0,26
+within_month,Kalimantan,SVM_RBF,0.8843658783218997,0.8181818181818182,20,20,True,hth_lag_0,hth_lag_0,17
+block_30,Kalimantan,Tweedie,0.9050657211833206,0.7391304347826086,20,20,True,hth_lag_3,hth_lag_3,13
+block_7,Kalimantan,Tweedie,0.960844649094726,0.6666666666666666,20,20,False,hth_lag_3,y_lag_3,6
+block_90,Kalimantan,Tweedie,0.9503709475253228,0.8181818181818182,20,20,True,hth_lag_3,hth_lag_3,8
+within_month,Kalimantan,Tweedie,0.9196788509682191,0.8181818181818182,20,20,True,y_rollstd_14,y_rollstd_14,6
+block_30,Kalimantan,XGBoost,0.8915311653116531,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+block_7,Kalimantan,XGBoost,0.98340108401084,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,4
+block_90,Kalimantan,XGBoost,0.8671183378500451,0.7391304347826086,20,20,False,y_lag_2,hth_lag_0,13
+within_month,Kalimantan,XGBoost,0.8807348773134296,0.6,20,20,True,y_lag_7,y_lag_7,10
+block_30,National,BayesianRidge,0.9420280036133695,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,14
+block_7,National,BayesianRidge,0.9670054200542005,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,6
+block_90,National,BayesianRidge,0.9590785907859077,0.8181818181818182,20,20,False,hth_lag_0,y_lag_2,5
+within_month,National,BayesianRidge,0.5012816314547365,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,30
+block_30,National,ExtraTrees,0.9324525745257454,0.8181818181818182,20,20,True,y_rollmean_3,y_rollmean_3,11
+block_7,National,ExtraTrees,0.9850496838301716,0.9047619047619048,20,20,True,y_rollmean_3,y_rollmean_3,2
+block_90,National,ExtraTrees,0.9470189701897019,0.9047619047619048,20,20,True,y_rollmean_3,y_rollmean_3,9
+within_month,National,ExtraTrees,0.8601836064092866,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,15
+block_30,National,KNN,0.9094892078293294,0.5384615384615384,20,20,True,hth_lag_1,hth_lag_1,13
+block_7,National,KNN,0.9586937374987331,0.7391304347826086,20,20,True,hth_lag_1,hth_lag_1,9
+block_90,National,KNN,0.9043615731190319,0.6666666666666666,20,20,False,hth_lag_1,hth_lag_0,6
+within_month,National,KNN,0.8887684412140504,0.6666666666666666,20,20,False,evap_lag_0,evap_lag_3,11
+block_30,National,LightGBM,0.8100948509485095,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,20
+block_7,National,LightGBM,0.9507904245709123,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,7
+block_90,National,LightGBM,0.8915311653116531,0.8181818181818182,20,20,True,y_rollmean_3,y_rollmean_3,15
+within_month,National,LightGBM,0.9278221298795155,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,8
+block_30,National,MLP_Model_1,0.5612691960252936,0.3333333333333333,20,20,False,hth_lag_1,hth_lag_30,23
+block_7,National,MLP_Model_1,0.8931120144534779,0.48148148148148145,20,20,True,hth_lag_1,hth_lag_1,11
+block_90,National,MLP_Model_1,0.8447380307136404,0.6666666666666666,20,20,True,hth_lag_1,hth_lag_1,18
+within_month,National,MLP_Model_1,0.89514335076051,0.6666666666666666,20,20,True,wind_lag_0,wind_lag_0,7
+block_30,National,MLP_Model_2,0.8170505871725383,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,17
+block_7,National,MLP_Model_2,0.9657181571815717,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,3
+block_90,National,MLP_Model_2,0.9400406504065039,0.6666666666666666,20,20,False,hth_lag_0,y_lag_2,8
+within_month,National,MLP_Model_2,0.9323614765297711,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,10
+block_30,National,MLP_Model_3,0.7822944896115628,0.6,20,20,False,y_lag_2,hth_lag_14,14
+block_7,National,MLP_Model_3,0.9098012646793134,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,12
+block_90,National,MLP_Model_3,0.9589882565492321,0.8181818181818182,20,20,False,hth_lag_14,y_lag_2,6
+within_month,National,MLP_Model_3,0.7947808805429148,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,9
+block_30,National,MLP_Model_4,0.9377597109304427,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,12
+block_7,National,MLP_Model_4,0.9786811201445348,0.8181818181818182,20,20,False,hth_lag_0,y_lag_2,9
+block_90,National,MLP_Model_4,0.9666666666666668,0.7391304347826086,20,20,False,hth_lag_0,y_lag_2,6
+within_month,National,MLP_Model_4,0.9207985636694181,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,8
+block_30,National,Poisson,0.8982373333032218,0.9047619047619048,20,20,False,hth_lag_3,y_lag_2,15
+block_7,National,Poisson,0.9704377872378867,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,7
+block_90,National,Poisson,0.9670731707317072,0.8181818181818182,20,20,False,hth_lag_3,y_lag_2,7
+within_month,National,Poisson,0.5878765978964636,0.6,20,20,True,y_lag_2,y_lag_2,22
+block_30,National,RandomForest,0.9539747064137307,0.9047619047619048,20,20,True,y_rollmean_3,y_rollmean_3,6
+block_7,National,RandomForest,0.9811878952122853,0.9047619047619048,20,20,True,y_rollmean_3,y_rollmean_3,7
+block_90,National,RandomForest,0.9467253839205059,0.9047619047619048,20,20,True,y_rollmean_3,y_rollmean_3,11
+within_month,National,RandomForest,0.9067288474350435,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,14
+block_30,National,SVM_RBF,0.8827913279132791,0.6666666666666666,20,20,True,hth_lag_0,hth_lag_0,9
+block_7,National,SVM_RBF,0.9466065187962456,0.7391304347826086,20,20,True,hth_lag_0,hth_lag_0,5
+block_90,National,SVM_RBF,0.8900858175248418,0.7391304347826086,20,20,True,hth_lag_0,hth_lag_0,9
+within_month,National,SVM_RBF,0.9089882565492321,0.6666666666666666,20,20,True,hth_lag_0,hth_lag_0,7
+block_30,National,Tweedie,0.9132690798571419,0.64,21,20,True,y_lag_2,y_lag_2,9
+block_7,National,Tweedie,0.8956755932862928,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,8
+block_90,National,Tweedie,0.9515619971582342,0.64,20,21,True,y_lag_2,y_lag_2,5
+within_month,National,Tweedie,0.4133974749870137,0.42857142857142855,20,20,True,y_lag_2,y_lag_2,25
+block_30,National,XGBoost,0.7882565492321589,0.6666666666666666,20,20,False,y_rollmean_3,y_lag_2,18
+block_7,National,XGBoost,0.9585591689250225,1.0,20,20,True,y_rollmean_3,y_rollmean_3,3
+block_90,National,XGBoost,0.93193315266486,0.8181818181818182,20,20,True,y_rollmean_3,y_rollmean_3,9
+within_month,National,XGBoost,0.9240506329113924,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,7
+block_30,North Sumatra,BayesianRidge,0.7765061907654857,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,19
+block_7,North Sumatra,BayesianRidge,0.9535456187895213,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,5
+block_90,North Sumatra,BayesianRidge,0.7651917637416658,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,13
+within_month,North Sumatra,BayesianRidge,0.8149867037173207,0.6666666666666666,20,20,False,hth_lag_0,y_lag_2,13
+block_30,North Sumatra,ExtraTrees,0.8084688346883468,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,10
+block_7,North Sumatra,ExtraTrees,0.7480352303523035,0.3793103448275862,20,20,True,y_lag_2,y_lag_2,15
+block_90,North Sumatra,ExtraTrees,0.5474932249322493,0.42857142857142855,20,20,True,y_lag_2,y_lag_2,22
+within_month,North Sumatra,ExtraTrees,0.8531826240133699,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,13
+block_30,North Sumatra,KNN,0.6930977048920567,0.10714285714285714,19,12,False,mjo_amp_lag_1,y_lag_3,25
+block_7,North Sumatra,KNN,0.7534737710904557,0.38095238095238093,13,16,True,iod_lag_7,iod_lag_7,13
+block_90,North Sumatra,KNN,0.6105706526439261,0.375,15,18,True,romi2_lag_14,romi2_lag_14,15
+within_month,North Sumatra,KNN,0.8511693036035898,0.55,17,14,True,wind_lag_14,wind_lag_14,9
+block_30,North Sumatra,LightGBM,0.9255194218608852,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,7
+block_7,North Sumatra,LightGBM,0.9081752484191508,0.6,20,20,True,y_lag_2,y_lag_2,9
+block_90,North Sumatra,LightGBM,0.7122177055103884,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,14
+within_month,North Sumatra,LightGBM,0.9254734132047562,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,9
+block_30,North Sumatra,MLP_Model_1,0.8184959349593495,0.5384615384615384,20,20,True,romi1_lag_3,romi1_lag_3,15
+block_7,North Sumatra,MLP_Model_1,0.8937669376693768,0.42857142857142855,20,20,True,romi1_lag_3,romi1_lag_3,9
+block_90,North Sumatra,MLP_Model_1,0.7507904245709124,0.42857142857142855,20,20,False,romi1_lag_3,y_lag_3,21
+within_month,North Sumatra,MLP_Model_1,0.8845289580957328,0.7391304347826086,20,20,True,romi1_lag_3,romi1_lag_3,9
+block_30,North Sumatra,MLP_Model_2,0.8251806684733513,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,15
+block_7,North Sumatra,MLP_Model_2,0.9086043360433603,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,4
+block_90,North Sumatra,MLP_Model_2,0.6097109304426378,0.42857142857142855,20,20,True,y_lag_2,y_lag_2,21
+within_month,North Sumatra,MLP_Model_2,0.8726047042084938,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,9
+block_30,North Sumatra,MLP_Model_3,0.7708446251129177,0.6,20,20,True,y_lag_2,y_lag_2,17
+block_7,North Sumatra,MLP_Model_3,0.8679990966576332,0.6,20,20,True,y_lag_2,y_lag_2,13
+block_90,North Sumatra,MLP_Model_3,0.6703477868112014,0.5384615384615384,20,20,False,romi1_lag_7,y_lag_2,21
+within_month,North Sumatra,MLP_Model_3,0.832766855994309,0.7391304347826086,20,20,False,y_lag_3,y_lag_7,9
+block_30,North Sumatra,MLP_Model_4,0.8696928635953025,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,17
+block_7,North Sumatra,MLP_Model_4,0.8854561878952123,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,8
+block_90,North Sumatra,MLP_Model_4,0.788572719060524,0.6,20,20,False,romi1_lag_14,y_lag_2,15
+within_month,North Sumatra,MLP_Model_4,0.8872164319831977,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,6
+block_30,North Sumatra,Poisson,0.9637303944263148,0.6666666666666666,20,20,True,y_lag_3,y_lag_3,5
+block_7,North Sumatra,Poisson,0.8682960980733141,0.6,20,20,True,y_lag_3,y_lag_3,10
+block_90,North Sumatra,Poisson,0.9109242938508659,0.6666666666666666,20,20,True,y_lag_3,y_lag_3,11
+within_month,North Sumatra,Poisson,0.9107241663561322,0.8181818181818182,20,20,True,y_lag_3,y_lag_3,8
+block_30,North Sumatra,RandomForest,0.7867660343270099,0.6,20,20,True,y_lag_2,y_lag_2,14
+block_7,North Sumatra,RandomForest,0.7514679313459801,0.48148148148148145,20,20,True,y_lag_2,y_lag_2,19
+block_90,North Sumatra,RandomForest,0.6621725383920506,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,15
+within_month,North Sumatra,RandomForest,0.8238462493930601,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,12
+block_30,North Sumatra,SVM_RBF,0.8475996364161538,0.5384615384615384,20,20,True,y_rollstd_30,y_rollstd_30,15
+block_7,North Sumatra,SVM_RBF,0.8750388157254174,0.6,20,20,True,y_rollstd_30,y_rollstd_30,12
+block_90,North Sumatra,SVM_RBF,0.7472377328356045,0.48148148148148145,20,20,True,y_rollstd_30,y_rollstd_30,17
+within_month,North Sumatra,SVM_RBF,0.7982610659439928,0.8181818181818182,20,20,False,y_lag_2,rain_lag_1,9
+block_30,North Sumatra,Tweedie,0.9375151737721064,0.7391304347826086,20,20,True,y_lag_3,y_lag_3,7
+block_7,North Sumatra,Tweedie,0.918486147120128,0.7083333333333334,20,21,True,y_lag_3,y_lag_3,6
+block_90,North Sumatra,Tweedie,0.8217352763620954,0.6,20,20,True,y_lag_3,y_lag_3,15
+within_month,North Sumatra,Tweedie,0.9675849335874045,0.8181818181818182,20,20,True,y_lag_3,y_lag_3,3
+block_30,North Sumatra,XGBoost,0.9116079494128274,0.6,20,20,True,y_lag_2,y_lag_2,10
+block_7,North Sumatra,XGBoost,0.8884598012646794,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,7
+block_90,North Sumatra,XGBoost,0.7871273712737127,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,13
+within_month,North Sumatra,XGBoost,0.9003376280219967,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+block_30,Nusa Tenggara,BayesianRidge,0.9355691056910568,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,7
+block_7,Nusa Tenggara,BayesianRidge,0.9613143631436314,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,4
+block_90,Nusa Tenggara,BayesianRidge,0.9787714543812104,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,5
+within_month,Nusa Tenggara,BayesianRidge,0.7960681579511965,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,16
+block_30,Nusa Tenggara,ExtraTrees,0.9577913279132791,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+block_7,Nusa Tenggara,ExtraTrees,0.9661020776874436,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,10
+block_90,Nusa Tenggara,ExtraTrees,0.9645212285456188,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,4
+within_month,Nusa Tenggara,ExtraTrees,0.8010817646992401,0.6,20,20,True,y_lag_2,y_lag_2,11
+block_30,Nusa Tenggara,KNN,0.9059927504319253,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,15
+block_7,Nusa Tenggara,KNN,0.8704626937439366,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,12
+block_90,Nusa Tenggara,KNN,0.8515628529383447,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,9
+within_month,Nusa Tenggara,KNN,0.7651864607862696,0.6,20,20,True,y_lag_2,y_lag_2,11
+block_30,Nusa Tenggara,LightGBM,0.9629177958446251,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,4
+block_7,Nusa Tenggara,LightGBM,0.9766260162601625,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,7
+block_90,Nusa Tenggara,LightGBM,0.9731029810298103,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,5
+within_month,Nusa Tenggara,LightGBM,0.7267584322316197,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,15
+block_30,Nusa Tenggara,MLP_Model_1,0.9223351400180668,0.6666666666666666,20,20,False,y_lag_2,y_rollmean_60,9
+block_7,Nusa Tenggara,MLP_Model_1,0.9284101174345076,0.7391304347826086,20,20,False,y_lag_2,y_rollmean_60,11
+block_90,Nusa Tenggara,MLP_Model_1,0.9334010840108401,0.7391304347826086,20,20,False,y_rollmean_60,y_lag_2,10
+within_month,Nusa Tenggara,MLP_Model_1,0.9098002461635746,0.7391304347826086,20,20,True,y_lag_1,y_lag_1,7
+block_30,Nusa Tenggara,MLP_Model_2,0.9405374887082202,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,11
+block_7,Nusa Tenggara,MLP_Model_2,0.9548780487804877,1.0,20,20,True,y_lag_2,y_lag_2,8
+block_90,Nusa Tenggara,MLP_Model_2,0.9464769647696476,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+within_month,Nusa Tenggara,MLP_Model_2,0.8510823292945946,0.6666666666666666,20,20,False,y_lag_2,y_lag_7,11
+block_30,Nusa Tenggara,MLP_Model_3,0.9401987353206864,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+block_7,Nusa Tenggara,MLP_Model_3,0.9390695573622402,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,11
+block_90,Nusa Tenggara,MLP_Model_3,0.9555781391147244,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,8
+within_month,Nusa Tenggara,MLP_Model_3,0.8786119987804741,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,8
+block_30,Nusa Tenggara,MLP_Model_4,0.8570234869015356,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,14
+block_7,Nusa Tenggara,MLP_Model_4,0.9093721770551038,0.6666666666666666,20,20,False,y_lag_2,y_lag_7,9
+block_90,Nusa Tenggara,MLP_Model_4,0.9446251129177958,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+within_month,Nusa Tenggara,MLP_Model_4,0.8894070619586942,0.8181818181818182,20,20,False,y_lag_3,y_lag_2,10
+block_30,Nusa Tenggara,Poisson,0.930812141529151,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,10
+block_7,Nusa Tenggara,Poisson,0.748426146031702,0.6,20,20,True,y_lag_2,y_lag_2,20
+block_90,Nusa Tenggara,Poisson,0.8846492614842587,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,13
+within_month,Nusa Tenggara,Poisson,0.8663365498221197,0.6,20,20,True,y_lag_2,y_lag_2,8
+block_30,Nusa Tenggara,RandomForest,0.9711156278229449,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+block_7,Nusa Tenggara,RandomForest,0.977371273712737,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,6
+block_90,Nusa Tenggara,RandomForest,0.9751580849141823,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,5
+within_month,Nusa Tenggara,RandomForest,0.865061710272248,0.6,20,20,True,y_lag_2,y_lag_2,9
+block_30,Nusa Tenggara,SVM_RBF,0.881294496934196,0.6666666666666666,20,20,True,hth_lag_3,hth_lag_3,11
+block_7,Nusa Tenggara,SVM_RBF,0.9051654537489217,0.6,20,20,True,y_lag_2,y_lag_2,13
+block_90,Nusa Tenggara,SVM_RBF,0.8608852755194217,0.5384615384615384,20,20,True,y_lag_2,y_lag_2,14
+within_month,Nusa Tenggara,SVM_RBF,0.7821295287473841,0.7391304347826086,20,20,False,y_rollstd_3,y_lag_7,14
+block_30,Nusa Tenggara,Tweedie,0.9647170418704851,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,5
+block_7,Nusa Tenggara,Tweedie,0.7929107006242027,0.42857142857142855,20,20,True,y_lag_2,y_lag_2,13
+block_90,Nusa Tenggara,Tweedie,0.9453512729312292,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+within_month,Nusa Tenggara,Tweedie,0.8335610637988421,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,12
+block_30,Nusa Tenggara,XGBoost,0.9712962962962963,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,8
+block_7,Nusa Tenggara,XGBoost,0.9693089430894309,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,3
+block_90,Nusa Tenggara,XGBoost,0.9759936766034326,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,5
+within_month,Nusa Tenggara,XGBoost,0.7498390903239649,0.6,20,20,True,y_lag_2,y_lag_2,15
+block_30,Papua,BayesianRidge,0.9840785907859078,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,1
+block_7,Papua,BayesianRidge,0.96323396567299,0.8181818181818182,20,20,False,hth_lag_0,y_lag_2,6
+block_90,Papua,BayesianRidge,0.9876693766937671,1.0,20,20,True,hth_lag_0,hth_lag_0,0
+within_month,Papua,BayesianRidge,0.7642023961426847,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,16
+block_30,Papua,ExtraTrees,0.9687443541102078,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,7
+block_7,Papua,ExtraTrees,0.9390243902439024,1.0,20,20,False,y_lag_2,y_lag_7,10
+block_90,Papua,ExtraTrees,0.9807813911472448,1.0,20,20,True,y_lag_7,y_lag_7,3
+within_month,Papua,ExtraTrees,0.8708883343307852,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,12
+block_30,Papua,KNN,0.8527776052712531,0.64,21,20,True,y_lag_7,y_lag_7,14
+block_7,Papua,KNN,0.8027281556102466,0.6,20,20,True,y_lag_7,y_lag_7,11
+block_90,Papua,KNN,0.9244840923890612,0.6666666666666666,20,20,True,y_lag_7,y_lag_7,4
+within_month,Papua,KNN,0.8596642784572509,0.6,20,20,True,y_lag_7,y_lag_7,9
+block_30,Papua,LightGBM,0.9445347786811202,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,12
+block_7,Papua,LightGBM,0.9588527551942186,0.8181818181818182,20,20,True,y_lag_7,y_lag_7,8
+block_90,Papua,LightGBM,0.9760840108401083,1.0,20,20,False,rain_rollsum_3,y_lag_7,4
+within_month,Papua,LightGBM,0.8921397034745199,0.6666666666666666,20,20,False,evap_lag_0,rain_lag_1,14
+block_30,Papua,MLP_Model_1,0.8893631436314363,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+block_7,Papua,MLP_Model_1,0.9149954832881662,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,7
+block_90,Papua,MLP_Model_1,0.9092366757000904,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,9
+within_month,Papua,MLP_Model_1,0.9067514312492237,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,11
+block_30,Papua,MLP_Model_2,0.9050813008130081,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,13
+block_7,Papua,MLP_Model_2,0.9015356820234869,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,8
+block_90,Papua,MLP_Model_2,0.9478093947606143,0.6666666666666666,20,20,True,y_lag_7,y_lag_7,8
+within_month,Papua,MLP_Model_2,0.814202960738039,0.6666666666666666,20,20,False,evap_lag_0,y_lag_2,16
+block_30,Papua,MLP_Model_3,0.8778455284552845,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,15
+block_7,Papua,MLP_Model_3,0.8256549232158987,0.48148148148148145,20,20,True,y_lag_7,y_lag_7,14
+block_90,Papua,MLP_Model_3,0.9538617886178861,0.8181818181818182,20,20,True,y_lag_7,y_lag_7,9
+within_month,Papua,MLP_Model_3,0.9017152406869997,0.6666666666666666,20,20,True,y_lag_7,y_lag_7,12
+block_30,Papua,MLP_Model_4,0.9560749774164408,0.9047619047619048,20,20,True,y_lag_7,y_lag_7,10
+block_7,Papua,MLP_Model_4,0.9374435411020775,0.9047619047619048,20,20,True,y_lag_7,y_lag_7,6
+block_90,Papua,MLP_Model_4,0.9648599819331526,0.8181818181818182,20,20,True,y_lag_7,y_lag_7,7
+within_month,Papua,MLP_Model_4,0.8813898079246605,0.8181818181818182,20,20,True,evap_lag_0,evap_lag_0,11
+block_30,Papua,Poisson,0.9641867058008027,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,9
+block_7,Papua,Poisson,0.9693017373440185,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,5
+block_90,Papua,Poisson,0.9854669873640707,1.0,20,20,True,y_lag_2,y_lag_2,1
+within_month,Papua,Poisson,0.895065806203606,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,12
+block_30,Papua,RandomForest,0.9679765130984642,0.9047619047619048,20,20,False,rain_rollsum_3,y_lag_2,5
+block_7,Papua,RandomForest,0.9377371273712737,0.9047619047619048,20,20,True,rain_rollsum_3,rain_rollsum_3,10
+block_90,Papua,RandomForest,0.985207768744354,0.9047619047619048,20,20,True,rain_rollsum_3,rain_rollsum_3,5
+within_month,Papua,RandomForest,0.8845515419099133,0.9047619047619048,20,20,False,rain_rollsum_3,y_lag_2,11
+block_30,Papua,SVM_RBF,0.961760172554695,0.8181818181818182,20,20,False,y_lag_7,hth_lag_0,8
+block_7,Papua,SVM_RBF,0.9280532077814093,0.7391304347826086,20,20,False,hth_lag_0,y_lag_7,13
+block_90,Papua,SVM_RBF,0.9746890474926961,0.9047619047619048,20,20,False,hth_lag_0,y_lag_7,5
+within_month,Papua,SVM_RBF,0.8523146240106946,0.8181818181818182,20,20,False,evap_lag_0,y_lag_2,17
+block_30,Papua,Tweedie,0.9708600821108843,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,7
+block_7,Papua,Tweedie,0.94627723557301,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,6
+block_90,Papua,Tweedie,0.9787873141858112,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,4
+within_month,Papua,Tweedie,0.8850143132336501,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,12
+block_30,Papua,XGBoost,0.9394760614272808,0.9047619047619048,20,20,True,y_lag_7,y_lag_7,8
+block_7,Papua,XGBoost,0.9552168021680216,0.7391304347826086,20,20,False,rain_rollsum_3,y_lag_7,10
+block_90,Papua,XGBoost,0.9646115627822944,0.9047619047619048,20,20,True,y_lag_7,y_lag_7,7
+within_month,Papua,XGBoost,0.876150363034813,0.8181818181818182,20,20,False,evap_lag_0,y_lag_2,11
+block_30,South Sumatra,BayesianRidge,0.806887985546522,0.8181818181818182,20,20,True,hth_lag_1,hth_lag_1,13
+block_7,South Sumatra,BayesianRidge,0.9754065040650407,0.8181818181818182,20,20,True,hth_lag_1,hth_lag_1,3
+block_90,South Sumatra,BayesianRidge,0.954223125564589,0.6666666666666666,20,20,True,hth_lag_1,hth_lag_1,6
+within_month,South Sumatra,BayesianRidge,0.8116509897356565,0.6,20,20,True,hth_lag_0,hth_lag_0,13
+block_30,South Sumatra,ExtraTrees,0.8694670280036132,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,17
+block_7,South Sumatra,ExtraTrees,0.9740289069557362,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,6
+block_90,South Sumatra,ExtraTrees,0.9092592592592593,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,16
+within_month,South Sumatra,ExtraTrees,0.8320667577547173,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,9
+block_30,South Sumatra,KNN,0.7893696786286951,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,11
+block_7,South Sumatra,KNN,0.9328914383793669,1.0,20,20,True,y_lag_2,y_lag_2,9
+block_90,South Sumatra,KNN,0.9061744845186205,0.8181818181818182,20,20,True,hth_lag_0,hth_lag_0,11
+within_month,South Sumatra,KNN,0.757889031405126,0.64,21,20,True,y_lag_2,y_lag_2,17
+block_30,South Sumatra,LightGBM,0.8727642276422765,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+block_7,South Sumatra,LightGBM,0.9710930442637759,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,6
+block_90,South Sumatra,LightGBM,0.9215672990063233,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,12
+within_month,South Sumatra,LightGBM,0.8461364739890921,0.6,20,20,True,y_lag_2,y_lag_2,14
+block_30,South Sumatra,MLP_Model_1,0.8499548328816622,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,15
+block_7,South Sumatra,MLP_Model_1,0.9502258355916893,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,11
+block_90,South Sumatra,MLP_Model_1,0.9416892502258355,0.9047619047619048,20,20,False,hth_lag_0,y_lag_2,11
+within_month,South Sumatra,MLP_Model_1,0.7881186553597038,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,18
+block_30,South Sumatra,MLP_Model_2,0.9500451671183379,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,10
+block_7,South Sumatra,MLP_Model_2,0.9746160794941283,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,6
+block_90,South Sumatra,MLP_Model_2,0.9736449864498645,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,5
+within_month,South Sumatra,MLP_Model_2,0.912939396334647,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,7
+block_30,South Sumatra,MLP_Model_3,0.700880758807588,0.6,20,20,True,y_lag_2,y_lag_2,19
+block_7,South Sumatra,MLP_Model_3,0.8873757904245708,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,11
+block_90,South Sumatra,MLP_Model_3,0.8733514001806685,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,9
+within_month,South Sumatra,MLP_Model_3,0.8226944748698609,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,16
+block_30,South Sumatra,MLP_Model_4,0.7281616982836495,0.6666666666666666,20,20,True,hth_lag_7,hth_lag_7,15
+block_7,South Sumatra,MLP_Model_4,0.9261743450767842,0.8181818181818182,20,20,False,hth_lag_7,y_lag_2,5
+block_90,South Sumatra,MLP_Model_4,0.9127822944896115,0.9047619047619048,20,20,False,hth_lag_7,y_lag_2,9
+within_month,South Sumatra,MLP_Model_4,0.8518727627909078,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,14
+block_30,South Sumatra,Poisson,0.6666854868412165,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,22
+block_7,South Sumatra,Poisson,0.9502645144321695,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,5
+block_90,South Sumatra,Poisson,0.901476998125522,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,11
+within_month,South Sumatra,Poisson,0.6985483843759185,0.42857142857142855,20,20,True,y_lag_2,y_lag_2,16
+block_30,South Sumatra,RandomForest,0.8903342366757,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,12
+block_7,South Sumatra,RandomForest,0.9658988256549231,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,8
+block_90,South Sumatra,RandomForest,0.9120822041553748,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,11
+within_month,South Sumatra,RandomForest,0.7810950891496066,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,13
+block_30,South Sumatra,SVM_RBF,0.813543436911323,0.6666666666666666,20,20,True,hth_lag_0,hth_lag_0,9
+block_7,South Sumatra,SVM_RBF,0.9461156278229449,1.0,20,20,True,hth_lag_0,hth_lag_0,6
+block_90,South Sumatra,SVM_RBF,0.871357674797508,0.5384615384615384,20,20,True,hth_lag_0,hth_lag_0,9
+within_month,South Sumatra,SVM_RBF,0.8612401831674256,0.8181818181818182,20,20,True,hth_lag_0,hth_lag_0,9
+block_30,South Sumatra,Tweedie,0.7876214620170373,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,17
+block_7,South Sumatra,Tweedie,0.9657341275596437,1.0,20,20,True,y_lag_2,y_lag_2,4
+block_90,South Sumatra,Tweedie,0.9789007142408234,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,5
+within_month,South Sumatra,Tweedie,0.6795815006686197,0.6,20,20,True,y_lag_2,y_lag_2,16
+block_30,South Sumatra,XGBoost,0.8914634146341464,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,8
+block_7,South Sumatra,XGBoost,0.9794037940379403,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,4
+block_90,South Sumatra,XGBoost,0.9264227642276421,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,13
+within_month,South Sumatra,XGBoost,0.8946465068485417,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,11
+block_30,Sulawesi,BayesianRidge,0.8645663956639567,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,14
+block_7,Sulawesi,BayesianRidge,0.8539521228545619,0.9047619047619048,20,20,True,hth_lag_3,hth_lag_3,12
+block_90,Sulawesi,BayesianRidge,0.8876016260162601,0.8181818181818182,20,20,False,y_lag_2,hth_lag_3,8
+within_month,Sulawesi,BayesianRidge,0.7947808805429148,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,11
+block_30,Sulawesi,ExtraTrees,0.9143405600722674,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,11
+block_7,Sulawesi,ExtraTrees,0.877416440831075,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,14
+block_90,Sulawesi,ExtraTrees,0.7099367660343271,0.6,20,20,True,y_lag_2,y_lag_2,14
+within_month,Sulawesi,ExtraTrees,0.7260809178062084,0.5384615384615384,20,20,False,y_lag_7,y_lag_2,13
+block_30,Sulawesi,KNN,0.878621920097563,0.5384615384615384,20,20,False,y_lag_2,y_lag_1,9
+block_7,Sulawesi,KNN,0.9107529006722811,0.5769230769230769,21,20,True,y_lag_2,y_lag_2,7
+block_90,Sulawesi,KNN,0.9423475409706948,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,11
+within_month,Sulawesi,KNN,0.8164371497012827,0.6,20,20,True,y_lag_7,y_lag_7,11
+block_30,Sulawesi,LightGBM,0.8688121047877145,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,13
+block_7,Sulawesi,LightGBM,0.8613369467028003,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,13
+block_90,Sulawesi,LightGBM,0.8913279132791327,0.6,20,20,True,y_lag_2,y_lag_2,9
+within_month,Sulawesi,LightGBM,0.8355898327668562,0.7391304347826086,20,20,False,y_lag_2,y_lag_7,12
+block_30,Sulawesi,MLP_Model_1,0.9128500451671183,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,10
+block_7,Sulawesi,MLP_Model_1,0.9066621499548327,0.6,20,20,False,y_lag_2,y_lag_7,13
+block_90,Sulawesi,MLP_Model_1,0.9490289069557362,0.6666666666666666,20,20,True,y_lag_7,y_lag_7,6
+within_month,Sulawesi,MLP_Model_1,0.8164161745277161,0.6666666666666666,20,20,True,y_lag_7,y_lag_7,12
+block_30,Sulawesi,MLP_Model_2,0.8319331526648599,0.9047619047619048,20,20,True,evap_lag_0,evap_lag_0,19
+block_7,Sulawesi,MLP_Model_2,0.8374209575429087,0.7391304347826086,20,20,True,evap_lag_0,evap_lag_0,19
+block_90,Sulawesi,MLP_Model_2,0.8875112917795844,0.8181818181818182,20,20,True,evap_lag_0,evap_lag_0,11
+within_month,Sulawesi,MLP_Model_2,0.7864022854819952,0.6666666666666666,20,20,True,evap_lag_0,evap_lag_0,16
+block_30,Sulawesi,MLP_Model_3,0.8871951219512194,0.8181818181818182,20,20,False,y_lag_2,y_lag_7,11
+block_7,Sulawesi,MLP_Model_3,0.879787714543812,0.6,20,20,True,evap_lag_0,evap_lag_0,14
+block_90,Sulawesi,MLP_Model_3,0.9112917795844625,0.6666666666666666,20,20,True,evap_lag_0,evap_lag_0,12
+within_month,Sulawesi,MLP_Model_3,0.7725132397610633,0.6666666666666666,20,20,True,evap_lag_0,evap_lag_0,14
+block_30,Sulawesi,MLP_Model_4,0.9377822944896115,0.7391304347826086,20,20,False,evap_lag_14,evap_lag_0,6
+block_7,Sulawesi,MLP_Model_4,0.9628274616079494,0.8181818181818182,20,20,True,evap_lag_0,evap_lag_0,5
+block_90,Sulawesi,MLP_Model_4,0.9681571815718156,0.8181818181818182,20,20,True,evap_lag_0,evap_lag_0,7
+within_month,Sulawesi,MLP_Model_4,0.9053964023984011,0.6666666666666666,20,20,True,evap_lag_0,evap_lag_0,7
+block_30,Sulawesi,Poisson,0.8374795324939305,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,17
+block_7,Sulawesi,Poisson,0.8111611730815167,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,21
+block_90,Sulawesi,Poisson,0.8823921316776997,0.9047619047619048,20,20,True,y_lag_2,y_lag_2,15
+within_month,Sulawesi,Poisson,0.8469634347403845,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,11
+block_30,Sulawesi,RandomForest,0.9323396567299007,0.6,20,20,False,y_lag_2,y_lag_7,8
+block_7,Sulawesi,RandomForest,0.9009936766034327,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,11
+block_90,Sulawesi,RandomForest,0.7863369467028003,0.6,20,20,True,y_lag_2,y_lag_2,16
+within_month,Sulawesi,RandomForest,0.7238902878307117,0.6666666666666666,20,20,False,y_lag_7,y_lag_2,19
+block_30,Sulawesi,SVM_RBF,0.902393857271906,0.6666666666666666,20,20,False,hth_lag_0,y_lag_7,8
+block_7,Sulawesi,SVM_RBF,0.889673044690358,0.6,20,20,True,y_lag_7,y_lag_7,8
+block_90,Sulawesi,SVM_RBF,0.9144473489720553,0.6,20,20,True,y_lag_7,y_lag_7,10
+within_month,Sulawesi,SVM_RBF,0.8244739412616797,0.7391304347826086,20,20,True,y_lag_7,y_lag_7,6
+block_30,Sulawesi,Tweedie,0.8641522217830727,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,12
+block_7,Sulawesi,Tweedie,0.8498108520128734,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,18
+block_90,Sulawesi,Tweedie,0.8618000937392112,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,12
+within_month,Sulawesi,Tweedie,0.8724295636037032,0.8181818181818182,20,20,True,y_lag_2,y_lag_2,11
+block_30,Sulawesi,XGBoost,0.9025745257452575,0.6666666666666666,20,20,True,y_lag_2,y_lag_2,9
+block_7,Sulawesi,XGBoost,0.8748644986449863,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,11
+block_90,Sulawesi,XGBoost,0.9142728093947605,0.7391304347826086,20,20,True,y_lag_2,y_lag_2,8
+within_month,Sulawesi,XGBoost,0.8133221919850044,0.6,20,20,True,y_lag_2,y_lag_2,15

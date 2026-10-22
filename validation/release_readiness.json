@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "guide_files_checked": 12,
+  "relative_links_checked": 18,
+  "citation_authors": 6,
+  "text_files_scanned": 1375,
+  "bounded_secret_findings": [],
+  "source_attribution_checked": true,
+  "scientific_checks_passed": true,
+  "git_checks": {
+    "candidate_files": 1863,
+    "ignore_rules_match_manifest": true,
+    "source_newline_conversion_disabled": true
+  },
+  "new_fits": 0,
+  "new_model_inference": 0,
+  "public_upload_performed": false,
+  "scope": "Local technical and source-notice checks; not author approval or public-access verification"
+}

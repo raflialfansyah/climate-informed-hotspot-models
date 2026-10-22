@@ -1,0 +1,57 @@
+unit,model,group,n,threshold,high_days,zero_days,metrics_checked
+National,BayesianRidge,S2,2557,156.0,77,757,15
+National,BayesianRidge,S3,2557,156.0,77,757,15
+National,BayesianRidge,S4,2557,156.0,77,757,15
+National,BayesianRidge,S5,2557,156.0,77,757,15
+National,MLP_Model_2,S2,2557,156.0,77,757,15
+National,MLP_Model_2,S3,2557,156.0,77,757,15
+National,MLP_Model_2,S4,2557,156.0,77,757,15
+National,MLP_Model_2,S5,2557,156.0,77,757,15
+North Sumatra,BayesianRidge,S2,2557,29.0,45,1842,15
+North Sumatra,BayesianRidge,S3,2557,29.0,45,1842,15
+North Sumatra,BayesianRidge,S4,2557,29.0,45,1842,15
+North Sumatra,BayesianRidge,S5,2557,29.0,45,1842,15
+North Sumatra,MLP_Model_2,S2,2557,29.0,45,1842,15
+North Sumatra,MLP_Model_2,S3,2557,29.0,45,1842,15
+North Sumatra,MLP_Model_2,S4,2557,29.0,45,1842,15
+North Sumatra,MLP_Model_2,S5,2557,29.0,45,1842,15
+South Sumatra,BayesianRidge,S2,2557,21.0,112,1922,15
+South Sumatra,BayesianRidge,S3,2557,21.0,112,1922,15
+South Sumatra,BayesianRidge,S4,2557,21.0,112,1922,15
+South Sumatra,BayesianRidge,S5,2557,21.0,112,1922,15
+South Sumatra,MLP_Model_2,S2,2557,21.0,112,1922,15
+South Sumatra,MLP_Model_2,S3,2557,21.0,112,1922,15
+South Sumatra,MLP_Model_2,S4,2557,21.0,112,1922,15
+South Sumatra,MLP_Model_2,S5,2557,21.0,112,1922,15
+Kalimantan,BayesianRidge,S2,2557,51.0,93,1643,15
+Kalimantan,BayesianRidge,S3,2557,51.0,93,1643,15
+Kalimantan,BayesianRidge,S4,2557,51.0,93,1643,15
+Kalimantan,BayesianRidge,S5,2557,51.0,93,1643,15
+Kalimantan,MLP_Model_2,S2,2557,51.0,93,1643,15
+Kalimantan,MLP_Model_2,S3,2557,51.0,93,1643,15
+Kalimantan,MLP_Model_2,S4,2557,51.0,93,1643,15
+Kalimantan,MLP_Model_2,S5,2557,51.0,93,1643,15
+Sulawesi,BayesianRidge,S2,2557,3.0,149,2196,15
+Sulawesi,BayesianRidge,S3,2557,3.0,149,2196,15
+Sulawesi,BayesianRidge,S4,2557,3.0,149,2196,15
+Sulawesi,BayesianRidge,S5,2557,3.0,149,2196,15
+Sulawesi,MLP_Model_2,S2,2557,3.0,149,2196,15
+Sulawesi,MLP_Model_2,S3,2557,3.0,149,2196,15
+Sulawesi,MLP_Model_2,S4,2557,3.0,149,2196,15
+Sulawesi,MLP_Model_2,S5,2557,3.0,149,2196,15
+Nusa Tenggara,BayesianRidge,S2,2557,6.0,204,1871,15
+Nusa Tenggara,BayesianRidge,S3,2557,6.0,204,1871,15
+Nusa Tenggara,BayesianRidge,S4,2557,6.0,204,1871,15
+Nusa Tenggara,BayesianRidge,S5,2557,6.0,204,1871,15
+Nusa Tenggara,MLP_Model_2,S2,2557,6.0,204,1871,15
+Nusa Tenggara,MLP_Model_2,S3,2557,6.0,204,1871,15
+Nusa Tenggara,MLP_Model_2,S4,2557,6.0,204,1871,15
+Nusa Tenggara,MLP_Model_2,S5,2557,6.0,204,1871,15
+Papua,BayesianRidge,S2,2557,3.0,185,2132,15
+Papua,BayesianRidge,S3,2557,3.0,185,2132,15
+Papua,BayesianRidge,S4,2557,3.0,185,2132,15
+Papua,BayesianRidge,S5,2557,3.0,185,2132,15
+Papua,MLP_Model_2,S2,2557,3.0,185,2132,15
+Papua,MLP_Model_2,S3,2557,3.0,185,2132,15
+Papua,MLP_Model_2,S4,2557,3.0,185,2132,15
+Papua,MLP_Model_2,S5,2557,3.0,185,2132,15

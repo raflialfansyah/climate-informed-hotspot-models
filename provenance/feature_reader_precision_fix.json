@@ -1,0 +1,17 @@
+{
+  "reason": "Default pandas CSV float parser can collapse distinct adjacent floating-point scores into ties. Round-trip parsing reproduces stored ranks exactly.",
+  "original_default_reader_rank_mismatches": {
+    "rmse": 39,
+    "mae": 110,
+    "rmse90": 7,
+    "mae90": 11,
+    "r2": 244
+  },
+  "original_roundtrip_reader_rank_mismatches": 0,
+  "native_cases": 624,
+  "native_replays_sha256": "43b3d2dd57eaf90d328adfa1ab9caa29b8d67784bf9d2c8748fab0415c16d7c2",
+  "original_native_replay_source_sha256": "4ae30c1d04fe953b32b84e21df0e63ee46a1112296b157e7be44930a5e5a0723",
+  "inference_scores_unchanged": true,
+  "estimator_fits": 0,
+  "action": "Use round-trip float parsing in all aggregation/report/verification readers; regenerate derived summaries. Reuse complete hash-locked native prediction replays and recheck their metrics against precise primary exports."
+}

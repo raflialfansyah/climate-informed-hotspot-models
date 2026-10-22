@@ -1,0 +1,194 @@
+unit,rule,season,full_start,full_end,scoring_start,scoring_end
+National,strict,wet,2018-11-01,2019-06-20,2019-01-01,2019-06-20
+National,strict,dry,2019-06-21,2019-11-30,2019-06-21,2019-11-30
+National,strict,wet,2019-12-01,2020-07-31,2019-12-01,2020-07-31
+National,strict,dry,2020-08-01,2020-08-31,2020-08-01,2020-08-31
+National,strict,wet,2020-09-01,2023-07-20,2020-09-01,2023-07-20
+National,strict,dry,2023-07-21,2023-11-20,2023-07-21,2023-11-20
+National,strict,wet,2023-11-21,2024-07-10,2023-11-21,2024-07-10
+National,strict,dry,2024-07-11,2024-10-31,2024-07-11,2024-10-31
+National,strict,wet,2024-11-01,2025-12-10,2024-11-01,2025-12-10
+National,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+National,mixed_sensitivity,wet,2018-10-11,2019-01-31,2019-01-01,2019-01-31
+National,mixed_sensitivity,dry,2019-02-01,2019-02-28,2019-02-01,2019-02-28
+National,mixed_sensitivity,wet,2019-03-01,2019-06-20,2019-03-01,2019-06-20
+National,mixed_sensitivity,dry,2019-06-21,2019-11-30,2019-06-21,2019-11-30
+National,mixed_sensitivity,wet,2019-12-01,2020-07-31,2019-12-01,2020-07-31
+National,mixed_sensitivity,dry,2020-08-01,2020-08-31,2020-08-01,2020-08-31
+National,mixed_sensitivity,wet,2020-09-01,2021-04-10,2020-09-01,2021-04-10
+National,mixed_sensitivity,dry,2021-04-11,2021-05-10,2021-04-11,2021-05-10
+National,mixed_sensitivity,wet,2021-05-11,2023-05-20,2021-05-11,2023-05-20
+National,mixed_sensitivity,dry,2023-05-21,2023-06-30,2023-05-21,2023-06-30
+National,mixed_sensitivity,wet,2023-07-01,2023-07-31,2023-07-01,2023-07-31
+National,mixed_sensitivity,dry,2023-08-01,2023-11-20,2023-08-01,2023-11-20
+National,mixed_sensitivity,wet,2023-11-21,2024-07-10,2023-11-21,2024-07-10
+National,mixed_sensitivity,dry,2024-07-11,2024-08-20,2024-07-11,2024-08-20
+National,mixed_sensitivity,wet,2024-08-21,2025-12-10,2024-08-21,2025-12-10
+National,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+North Sumatra,strict,wet,2016-04-21,2019-01-31,2019-01-01,2019-01-31
+North Sumatra,strict,dry,2019-02-01,2019-03-20,2019-02-01,2019-03-20
+North Sumatra,strict,wet,2019-03-21,2019-12-20,2019-03-21,2019-12-20
+North Sumatra,strict,dry,2019-12-21,2020-03-20,2019-12-21,2020-03-20
+North Sumatra,strict,wet,2020-03-21,2021-01-10,2020-03-21,2021-01-10
+North Sumatra,strict,dry,2021-01-11,2021-02-28,2021-01-11,2021-02-28
+North Sumatra,strict,wet,2021-03-01,2025-06-10,2021-03-01,2025-06-10
+North Sumatra,strict,dry,2025-06-11,2025-07-31,2025-06-11,2025-07-31
+North Sumatra,strict,wet,2025-08-01,2025-12-10,2025-08-01,2025-12-10
+North Sumatra,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+North Sumatra,mixed_sensitivity,wet,2018-09-01,2019-01-31,2019-01-01,2019-01-31
+North Sumatra,mixed_sensitivity,dry,2019-02-01,2019-03-20,2019-02-01,2019-03-20
+North Sumatra,mixed_sensitivity,wet,2019-03-21,2019-06-20,2019-03-21,2019-06-20
+North Sumatra,mixed_sensitivity,dry,2019-06-21,2019-08-10,2019-06-21,2019-08-10
+North Sumatra,mixed_sensitivity,wet,2019-08-11,2019-12-20,2019-08-11,2019-12-20
+North Sumatra,mixed_sensitivity,dry,2019-12-21,2020-01-20,2019-12-21,2020-01-20
+North Sumatra,mixed_sensitivity,wet,2020-01-21,2020-02-20,2020-01-21,2020-02-20
+North Sumatra,mixed_sensitivity,dry,2020-02-21,2020-03-20,2020-02-21,2020-03-20
+North Sumatra,mixed_sensitivity,wet,2020-03-21,2021-01-10,2020-03-21,2021-01-10
+North Sumatra,mixed_sensitivity,dry,2021-01-11,2021-02-28,2021-01-11,2021-02-28
+North Sumatra,mixed_sensitivity,wet,2021-03-01,2022-12-20,2021-03-01,2022-12-20
+North Sumatra,mixed_sensitivity,dry,2022-12-21,2023-01-20,2022-12-21,2023-01-20
+North Sumatra,mixed_sensitivity,wet,2023-01-21,2023-05-10,2023-01-21,2023-05-10
+North Sumatra,mixed_sensitivity,dry,2023-05-11,2023-06-20,2023-05-11,2023-06-20
+North Sumatra,mixed_sensitivity,wet,2023-06-21,2024-01-31,2023-06-21,2024-01-31
+North Sumatra,mixed_sensitivity,dry,2024-02-01,2024-02-29,2024-02-01,2024-02-29
+North Sumatra,mixed_sensitivity,wet,2024-03-01,2024-07-10,2024-03-01,2024-07-10
+North Sumatra,mixed_sensitivity,dry,2024-07-11,2024-08-10,2024-07-11,2024-08-10
+North Sumatra,mixed_sensitivity,wet,2024-08-11,2025-01-31,2024-08-11,2025-01-31
+North Sumatra,mixed_sensitivity,dry,2025-02-01,2025-02-28,2025-02-01,2025-02-28
+North Sumatra,mixed_sensitivity,wet,2025-03-01,2025-06-10,2025-03-01,2025-06-10
+North Sumatra,mixed_sensitivity,dry,2025-06-11,2025-07-10,2025-06-11,2025-07-10
+North Sumatra,mixed_sensitivity,wet,2025-07-11,2025-12-10,2025-07-11,2025-12-10
+North Sumatra,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+South Sumatra,strict,wet,2015-11-01,2019-07-10,2019-01-01,2019-07-10
+South Sumatra,strict,dry,2019-07-11,2019-11-30,2019-07-11,2019-11-30
+South Sumatra,strict,wet,2019-12-01,2023-07-20,2019-12-01,2023-07-20
+South Sumatra,strict,dry,2023-07-21,2023-12-20,2023-07-21,2023-12-20
+South Sumatra,strict,wet,2023-12-21,2025-12-10,2023-12-21,2025-12-10
+South Sumatra,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+South Sumatra,mixed_sensitivity,wet,2018-08-21,2019-07-10,2019-01-01,2019-07-10
+South Sumatra,mixed_sensitivity,dry,2019-07-11,2019-11-30,2019-07-11,2019-11-30
+South Sumatra,mixed_sensitivity,wet,2019-12-01,2021-04-10,2019-12-01,2021-04-10
+South Sumatra,mixed_sensitivity,dry,2021-04-11,2021-05-10,2021-04-11,2021-05-10
+South Sumatra,mixed_sensitivity,wet,2021-05-11,2021-06-30,2021-05-11,2021-06-30
+South Sumatra,mixed_sensitivity,dry,2021-07-01,2021-07-31,2021-07-01,2021-07-31
+South Sumatra,mixed_sensitivity,wet,2021-08-01,2022-03-20,2021-08-01,2022-03-20
+South Sumatra,mixed_sensitivity,dry,2022-03-21,2022-04-20,2022-03-21,2022-04-20
+South Sumatra,mixed_sensitivity,wet,2022-04-21,2023-07-20,2022-04-21,2023-07-20
+South Sumatra,mixed_sensitivity,dry,2023-07-21,2023-11-20,2023-07-21,2023-11-20
+South Sumatra,mixed_sensitivity,wet,2023-11-21,2024-07-10,2023-11-21,2024-07-10
+South Sumatra,mixed_sensitivity,dry,2024-07-11,2024-08-31,2024-07-11,2024-08-31
+South Sumatra,mixed_sensitivity,wet,2024-09-01,2025-12-10,2024-09-01,2025-12-10
+South Sumatra,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Kalimantan,strict,wet,2015-10-21,2019-06-20,2019-01-01,2019-06-20
+Kalimantan,strict,dry,2019-06-21,2019-09-20,2019-06-21,2019-09-20
+Kalimantan,strict,wet,2019-09-21,2023-07-20,2019-09-21,2023-07-20
+Kalimantan,strict,dry,2023-07-21,2023-08-20,2023-07-21,2023-08-20
+Kalimantan,strict,wet,2023-08-21,2025-12-10,2023-08-21,2025-12-10
+Kalimantan,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Kalimantan,mixed_sensitivity,wet,2018-08-21,2019-06-20,2019-01-01,2019-06-20
+Kalimantan,mixed_sensitivity,dry,2019-06-21,2019-09-20,2019-06-21,2019-09-20
+Kalimantan,mixed_sensitivity,wet,2019-09-21,2023-07-20,2019-09-21,2023-07-20
+Kalimantan,mixed_sensitivity,dry,2023-07-21,2023-08-20,2023-07-21,2023-08-20
+Kalimantan,mixed_sensitivity,wet,2023-08-21,2024-07-10,2023-08-21,2024-07-10
+Kalimantan,mixed_sensitivity,dry,2024-07-11,2024-08-10,2024-07-11,2024-08-10
+Kalimantan,mixed_sensitivity,wet,2024-08-11,2025-12-10,2024-08-11,2025-12-10
+Kalimantan,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Sulawesi,strict,wet,2018-11-21,2019-07-10,2019-01-01,2019-07-10
+Sulawesi,strict,dry,2019-07-11,2019-12-10,2019-07-11,2019-12-10
+Sulawesi,strict,wet,2019-12-11,2020-07-31,2019-12-11,2020-07-31
+Sulawesi,strict,dry,2020-08-01,2020-11-20,2020-08-01,2020-11-20
+Sulawesi,strict,wet,2020-11-21,2023-02-20,2020-11-21,2023-02-20
+Sulawesi,strict,dry,2023-02-21,2023-04-20,2023-02-21,2023-04-20
+Sulawesi,strict,wet,2023-04-21,2023-07-20,2023-04-21,2023-07-20
+Sulawesi,strict,dry,2023-07-21,2023-11-20,2023-07-21,2023-11-20
+Sulawesi,strict,wet,2023-11-21,2024-07-10,2023-11-21,2024-07-10
+Sulawesi,strict,dry,2024-07-11,2024-11-20,2024-07-11,2024-11-20
+Sulawesi,strict,wet,2024-11-21,2025-08-31,2024-11-21,2025-08-31
+Sulawesi,strict,dry,2025-09-01,2025-11-30,2025-09-01,2025-11-30
+Sulawesi,strict,wet,2025-12-01,2025-12-10,2025-12-01,2025-12-10
+Sulawesi,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Sulawesi,mixed_sensitivity,wet,2018-11-21,2019-02-20,2019-01-01,2019-02-20
+Sulawesi,mixed_sensitivity,dry,2019-02-21,2019-03-20,2019-02-21,2019-03-20
+Sulawesi,mixed_sensitivity,wet,2019-03-21,2019-06-20,2019-03-21,2019-06-20
+Sulawesi,mixed_sensitivity,dry,2019-06-21,2019-12-10,2019-06-21,2019-12-10
+Sulawesi,mixed_sensitivity,wet,2019-12-11,2020-07-31,2019-12-11,2020-07-31
+Sulawesi,mixed_sensitivity,dry,2020-08-01,2020-08-31,2020-08-01,2020-08-31
+Sulawesi,mixed_sensitivity,wet,2020-09-01,2020-10-10,2020-09-01,2020-10-10
+Sulawesi,mixed_sensitivity,dry,2020-10-11,2020-11-20,2020-10-11,2020-11-20
+Sulawesi,mixed_sensitivity,wet,2020-11-21,2021-05-20,2020-11-21,2021-05-20
+Sulawesi,mixed_sensitivity,dry,2021-05-21,2021-06-20,2021-05-21,2021-06-20
+Sulawesi,mixed_sensitivity,wet,2021-06-21,2021-09-30,2021-06-21,2021-09-30
+Sulawesi,mixed_sensitivity,dry,2021-10-01,2021-10-31,2021-10-01,2021-10-31
+Sulawesi,mixed_sensitivity,wet,2021-11-01,2023-02-20,2021-11-01,2023-02-20
+Sulawesi,mixed_sensitivity,dry,2023-02-21,2023-03-20,2023-02-21,2023-03-20
+Sulawesi,mixed_sensitivity,wet,2023-03-21,2023-07-20,2023-03-21,2023-07-20
+Sulawesi,mixed_sensitivity,dry,2023-07-21,2023-11-20,2023-07-21,2023-11-20
+Sulawesi,mixed_sensitivity,wet,2023-11-21,2024-07-10,2023-11-21,2024-07-10
+Sulawesi,mixed_sensitivity,dry,2024-07-11,2024-11-20,2024-07-11,2024-11-20
+Sulawesi,mixed_sensitivity,wet,2024-11-21,2025-07-10,2024-11-21,2025-07-10
+Sulawesi,mixed_sensitivity,dry,2025-07-11,2025-08-10,2025-07-11,2025-08-10
+Sulawesi,mixed_sensitivity,wet,2025-08-11,2025-09-10,2025-08-11,2025-09-10
+Sulawesi,mixed_sensitivity,dry,2025-09-11,2025-10-20,2025-09-11,2025-10-20
+Sulawesi,mixed_sensitivity,wet,2025-10-21,2025-12-10,2025-10-21,2025-12-10
+Sulawesi,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Nusa Tenggara,strict,dry,2018-02-21,2020-01-31,2019-01-01,2020-01-31
+Nusa Tenggara,strict,wet,2020-02-01,2020-03-10,2020-02-01,2020-03-10
+Nusa Tenggara,strict,dry,2020-03-11,2020-12-31,2020-03-11,2020-12-31
+Nusa Tenggara,strict,wet,2021-01-01,2021-04-10,2021-01-01,2021-04-10
+Nusa Tenggara,strict,dry,2021-04-11,2021-11-10,2021-04-11,2021-11-10
+Nusa Tenggara,strict,wet,2021-11-11,2022-04-20,2021-11-11,2022-04-20
+Nusa Tenggara,strict,dry,2022-04-21,2023-01-20,2022-04-21,2023-01-20
+Nusa Tenggara,strict,wet,2023-01-21,2023-04-10,2023-01-21,2023-04-10
+Nusa Tenggara,strict,dry,2023-04-11,2023-12-31,2023-04-11,2023-12-31
+Nusa Tenggara,strict,wet,2024-01-01,2024-04-20,2024-01-01,2024-04-20
+Nusa Tenggara,strict,dry,2024-04-21,2024-11-30,2024-04-21,2024-11-30
+Nusa Tenggara,strict,wet,2024-12-01,2025-02-10,2024-12-01,2025-02-10
+Nusa Tenggara,strict,dry,2025-02-11,2025-11-30,2025-02-11,2025-11-30
+Nusa Tenggara,strict,wet,2025-12-01,2025-12-10,2025-12-01,2025-12-10
+Nusa Tenggara,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Nusa Tenggara,mixed_sensitivity,wet,2018-12-21,2019-01-31,2019-01-01,2019-01-31
+Nusa Tenggara,mixed_sensitivity,dry,2019-02-01,2019-02-28,2019-02-01,2019-02-28
+Nusa Tenggara,mixed_sensitivity,wet,2019-03-01,2019-03-31,2019-03-01,2019-03-31
+Nusa Tenggara,mixed_sensitivity,dry,2019-04-01,2019-12-20,2019-04-01,2019-12-20
+Nusa Tenggara,mixed_sensitivity,wet,2019-12-21,2020-03-10,2019-12-21,2020-03-10
+Nusa Tenggara,mixed_sensitivity,dry,2020-03-11,2020-11-30,2020-03-11,2020-11-30
+Nusa Tenggara,mixed_sensitivity,wet,2020-12-01,2021-04-10,2020-12-01,2021-04-10
+Nusa Tenggara,mixed_sensitivity,dry,2021-04-11,2021-11-10,2021-04-11,2021-11-10
+Nusa Tenggara,mixed_sensitivity,wet,2021-11-11,2022-03-20,2021-11-11,2022-03-20
+Nusa Tenggara,mixed_sensitivity,dry,2022-03-21,2022-11-10,2022-03-21,2022-11-10
+Nusa Tenggara,mixed_sensitivity,wet,2022-11-11,2022-12-31,2022-11-11,2022-12-31
+Nusa Tenggara,mixed_sensitivity,dry,2023-01-01,2023-01-31,2023-01-01,2023-01-31
+Nusa Tenggara,mixed_sensitivity,wet,2023-02-01,2023-02-28,2023-02-01,2023-02-28
+Nusa Tenggara,mixed_sensitivity,dry,2023-03-01,2023-12-31,2023-03-01,2023-12-31
+Nusa Tenggara,mixed_sensitivity,wet,2024-01-01,2024-04-20,2024-01-01,2024-04-20
+Nusa Tenggara,mixed_sensitivity,dry,2024-04-21,2024-11-30,2024-04-21,2024-11-30
+Nusa Tenggara,mixed_sensitivity,wet,2024-12-01,2025-02-10,2024-12-01,2025-02-10
+Nusa Tenggara,mixed_sensitivity,dry,2025-02-11,2025-03-10,2025-02-11,2025-03-10
+Nusa Tenggara,mixed_sensitivity,wet,2025-03-11,2025-04-10,2025-03-11,2025-04-10
+Nusa Tenggara,mixed_sensitivity,dry,2025-04-11,2025-11-10,2025-04-11,2025-11-10
+Nusa Tenggara,mixed_sensitivity,wet,2025-11-11,2025-12-10,2025-11-11,2025-12-10
+Nusa Tenggara,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Papua,strict,wet,2018-08-21,2019-07-31,2019-01-01,2019-07-31
+Papua,strict,dry,2019-08-01,2019-09-20,2019-08-01,2019-09-20
+Papua,strict,wet,2019-09-21,2019-10-31,2019-09-21,2019-10-31
+Papua,strict,dry,2019-11-01,2019-12-10,2019-11-01,2019-12-10
+Papua,strict,wet,2019-12-11,2023-07-10,2019-12-11,2023-07-10
+Papua,strict,dry,2023-07-11,2023-11-30,2023-07-11,2023-11-30
+Papua,strict,wet,2023-12-01,2025-12-10,2023-12-01,2025-12-10
+Papua,strict,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31
+Papua,mixed_sensitivity,wet,2018-11-01,2019-06-20,2019-01-01,2019-06-20
+Papua,mixed_sensitivity,dry,2019-06-21,2019-09-20,2019-06-21,2019-09-20
+Papua,mixed_sensitivity,wet,2019-09-21,2019-10-31,2019-09-21,2019-10-31
+Papua,mixed_sensitivity,dry,2019-11-01,2019-12-10,2019-11-01,2019-12-10
+Papua,mixed_sensitivity,wet,2019-12-11,2022-10-10,2019-12-11,2022-10-10
+Papua,mixed_sensitivity,dry,2022-10-11,2022-11-10,2022-10-11,2022-11-10
+Papua,mixed_sensitivity,wet,2022-11-11,2023-07-10,2022-11-11,2023-07-10
+Papua,mixed_sensitivity,dry,2023-07-11,2023-08-31,2023-07-11,2023-08-31
+Papua,mixed_sensitivity,wet,2023-09-01,2023-09-30,2023-09-01,2023-09-30
+Papua,mixed_sensitivity,dry,2023-10-01,2023-11-30,2023-10-01,2023-11-30
+Papua,mixed_sensitivity,wet,2023-12-01,2024-07-10,2023-12-01,2024-07-10
+Papua,mixed_sensitivity,dry,2024-07-11,2024-08-10,2024-07-11,2024-08-10
+Papua,mixed_sensitivity,wet,2024-08-11,2024-09-10,2024-08-11,2024-09-10
+Papua,mixed_sensitivity,dry,2024-09-11,2024-10-10,2024-09-11,2024-10-10
+Papua,mixed_sensitivity,wet,2024-10-11,2025-12-10,2024-10-11,2025-12-10
+Papua,mixed_sensitivity,unclassified,2025-12-11,2025-12-31,2025-12-11,2025-12-31

@@ -1,0 +1,18 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "RandomForest",
+    "family": "random_forest",
+    "parameters": {
+      "n_estimators": 800,
+      "max_depth": 18,
+      "min_samples_split": 6,
+      "min_samples_leaf": 2,
+      "max_features": 0.6,
+      "n_jobs": -1
+    },
+    "use_extreme_weights": true,
+    "optional_package": null
+  },
+  "seed": 42
+}

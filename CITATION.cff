@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this software when using its code or processed research outputs, and retain the separate upstream data acknowledgements."
+type: software
+title: "Main same-day hotspot scheme for Indonesia"
+version: "0.1.0-rc1"
+license: MIT
+url: "https://github.com/raflialfansyah/climate-informed-hotspot-models"
+repository-code: "https://github.com/raflialfansyah/climate-informed-hotspot-models"
+authors:
+  - family-names: Nurdiati
+    given-names: Sri
+  - family-names: Najib
+    given-names: Mohamad Khoirun
+  - family-names: Khatizah
+    given-names: Elis
+  - family-names: Syaufina
+    given-names: Lailan
+  - family-names: Azhari
+    given-names: Mirza Farhan
+  - family-names: Akbar
+    given-names: Raihan
+abstract: "Companion code, processed aggregate inputs and saved results for retrospective same-day hotspot detection-count estimation across Indonesia. Hotspot counts indicate detected thermal activity and do not measure individual fires, burned area or severity."
+keywords:
+  - hotspot counts
+  - Indonesia
+  - same-day estimation
+  - climate predictors

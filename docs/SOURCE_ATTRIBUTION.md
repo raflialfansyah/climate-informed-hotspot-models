@@ -1,0 +1,33 @@
+# Source attribution and data notices
+
+Checked on 22 October 2026. Processed inputs preserve the adopted numerical aggregates. Product attribution, historical processing verification and licence obligations are recorded separately below. MIT applies to software and guides; it does not replace upstream data conditions.
+
+| Input | Source and evidence | Remaining scientific qualification |
+|---|---|---|
+| Hotspot counts | The confirmed original manuscript, Section 2.3, pages 7-8, reports MODIS Terra/Aqua through the [NASA FIRMS Fire Archive](https://firms.modaps.eosdis.nasa.gov/download/), confidence >80%, type=0, daily standardization and 0.25-degree point binning | The source and preparation are documented; collection version, sensor continuity, duplicates and day boundaries are not independently reconstructed from original point records |
+| Rainfall | [NOAA CMORPH](https://www.cpc.ncep.noaa.gov/products/janowiak/cmorph_description.html), supplied V1.0 ADJ daily 0.25-degree annual subsets; local metadata cover all 9,131 dates in mm/day | This ADJ series is distinct from the CRT input used by the dry-spell generator |
+| Dry-spell duration | Author-supplied CMORPH CRT routine: linear interpolation to hotspot centers, inclusive <=1 native-unit dry criterion and recursive cell counters | CRT source units and correspondence between the script's 2001-2025 loop and the supplied 9,497-position MAT remain qualified; do not silently shift stored dates |
+| Evaporation and wind | The author identifies [ERA5 hourly data on single levels](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview), Copernicus Climate Change Service / ECMWF; [dataset DOI](https://doi.org/10.24381/cds.adbb2d47) | Supplied files contain one sample at 00 UTC per date. This does not establish daily-mean wind or a daily evaporation accumulation interval. Exact historical CDS request settings remain unavailable |
+| SST regional inputs | NOAA [OISST v2.1](https://www.ncei.noaa.gov/products/optimum-interpolation-sst), daily 0.25-degree `v02r01` files; author-supplied downloader and regional-processing scripts identify the product, boxes and arithmetic spatial means | All three raw series exactly match packaged SST context. Scripts document 2000-2025 processing but the downloader starts in 2001; original grids and the MAT-to-CSV export step were not rerun. See [script evidence](../provenance/oisst/README.md) |
+| MJO | [NOAA PSL ROMI](https://psl.noaa.gov/mjo/mjoindex/), supplied components and amplitude | Archived values agree on study dates; original retrieval timing and operational availability remain unverified |
+| Coastline display | Author identifies [GADM](https://gadm.org/), Cartopy and a 5 km boundary buffer | GADM coordinates and the standalone original map PDF are excluded; see `../provenance/COASTLINE_SOURCE.md` |
+
+## NASA and NOAA attribution
+
+Hotspot inputs are attributed to NASA MODIS and NASA FIRMS. NASA's [data-use policy](https://www.earthdata.nasa.gov/engage/open-data-services-software/data-use-policy) supports sharing NASA-led mission data subject to any dataset-specific notice and appropriate acknowledgement. The [NASA science-data licence guidance](https://science.data.nasa.gov/about/license) describes unrestricted NASA-led mission data as CC0 unless otherwise marked. This does not independently verify the historical hotspot preparation.
+
+Rainfall, the dry-spell source, regional SST inputs and ROMI are attributed to NOAA CPC, NOAA NCEI OISST and NOAA PSL as applicable. NOAA's [content-use guidance](https://www.noaa.gov/office-education/outreach-communication/faq) describes nearly all NOAA data products as public domain, with source-credit requirements and exceptions for non-NOAA material. These files are study-processed derivatives, not official unmodified NOAA products. No endorsement is implied.
+
+The author's downloader explicitly selects OISST v2.1 (`v02r01`), rather than inferring the version from the current product page. The regional script reads `sst` through MATLAB `ncread`, whose scale/offset handling is documented in the [script note](../provenance/oisst/README.md). The documented temperatures are degrees Celsius. The main repository uses raw regional SST and recalculates fitting-prefix anomalies; it uses neither NOAA's `anom` field nor the script's 2000-2025 anomaly columns.
+
+## Copernicus and ECMWF attribution
+
+Generated using Copernicus Climate Change Service data, processed for this study in 2026. Source: ECMWF ERA5 single-level reanalysis via the Copernicus Climate Data Store, DOI [10.24381/cds.adbb2d47](https://doi.org/10.24381/cds.adbb2d47), under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Copyright European Centre for Medium-Range Weather Forecasts (ECMWF). Neither the European Commission nor ECMWF is responsible for any use that may be made of the Copernicus information or data in this package.
+
+The study modifies these fields by regional aggregation, converting signed evaporation depth from metres to millimetres, calculating wind-speed magnitude from the two 10 m components and constructing temporal features. The 2026 date identifies this package's processing, not a reconstructed historical download date. Refer to the [CDS dataset page](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview) and [ECMWF attribution guidance](https://confluence.ecmwf.int/pages/viewpage.action?navigatingVersions=true&pageId=673339011). Preserve these notices when redistributing the processed fields. Do not describe the data as licensed under MIT.
+
+## Excluded geometry and retained qualifications
+
+[GADM terms](https://gadm.org/license.html) allow academic article maps but require permission for redistribution of boundary data. Reusable geometry and the original standalone map are excluded. Other scientific figures and numerical outputs remain authored research artifacts, with their underlying source attribution retained.
+
+The identified NASA, NOAA and Copernicus policies provide a documented basis for including the attributed processed aggregates in this package. Unverified historical version and processing details remain scientific provenance qualifications, rather than claims that the source families are unknown or that source terms have been replaced. No raw grids, fitted model snapshots or restricted geometry are redistributed.

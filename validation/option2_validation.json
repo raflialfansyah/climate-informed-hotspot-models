@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "original_cache_unchanged": true,
+  "original_values_bitwise_equal": true,
+  "domain_schedule_feature_comparisons": 28,
+  "source_interface_only_changes": true,
+  "negative_checks": [
+    "changed_hash_rejected",
+    "duplicate_date_rejected",
+    "altered_support_rejected"
+  ],
+  "preflight_and_resume_checked": true,
+  "notebook_all_stages_off_executed": true,
+  "notebook_preflight_only_executed": true,
+  "production_fits_not_repeated": true,
+  "new_estimator_fits": 0,
+  "new_model_inference": 0,
+  "manuscript_not_modified": true,
+  "protected_scientific_files_checked": 189,
+  "protected_scientific_files_unchanged": true,
+  "saved_results_and_reference_figures_unchanged": 478,
+  "retained_plot_arrays_unchanged": true,
+  "public_coastline_geometry_absent": true,
+  "default_non_map_figures_regenerated": 11,
+  "regional_diagnostics_regenerated": 7,
+  "optional_local_map_route_checked": true,
+  "original_map_unchanged": true,
+  "public_input_bytes": 5540086,
+  "policy_status": "Local candidate prepared; no public upload; source-specific redistribution qualifications remain documented"
+}

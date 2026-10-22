@@ -1,0 +1,29 @@
+unit,season,reference,comparisons,lower_rmse,interval_below_zero
+National,dry,Persistence,13,12,9
+National,dry,MonthlyClimatology,13,13,13
+National,wet,Persistence,13,11,8
+National,wet,MonthlyClimatology,13,13,13
+North Sumatra,dry,Persistence,13,12,0
+North Sumatra,dry,MonthlyClimatology,13,13,12
+North Sumatra,wet,Persistence,13,13,6
+North Sumatra,wet,MonthlyClimatology,13,13,13
+South Sumatra,dry,Persistence,13,13,13
+South Sumatra,dry,MonthlyClimatology,13,12,12
+South Sumatra,wet,Persistence,13,13,12
+South Sumatra,wet,MonthlyClimatology,13,13,13
+Kalimantan,dry,Persistence,13,13,13
+Kalimantan,dry,MonthlyClimatology,13,12,12
+Kalimantan,wet,Persistence,13,13,12
+Kalimantan,wet,MonthlyClimatology,13,13,13
+Sulawesi,dry,Persistence,13,13,13
+Sulawesi,dry,MonthlyClimatology,13,13,13
+Sulawesi,wet,Persistence,13,13,13
+Sulawesi,wet,MonthlyClimatology,13,13,13
+Nusa Tenggara,dry,Persistence,13,13,13
+Nusa Tenggara,dry,MonthlyClimatology,13,13,7
+Nusa Tenggara,wet,Persistence,13,0,0
+Nusa Tenggara,wet,MonthlyClimatology,13,13,0
+Papua,dry,Persistence,13,13,13
+Papua,dry,MonthlyClimatology,13,13,11
+Papua,wet,Persistence,13,13,12
+Papua,wet,MonthlyClimatology,13,12,9

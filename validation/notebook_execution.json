@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "mode": "top-to-bottom; all scientific stages off",
+  "code_cells_executed": 20,
+  "raw_data_loaded": false,
+  "estimator_fits": 0,
+  "scientific_training_not_repeated": true
+}

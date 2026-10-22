@@ -1,0 +1,16 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "SVM_RBF",
+    "family": "svm_rbf",
+    "parameters": {
+      "kernel": "rbf",
+      "C": 8.0,
+      "epsilon": 0.05,
+      "gamma": "scale"
+    },
+    "use_extreme_weights": false,
+    "optional_package": null
+  },
+  "seed": 42
+}

@@ -1,0 +1,35 @@
+# Authorized input data, fitted models and new experiments stay local.
+/.local_paths.json
+/data/raw/*
+!/data/raw/README.md
+/outputs_main/
+/generated/
+/validation/runtime/
+*.pkl
+*.pickle
+*.keras
+*.h5
+*.hdf5
+*.mat
+*.nc
+*.nc4
+*.zip
+.env
+.env.*
+!.env.example
+*credentials*
+*token.json
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# GADM geometry and the original map stay local.
+/data/local/

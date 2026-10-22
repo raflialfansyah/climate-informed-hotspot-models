@@ -1,0 +1,526 @@
+schedule,unit,model,group,fit_end,partition,seeds,seed_rmse_mean,seed_rmse_sd,seed_rmse_min,seed_rmse_max,interpretation
+fit_2008,Kalimantan,BayesianRidge,S5,2008-12-31,calibration,1,47.2667632118557,,47.2667632118557,47.2667632118557,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Kalimantan,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,46.00202860829575,,46.00202860829575,46.00202860829575,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Kalimantan,BayesianRidge,S5,2008-12-31,selection,1,30.546125890342132,,30.546125890342132,30.546125890342132,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Kalimantan,MLP_Model_2,S5,2008-12-31,calibration,3,68.52733536614244,3.499595492230684,65.82093364559736,72.47932650354669,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Kalimantan,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,56.62660847387371,2.734737257424339,54.42814572820683,59.68896466038582,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Kalimantan,MLP_Model_2,S5,2008-12-31,selection,3,32.08177635265707,2.253373959980938,29.996099962271554,34.47189317510609,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,BayesianRidge,S5,2008-12-31,calibration,1,71.26978187436374,,71.26978187436374,71.26978187436374,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,109.8943637715056,,109.8943637715056,109.8943637715056,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,BayesianRidge,S5,2008-12-31,selection,1,52.33491438765888,,52.33491438765888,52.33491438765888,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,MLP_Model_2,S5,2008-12-31,calibration,3,87.24684918613247,6.019439964285949,80.51021037879097,92.09737325455374,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,124.79457370719422,8.392395817601189,115.3305466520119,131.3311513049621,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,National,MLP_Model_2,S5,2008-12-31,selection,3,63.36045048916901,3.9819215043595606,59.016547482415504,66.83761418518706,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,BayesianRidge,S5,2008-12-31,calibration,1,22.719523128403463,,22.719523128403463,22.719523128403463,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,99.38870997142631,,99.38870997142631,99.38870997142631,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,BayesianRidge,S5,2008-12-31,selection,1,24.839173266379134,,24.839173266379134,24.839173266379134,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,MLP_Model_2,S5,2008-12-31,calibration,3,25.754783375212266,1.9353927883355009,24.461325605264125,27.979793126560143,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,92.77238459097968,2.5320105591373046,90.09841377605856,95.13332680040766,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,North Sumatra,MLP_Model_2,S5,2008-12-31,selection,3,29.963703988844344,2.1037251697542296,27.895456961888435,32.10119746134488,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,BayesianRidge,S5,2008-12-31,calibration,1,2.113054485741486,,2.113054485741486,2.113054485741486,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,3.6812118720034523,,3.6812118720034523,3.6812118720034523,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,BayesianRidge,S5,2008-12-31,selection,1,2.4361538201882933,,2.4361538201882933,2.4361538201882933,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,MLP_Model_2,S5,2008-12-31,calibration,3,2.4470493184343955,0.12063563199793308,2.3603874734146597,2.5848273116816465,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,4.01623623602695,0.2908295804460853,3.7842439916064885,4.342509660290954,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Nusa Tenggara,MLP_Model_2,S5,2008-12-31,selection,3,2.560590880211846,0.0975083456474906,2.4683194946369635,2.6626047532128467,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,BayesianRidge,S5,2008-12-31,calibration,1,2.825010206469055,,2.825010206469055,2.825010206469055,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,8.49741063852845,,8.49741063852845,8.49741063852845,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,BayesianRidge,S5,2008-12-31,selection,1,3.435574490873498,,3.435574490873498,3.435574490873498,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,MLP_Model_2,S5,2008-12-31,calibration,3,2.935422242815074,0.13547869270820134,2.8450864229861415,3.0911978193706875,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,8.616912225359597,0.1469132547329599,8.508655605164426,8.784150581669579,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Papua,MLP_Model_2,S5,2008-12-31,selection,3,3.857822431301827,0.014567439680165642,3.841409303129915,3.869217602692636,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,BayesianRidge,S5,2008-12-31,calibration,1,14.918301793022016,,14.918301793022016,14.918301793022016,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,17.096984732979926,,17.096984732979926,17.096984732979926,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,BayesianRidge,S5,2008-12-31,selection,1,21.067394169089855,,21.067394169089855,21.067394169089855,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,MLP_Model_2,S5,2008-12-31,calibration,3,18.59738223137404,6.176908798992993,14.983193176900407,25.72964627891435,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,25.14102121176337,9.486711039509103,19.303485573740865,36.08724626225563,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,South Sumatra,MLP_Model_2,S5,2008-12-31,selection,3,30.253854727365013,10.648708597968747,24.09426292466815,42.5499170323373,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,BayesianRidge,S5,2008-12-31,calibration,1,2.4539558131726356,,2.4539558131726356,2.4539558131726356,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,BayesianRidge,S5,2008-12-31,rolling_evaluation,1,3.7424147494728444,,3.7424147494728444,3.7424147494728444,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,BayesianRidge,S5,2008-12-31,selection,1,1.7243482793942289,,1.7243482793942289,1.7243482793942289,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,MLP_Model_2,S5,2008-12-31,calibration,3,2.2896924804166563,0.13684971053517617,2.1334980131425754,2.3885336184182577,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,MLP_Model_2,S5,2008-12-31,rolling_evaluation,3,3.7339366243085266,0.0809714652097595,3.663156453598767,3.8222323214067577,individual-seed error spread; primary error uses averaged count predictions
+fit_2008,Sulawesi,MLP_Model_2,S5,2008-12-31,selection,3,1.784884675035111,0.030976950666419548,1.7491248673450597,1.8034706865685945,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,BayesianRidge,S5,2010-12-31,calibration,1,30.25600916271408,,30.25600916271408,30.25600916271408,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,101.72025930564445,,101.72025930564445,101.72025930564445,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,BayesianRidge,S5,2010-12-31,selection,1,46.138785378212226,,46.138785378212226,46.138785378212226,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,MLP_Model_2,S5,2010-12-31,calibration,3,40.641313730847635,12.778645290480883,31.95313301430654,55.31402511699368,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,109.25624650176695,47.354590838831335,79.1900360325966,163.8427904557706,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Kalimantan,MLP_Model_2,S5,2010-12-31,selection,3,51.29915478169849,1.3842374727484288,49.701458669453444,52.138484076052514,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,BayesianRidge,S5,2010-12-31,calibration,1,57.40680731705667,,57.40680731705667,57.40680731705667,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,145.3423006215798,,145.3423006215798,145.3423006215798,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,BayesianRidge,S5,2010-12-31,selection,1,104.95286350763342,,104.95286350763342,104.95286350763342,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,MLP_Model_2,S5,2010-12-31,calibration,3,78.19814090731239,26.523436435275343,55.727928308062786,107.45572871322497,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,302.1103577953315,263.2817640110295,112.29864632403634,602.6759395397745,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,National,MLP_Model_2,S5,2010-12-31,selection,3,127.34312058674413,16.729465443642606,115.80744000281084,146.53001707239036,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,BayesianRidge,S5,2010-12-31,calibration,1,27.41453913587726,,27.41453913587726,27.41453913587726,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,16.390172114917863,,16.390172114917863,16.390172114917863,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,BayesianRidge,S5,2010-12-31,selection,1,81.80196036207181,,81.80196036207181,81.80196036207181,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,MLP_Model_2,S5,2010-12-31,calibration,3,28.4043945752222,2.743344683811241,25.237338820179506,30.045005178095693,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,18.64929685507668,1.1377745023314547,17.387427203308057,19.596924836262126,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,North Sumatra,MLP_Model_2,S5,2010-12-31,selection,3,89.33982834836608,6.69437856483529,84.1376639823249,96.8924576432341,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,BayesianRidge,S5,2010-12-31,calibration,1,2.4188769172283466,,2.4188769172283466,2.4188769172283466,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,2.9503095439025544,,2.9503095439025544,2.9503095439025544,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,BayesianRidge,S5,2010-12-31,selection,1,3.6641401025297977,,3.6641401025297977,3.6641401025297977,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,MLP_Model_2,S5,2010-12-31,calibration,3,2.5894723748660566,0.07674384768971372,2.508890417324866,2.6616934217127506,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,3.9742245662019005,0.1273968290100396,3.8630192561766243,4.113223781745833,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Nusa Tenggara,MLP_Model_2,S5,2010-12-31,selection,3,4.01797035296248,0.2131874616182015,3.894524154132611,4.264137673721035,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,BayesianRidge,S5,2010-12-31,calibration,1,3.4335190535379874,,3.4335190535379874,3.4335190535379874,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,16.774337720627685,,16.774337720627685,16.774337720627685,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,BayesianRidge,S5,2010-12-31,selection,1,8.53327933571802,,8.53327933571802,8.53327933571802,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,MLP_Model_2,S5,2010-12-31,calibration,3,4.447878461574683,0.6762394480342514,3.95861047788635,5.219544161365187,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,23.1120440902143,5.210506709084096,19.017283882362513,28.977026097895425,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Papua,MLP_Model_2,S5,2010-12-31,selection,3,10.436287173314533,2.8582099978436144,8.667848837423463,13.733768403466804,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,BayesianRidge,S5,2010-12-31,calibration,1,21.314559881485135,,21.314559881485135,21.314559881485135,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,39.27101633322715,,39.27101633322715,39.27101633322715,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,BayesianRidge,S5,2010-12-31,selection,1,16.939987310894068,,16.939987310894068,16.939987310894068,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,MLP_Model_2,S5,2010-12-31,calibration,3,25.6078880151837,1.4882497929506409,24.085315149695795,27.059258753051008,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,42.425016964752864,4.645595844965184,37.2137331625623,46.13222665973443,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,South Sumatra,MLP_Model_2,S5,2010-12-31,selection,3,19.77212599931045,0.571166825819661,19.29269880326359,20.40406875953997,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,BayesianRidge,S5,2010-12-31,calibration,1,1.7204814070300563,,1.7204814070300563,1.7204814070300563,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,BayesianRidge,S5,2010-12-31,rolling_evaluation,1,8.285325564512243,,8.285325564512243,8.285325564512243,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,BayesianRidge,S5,2010-12-31,selection,1,3.72122027057004,,3.72122027057004,3.72122027057004,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,MLP_Model_2,S5,2010-12-31,calibration,3,1.9606774981694857,0.023898029009973582,1.9340447512213275,1.9802499393428519,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,MLP_Model_2,S5,2010-12-31,rolling_evaluation,3,8.18533968681569,0.6865744739873593,7.456119682733205,8.819325165776187,individual-seed error spread; primary error uses averaged count predictions
+fit_2010,Sulawesi,MLP_Model_2,S5,2010-12-31,selection,3,3.7387747158959943,0.02702987090592937,3.716154945766198,3.7687091390933563,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,BayesianRidge,S5,2012-12-31,calibration,1,49.25412539176497,,49.25412539176497,49.25412539176497,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,15.025667379255859,,15.025667379255859,15.025667379255859,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,BayesianRidge,S5,2012-12-31,selection,1,87.77603747250085,,87.77603747250085,87.77603747250085,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,MLP_Model_2,S5,2012-12-31,calibration,3,51.45702807914976,1.3582927753507879,49.907394524392544,52.44145436978585,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,19.77703127935621,0.8446345399772616,18.929229696492975,20.61846274414434,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Kalimantan,MLP_Model_2,S5,2012-12-31,selection,3,85.21425409402913,1.4499942379141217,83.83886007364576,86.72881370254318,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,BayesianRidge,S5,2012-12-31,calibration,1,108.6779118855301,,108.6779118855301,108.6779118855301,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,22.401996209307352,,22.401996209307352,22.401996209307352,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,BayesianRidge,S5,2012-12-31,selection,1,105.487640922927,,105.487640922927,105.487640922927,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,MLP_Model_2,S5,2012-12-31,calibration,3,153.36896420518124,52.69973540486718,117.34481711713445,213.85406132508265,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,37.68418293978727,15.741956894346014,25.714148378290588,55.51605260042451,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,National,MLP_Model_2,S5,2012-12-31,selection,3,589.4553188444559,771.4998847383637,110.01406041997093,1479.4175431131573,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,BayesianRidge,S5,2012-12-31,calibration,1,104.7413708019085,,104.7413708019085,104.7413708019085,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,7.5477689865212545,,7.5477689865212545,7.5477689865212545,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,BayesianRidge,S5,2012-12-31,selection,1,15.691145338539247,,15.691145338539247,15.691145338539247,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,MLP_Model_2,S5,2012-12-31,calibration,3,91.04541261489908,9.38344555690177,82.28477411634402,100.94727696881587,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,8.877221860284324,0.8248395422973095,8.34678647799707,9.82752275765225,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,North Sumatra,MLP_Model_2,S5,2012-12-31,selection,3,18.58919558052374,0.7058396826255454,17.904208919048177,19.314186771084753,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,BayesianRidge,S5,2012-12-31,calibration,1,3.736593973564193,,3.736593973564193,3.736593973564193,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,2.666223180778822,,2.666223180778822,2.666223180778822,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,BayesianRidge,S5,2012-12-31,selection,1,2.946134974881658,,2.946134974881658,2.946134974881658,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,MLP_Model_2,S5,2012-12-31,calibration,3,3.9913215409825216,0.24604587582765114,3.8480952179014003,4.275427616038551,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,3.235572214683059,0.24158611116657222,3.0826946760347163,3.5140881790125196,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Nusa Tenggara,MLP_Model_2,S5,2012-12-31,selection,3,3.7917741508710385,0.05454687580814525,3.739150066747621,3.8480593640705805,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,BayesianRidge,S5,2012-12-31,calibration,1,8.421678205110267,,8.421678205110267,8.421678205110267,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,7.834643792566827,,7.834643792566827,7.834643792566827,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,BayesianRidge,S5,2012-12-31,selection,1,16.568490036179277,,16.568490036179277,16.568490036179277,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,MLP_Model_2,S5,2012-12-31,calibration,3,8.655991072320914,0.20455726390377893,8.458966369658446,8.867329059574907,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,8.09589035070947,0.03158696268952437,8.065644073416864,8.128665918208583,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Papua,MLP_Model_2,S5,2012-12-31,selection,3,19.757811412186136,0.8234438539289719,19.069307578864674,20.669982015103656,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,BayesianRidge,S5,2012-12-31,calibration,1,18.278191357190675,,18.278191357190675,18.278191357190675,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,2.588678151274948,,2.588678151274948,2.588678151274948,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,BayesianRidge,S5,2012-12-31,selection,1,35.89601204632243,,35.89601204632243,35.89601204632243,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,MLP_Model_2,S5,2012-12-31,calibration,3,19.62524498598692,1.259393280777138,18.670119324909763,21.052477582460238,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,5.538944983244039,0.7283454054369672,4.719617489854661,6.112967707647128,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,South Sumatra,MLP_Model_2,S5,2012-12-31,selection,3,40.41555820540688,3.2959322575721197,36.77271482742469,43.19114892508537,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,BayesianRidge,S5,2012-12-31,calibration,1,3.7391151353500383,,3.7391151353500383,3.7391151353500383,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,BayesianRidge,S5,2012-12-31,rolling_evaluation,1,2.0785627633928008,,2.0785627633928008,2.0785627633928008,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,BayesianRidge,S5,2012-12-31,selection,1,8.220197361026022,,8.220197361026022,8.220197361026022,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,MLP_Model_2,S5,2012-12-31,calibration,3,3.790343027555656,0.11828024008406722,3.6846702062393315,3.918113784949015,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,MLP_Model_2,S5,2012-12-31,rolling_evaluation,3,2.0723225380248618,0.09403626086736716,1.9934130626546305,2.176374407074394,individual-seed error spread; primary error uses averaged count predictions
+fit_2012,Sulawesi,MLP_Model_2,S5,2012-12-31,selection,3,8.925160178597658,0.7198325614066057,8.322480849130994,9.722223693711827,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S2,2014-12-31,calibration,1,82.0593936515205,,82.0593936515205,82.0593936515205,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S2,2014-12-31,selection,1,18.414611887017635,,18.414611887017635,18.414611887017635,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S2,2014-12-31,test,1,31.324827989841957,,31.324827989841957,31.324827989841957,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S3,2014-12-31,calibration,1,149.4724411086388,,149.4724411086388,149.4724411086388,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S3,2014-12-31,selection,1,18.671512068346548,,18.671512068346548,18.671512068346548,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S3,2014-12-31,test,1,47.61467340870153,,47.61467340870153,47.61467340870153,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S4,2014-12-31,calibration,1,100.9887498109131,,100.9887498109131,100.9887498109131,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S4,2014-12-31,selection,1,13.790345139740586,,13.790345139740586,13.790345139740586,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S4,2014-12-31,test,1,39.029927596427996,,39.029927596427996,39.029927596427996,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S5,2014-12-31,calibration,1,102.10775368810125,,102.10775368810125,102.10775368810125,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S5,2014-12-31,selection,1,13.748057607491925,,13.748057607491925,13.748057607491925,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,BayesianRidge,S5,2014-12-31,test,1,39.89367682691723,,39.89367682691723,39.89367682691723,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,ExtraTrees,S5,2014-12-31,calibration,3,86.87997895311084,0.39569004926446383,86.64207082024882,87.33675013770714,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,ExtraTrees,S5,2014-12-31,selection,3,16.442918944507102,0.16876602105251978,16.249134362910464,16.557633182826986,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,ExtraTrees,S5,2014-12-31,test,3,30.10207361946124,0.3434125300433919,29.848865838680123,30.492962451921397,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,KNN,S5,2014-12-31,calibration,1,88.50548709213783,,88.50548709213783,88.50548709213783,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,KNN,S5,2014-12-31,selection,1,22.29933707201897,,22.29933707201897,22.29933707201897,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,KNN,S5,2014-12-31,test,1,36.2815764962594,,36.2815764962594,36.2815764962594,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,LightGBM,S5,2014-12-31,calibration,3,85.97144125912257,0.29122624547812925,85.65012188484769,86.2179969347693,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,LightGBM,S5,2014-12-31,selection,3,16.683764687128868,0.3017749127296559,16.49231401591974,17.031636960694556,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,LightGBM,S5,2014-12-31,test,3,33.52538244590791,0.04128038385424703,33.48087052778143,33.56240617222555,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_1,S5,2014-12-31,calibration,3,121.76299665515329,52.17088006850203,86.56217974325234,181.70106675736315,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_1,S5,2014-12-31,selection,3,18.424142272529966,0.9784933135050548,17.447346233841966,19.404324074319742,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_1,S5,2014-12-31,test,3,39.608362796865684,6.737684328185296,34.95357956930258,47.33447045565013,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S2,2014-12-31,calibration,3,107.58624909488144,5.695055999760595,101.33623685773269,112.48232074500095,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S2,2014-12-31,selection,3,27.726156909292442,3.9334502807216647,24.02061583782417,31.853516448925014,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S2,2014-12-31,test,3,45.09670134331892,1.001673369374792,43.94520613800693,45.766755006343665,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S3,2014-12-31,calibration,3,278.25108123718275,293.52109808952844,101.53088915294192,617.0749776696277,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S3,2014-12-31,selection,3,30.92695500044212,9.577593558682986,23.675508126361468,41.784046707015904,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S3,2014-12-31,test,3,53.49023474481111,14.671270351113892,42.562430179005595,70.1650018134538,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S4,2014-12-31,calibration,3,83.73479016359211,2.6797926747036134,81.80864896347798,86.79518616456157,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S4,2014-12-31,selection,3,16.323275905012295,1.0657286603494804,15.573369080756168,17.54321889914174,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S4,2014-12-31,test,3,32.3347913992009,2.545866429422774,30.838858545149513,35.27434961043029,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S5,2014-12-31,calibration,3,122.20275149407819,53.191935672115285,87.91979541558408,183.47915008878203,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S5,2014-12-31,selection,3,22.57458191169174,3.919187105394818,19.146940759953857,26.84740320430106,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_2,S5,2014-12-31,test,3,37.988342742759436,10.535522134156897,28.53389732530999,49.34559735379517,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_3,S5,2014-12-31,calibration,3,80.80672847495642,4.532996824701203,75.61726786411221,83.99322236418838,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_3,S5,2014-12-31,selection,3,18.1651527372609,0.6688840792133256,17.544617308729332,18.87367633394139,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_3,S5,2014-12-31,test,3,34.475853858003894,1.1562485596430574,33.247589413734225,35.54323609159359,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_4,S5,2014-12-31,calibration,3,137.20363144969932,82.96321590940951,88.98525318131864,233.0005893586731,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_4,S5,2014-12-31,selection,3,18.448856090766792,2.717756665630532,15.74457348578672,21.179889335317856,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,MLP_Model_4,S5,2014-12-31,test,3,54.55932179501146,34.34267249851808,33.29152109600196,94.17907463173621,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Poisson,S5,2014-12-31,calibration,1,93.11177167485926,,93.11177167485926,93.11177167485926,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Poisson,S5,2014-12-31,selection,1,14.39674742286881,,14.39674742286881,14.39674742286881,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Poisson,S5,2014-12-31,test,1,27.771422114523926,,27.771422114523926,27.771422114523926,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,RandomForest,S5,2014-12-31,calibration,3,87.14271888462395,0.1251097537691781,87.00076977541697,87.23693754137602,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,RandomForest,S5,2014-12-31,selection,3,17.530763410792275,0.2808697592752807,17.20678844993039,17.705711995584316,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,RandomForest,S5,2014-12-31,test,3,28.804544817683183,0.27137140716185143,28.511244786094714,29.046713204630066,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,SVM_RBF,S5,2014-12-31,calibration,1,104.08701170399998,,104.08701170399998,104.08701170399998,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,SVM_RBF,S5,2014-12-31,selection,1,20.92493619868753,,20.92493619868753,20.92493619868753,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,SVM_RBF,S5,2014-12-31,test,1,46.000249854967706,,46.000249854967706,46.000249854967706,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Tweedie,S5,2014-12-31,calibration,1,94.59241673523205,,94.59241673523205,94.59241673523205,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Tweedie,S5,2014-12-31,selection,1,14.608882474341128,,14.608882474341128,14.608882474341128,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,Tweedie,S5,2014-12-31,test,1,31.60538918910773,,31.60538918910773,31.60538918910773,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,XGBoost,S5,2014-12-31,calibration,3,88.72537013984152,0.7789529795831945,88.2642801604502,89.62473107400936,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,XGBoost,S5,2014-12-31,selection,3,16.692560886184697,0.29883198314337805,16.361103991924242,16.94137242175544,individual-seed error spread; primary error uses averaged count predictions
+main,Kalimantan,XGBoost,S5,2014-12-31,test,3,32.75280745430073,0.8230274332776459,31.823370216662777,33.389235047540204,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S2,2014-12-31,calibration,1,100.57489565522793,,100.57489565522793,100.57489565522793,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S2,2014-12-31,selection,1,24.162818362842657,,24.162818362842657,24.162818362842657,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S2,2014-12-31,test,1,38.61308497645813,,38.61308497645813,38.61308497645813,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S3,2014-12-31,calibration,1,256.3624175590469,,256.3624175590469,256.3624175590469,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S3,2014-12-31,selection,1,26.309912385457007,,26.309912385457007,26.309912385457007,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S3,2014-12-31,test,1,43.406704833880134,,43.406704833880134,43.406704833880134,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S4,2014-12-31,calibration,1,111.93009342134442,,111.93009342134442,111.93009342134442,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S4,2014-12-31,selection,1,21.773324281444292,,21.773324281444292,21.773324281444292,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S4,2014-12-31,test,1,35.03761100754541,,35.03761100754541,35.03761100754541,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S5,2014-12-31,calibration,1,106.4911800392938,,106.4911800392938,106.4911800392938,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S5,2014-12-31,selection,1,22.286862058259608,,22.286862058259608,22.286862058259608,individual-seed error spread; primary error uses averaged count predictions
+main,National,BayesianRidge,S5,2014-12-31,test,1,35.060831204496104,,35.060831204496104,35.060831204496104,individual-seed error spread; primary error uses averaged count predictions
+main,National,ExtraTrees,S5,2014-12-31,calibration,3,118.88191302735648,0.24724902749301644,118.6355997990658,119.13008734733988,individual-seed error spread; primary error uses averaged count predictions
+main,National,ExtraTrees,S5,2014-12-31,selection,3,23.298315137663696,0.24359132396923922,23.067717690298977,23.55309628340971,individual-seed error spread; primary error uses averaged count predictions
+main,National,ExtraTrees,S5,2014-12-31,test,3,46.93042854428635,0.14825144549763208,46.76302896313908,47.0451368218583,individual-seed error spread; primary error uses averaged count predictions
+main,National,KNN,S5,2014-12-31,calibration,1,135.73801268375234,,135.73801268375234,135.73801268375234,individual-seed error spread; primary error uses averaged count predictions
+main,National,KNN,S5,2014-12-31,selection,1,32.68707390122736,,32.68707390122736,32.68707390122736,individual-seed error spread; primary error uses averaged count predictions
+main,National,KNN,S5,2014-12-31,test,1,54.270933454939914,,54.270933454939914,54.270933454939914,individual-seed error spread; primary error uses averaged count predictions
+main,National,LightGBM,S5,2014-12-31,calibration,3,109.33070805058878,1.0707958033525609,108.60020098268348,110.55989052854247,individual-seed error spread; primary error uses averaged count predictions
+main,National,LightGBM,S5,2014-12-31,selection,3,22.81311035566691,0.5346444801768451,22.42507490882413,23.422959883041187,individual-seed error spread; primary error uses averaged count predictions
+main,National,LightGBM,S5,2014-12-31,test,3,46.32460172080886,0.3517976386251376,46.00276781774035,46.700178362711355,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_1,S5,2014-12-31,calibration,3,212.91330676676583,156.04091959046448,114.16743198684736,392.8071533900709,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_1,S5,2014-12-31,selection,3,28.880195918271113,1.8871538221000943,27.265699192990933,30.954882560004776,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_1,S5,2014-12-31,test,3,53.43019785061497,4.6795039841671295,48.57523990098364,57.91189079148181,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S2,2014-12-31,calibration,3,135.52090608304445,10.734349837713623,123.36325821503979,143.6901761839269,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S2,2014-12-31,selection,3,27.36284767832578,1.4255881121089335,26.350672933879885,28.993180655572708,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S2,2014-12-31,test,3,57.8394381457347,4.664930096478065,52.5424461636356,61.33527100085323,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S3,2014-12-31,calibration,3,182.21788116979369,75.21114935330327,134.20935504494054,268.89672481744924,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S3,2014-12-31,selection,3,32.525204399661796,4.610075639506867,29.34966610986164,37.812941764626,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S3,2014-12-31,test,3,58.777879177677754,4.2971787642936246,54.36069578871722,62.94404935424104,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S4,2014-12-31,calibration,3,232.36401444865342,181.19014240933984,121.54491863337695,441.4589998848041,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S4,2014-12-31,selection,3,46.96025249832743,25.062588289865364,29.106814976316652,75.61194041705369,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S4,2014-12-31,test,3,93.82986884890549,75.38533146233758,44.91685240555731,180.64490348434327,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S5,2014-12-31,calibration,3,113.82270076905388,7.221791891139913,106.93661333790662,121.33890395080128,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S5,2014-12-31,selection,3,29.809491167378468,3.0357280221160865,27.98392600219403,33.31382318901477,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_2,S5,2014-12-31,test,3,49.82108665863365,5.952697355100047,44.72615222579047,56.364281361406974,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_3,S5,2014-12-31,calibration,3,267.5563894025404,144.27535802163914,106.15658074727372,384.0047937938775,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_3,S5,2014-12-31,selection,3,29.327513959402506,3.4386663926419616,25.655513521222264,32.471847525307716,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_3,S5,2014-12-31,test,3,48.93005313036897,7.494536567522741,43.24819766272123,57.423897562279464,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_4,S5,2014-12-31,calibration,3,179.13382191035575,66.66458292894696,119.83783368753349,251.29247295152555,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_4,S5,2014-12-31,selection,3,26.8158566447571,0.5064140252014521,26.35361618284083,27.357146960420888,individual-seed error spread; primary error uses averaged count predictions
+main,National,MLP_Model_4,S5,2014-12-31,test,3,48.03817534049142,6.019850551121877,42.4101166943715,54.38523701051885,individual-seed error spread; primary error uses averaged count predictions
+main,National,Poisson,S5,2014-12-31,calibration,1,108.5950097741477,,108.5950097741477,108.5950097741477,individual-seed error spread; primary error uses averaged count predictions
+main,National,Poisson,S5,2014-12-31,selection,1,21.975433482117776,,21.975433482117776,21.975433482117776,individual-seed error spread; primary error uses averaged count predictions
+main,National,Poisson,S5,2014-12-31,test,1,35.382674405897546,,35.382674405897546,35.382674405897546,individual-seed error spread; primary error uses averaged count predictions
+main,National,RandomForest,S5,2014-12-31,calibration,3,116.69197453333645,0.7082493247884795,116.04398002072993,117.44805330947968,individual-seed error spread; primary error uses averaged count predictions
+main,National,RandomForest,S5,2014-12-31,selection,3,23.02674237321111,0.11310723842250694,22.92642785438661,23.149328876498487,individual-seed error spread; primary error uses averaged count predictions
+main,National,RandomForest,S5,2014-12-31,test,3,45.895737147627436,0.2107614016718361,45.66362809978764,46.07515105023633,individual-seed error spread; primary error uses averaged count predictions
+main,National,SVM_RBF,S5,2014-12-31,calibration,1,151.01175450383028,,151.01175450383028,151.01175450383028,individual-seed error spread; primary error uses averaged count predictions
+main,National,SVM_RBF,S5,2014-12-31,selection,1,31.02965949568707,,31.02965949568707,31.02965949568707,individual-seed error spread; primary error uses averaged count predictions
+main,National,SVM_RBF,S5,2014-12-31,test,1,58.6946635655922,,58.6946635655922,58.6946635655922,individual-seed error spread; primary error uses averaged count predictions
+main,National,Tweedie,S5,2014-12-31,calibration,1,105.90411943710657,,105.90411943710657,105.90411943710657,individual-seed error spread; primary error uses averaged count predictions
+main,National,Tweedie,S5,2014-12-31,selection,1,23.18533257310591,,23.18533257310591,23.18533257310591,individual-seed error spread; primary error uses averaged count predictions
+main,National,Tweedie,S5,2014-12-31,test,1,36.49021481788058,,36.49021481788058,36.49021481788058,individual-seed error spread; primary error uses averaged count predictions
+main,National,XGBoost,S5,2014-12-31,calibration,3,105.5915507922934,0.7580396670150901,104.76762982910421,106.25942106577058,individual-seed error spread; primary error uses averaged count predictions
+main,National,XGBoost,S5,2014-12-31,selection,3,22.50586510501924,0.1448996917173178,22.388231520389386,22.667724002733472,individual-seed error spread; primary error uses averaged count predictions
+main,National,XGBoost,S5,2014-12-31,test,3,45.213561845238566,0.3370119314244741,44.87023260814814,45.543879601608516,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S2,2014-12-31,calibration,1,15.304425574363826,,15.304425574363826,15.304425574363826,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S2,2014-12-31,selection,1,8.455823081672762,,8.455823081672762,8.455823081672762,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S2,2014-12-31,test,1,7.273748666765827,,7.273748666765827,7.273748666765827,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S3,2014-12-31,calibration,1,18.37497778866258,,18.37497778866258,18.37497778866258,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S3,2014-12-31,selection,1,8.987738942146809,,8.987738942146809,8.987738942146809,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S3,2014-12-31,test,1,9.267237475929257,,9.267237475929257,9.267237475929257,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S4,2014-12-31,calibration,1,14.896601090878734,,14.896601090878734,14.896601090878734,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S4,2014-12-31,selection,1,7.303202651710214,,7.303202651710214,7.303202651710214,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S4,2014-12-31,test,1,6.698502277814757,,6.698502277814757,6.698502277814757,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S5,2014-12-31,calibration,1,15.338463701106594,,15.338463701106594,15.338463701106594,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S5,2014-12-31,selection,1,7.466893235368528,,7.466893235368528,7.466893235368528,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,BayesianRidge,S5,2014-12-31,test,1,6.651027846849451,,6.651027846849451,6.651027846849451,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,ExtraTrees,S5,2014-12-31,calibration,3,15.420457167224866,0.025744185611010304,15.395089592223604,15.44656212072144,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,ExtraTrees,S5,2014-12-31,selection,3,7.824087739438451,0.0581160167013135,7.776824492643118,7.888976005016498,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,ExtraTrees,S5,2014-12-31,test,3,7.168369586642598,0.035895730987138906,7.128631400801262,7.198444606401661,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,KNN,S5,2014-12-31,calibration,1,17.029294291489705,,17.029294291489705,17.029294291489705,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,KNN,S5,2014-12-31,selection,1,8.097122033397353,,8.097122033397353,8.097122033397353,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,KNN,S5,2014-12-31,test,1,8.734099935490638,,8.734099935490638,8.734099935490638,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,LightGBM,S5,2014-12-31,calibration,3,15.483603228129446,0.05326832549124107,15.422208050652793,15.517539433485792,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,LightGBM,S5,2014-12-31,selection,3,7.990227985799854,0.08415442024534883,7.894125344814605,8.050736362267951,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,LightGBM,S5,2014-12-31,test,3,7.104098048569654,0.05671311479010604,7.056526332895264,7.166859235655515,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_1,S5,2014-12-31,calibration,3,21.74252906750578,6.000930202804602,18.14878075411985,28.67018221904537,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_1,S5,2014-12-31,selection,3,9.471961607459201,1.5772697007577026,7.936961820989929,11.088349862366185,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_1,S5,2014-12-31,test,3,10.938018948651285,3.9225942027851857,8.505278411645344,15.463176818290053,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S2,2014-12-31,calibration,3,17.272834273240093,2.2084486483919172,15.30856596047417,19.663330218788705,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S2,2014-12-31,selection,3,10.680225138886295,0.45306694262088953,10.205115812442434,11.107445298286065,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S2,2014-12-31,test,3,9.668464912571475,0.2694399281423759,9.402062022519056,9.940842505001461,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S3,2014-12-31,calibration,3,22.694829676910583,5.93618510383284,18.95605917165039,29.539603348419572,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S3,2014-12-31,selection,3,12.424580737267748,3.4333231925539027,10.137027983670496,16.372467479968677,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S3,2014-12-31,test,3,14.03398748507047,6.841841302176809,9.802180885988564,21.927403405553726,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S4,2014-12-31,calibration,3,16.665080566926395,0.8431727522094128,15.783767609563021,17.464074726372978,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S4,2014-12-31,selection,3,8.670055872849181,0.37639841707370525,8.236120492132954,8.908256377377565,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S4,2014-12-31,test,3,8.139748711129519,0.35961101924523325,7.912877307553427,8.554377224654758,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S5,2014-12-31,calibration,3,18.179601802657633,0.8030257106717735,17.252842431358072,18.66921301097079,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S5,2014-12-31,selection,3,8.503766860998361,0.3977057661158714,8.138955261711725,8.927738902429015,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_2,S5,2014-12-31,test,3,8.323332060325209,0.6683923363693005,7.655083915246799,8.99186849472722,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_3,S5,2014-12-31,calibration,3,17.46188445658233,0.7940925969563075,16.880253761835167,18.36659096184692,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_3,S5,2014-12-31,selection,3,8.7671388671062,1.304686481909858,7.648541423589268,10.200372160555453,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_3,S5,2014-12-31,test,3,8.655194828448368,0.936667691303641,7.970030166956741,9.722524290209124,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_4,S5,2014-12-31,calibration,3,18.361407238592747,2.124528888112059,16.809593992422137,20.78277116382227,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_4,S5,2014-12-31,selection,3,8.567531474134217,0.7301990884882089,7.787086948974028,9.234105805983978,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,MLP_Model_4,S5,2014-12-31,test,3,9.088489844680481,1.8469172400941702,7.976099360225357,11.220452788483165,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Poisson,S5,2014-12-31,calibration,1,14.676114274188553,,14.676114274188553,14.676114274188553,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Poisson,S5,2014-12-31,selection,1,7.639139525698949,,7.639139525698949,7.639139525698949,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Poisson,S5,2014-12-31,test,1,7.428761528178131,,7.428761528178131,7.428761528178131,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,RandomForest,S5,2014-12-31,calibration,3,15.031471962951938,0.04274511265778278,14.987573669709958,15.07296208047914,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,RandomForest,S5,2014-12-31,selection,3,8.069091447703633,0.027578945415917183,8.037326579204763,8.086934258751361,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,RandomForest,S5,2014-12-31,test,3,7.1625100454358135,0.047915038700545476,7.108999545927923,7.201443996495185,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,SVM_RBF,S5,2014-12-31,calibration,1,18.173761435658488,,18.173761435658488,18.173761435658488,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,SVM_RBF,S5,2014-12-31,selection,1,9.161296319382403,,9.161296319382403,9.161296319382403,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,SVM_RBF,S5,2014-12-31,test,1,9.542662164528606,,9.542662164528606,9.542662164528606,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Tweedie,S5,2014-12-31,calibration,1,15.775488037602768,,15.775488037602768,15.775488037602768,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Tweedie,S5,2014-12-31,selection,1,7.431146533115305,,7.431146533115305,7.431146533115305,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,Tweedie,S5,2014-12-31,test,1,7.1561323561485715,,7.1561323561485715,7.1561323561485715,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,XGBoost,S5,2014-12-31,calibration,3,15.10134354625744,0.22230464663731095,14.85270939425301,15.280934031411961,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,XGBoost,S5,2014-12-31,selection,3,8.010437570873622,0.0918813056436978,7.904975286114221,8.073191397364171,individual-seed error spread; primary error uses averaged count predictions
+main,North Sumatra,XGBoost,S5,2014-12-31,test,3,7.270537980840042,0.06645447261442526,7.193805902052927,7.309485392934581,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S2,2014-12-31,calibration,1,3.0052314779633162,,3.0052314779633162,3.0052314779633162,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S2,2014-12-31,selection,1,2.7112853836952793,,2.7112853836952793,2.7112853836952793,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S2,2014-12-31,test,1,3.1139368773037983,,3.1139368773037983,3.1139368773037983,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S3,2014-12-31,calibration,1,3.3243489042161602,,3.3243489042161602,3.3243489042161602,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S3,2014-12-31,selection,1,3.2158320848414848,,3.2158320848414848,3.2158320848414848,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S3,2014-12-31,test,1,3.384955793417115,,3.384955793417115,3.384955793417115,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S4,2014-12-31,calibration,1,2.942099543277255,,2.942099543277255,2.942099543277255,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S4,2014-12-31,selection,1,2.6508269450100808,,2.6508269450100808,2.6508269450100808,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S4,2014-12-31,test,1,3.0295157014848924,,3.0295157014848924,3.0295157014848924,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S5,2014-12-31,calibration,1,2.938813233181458,,2.938813233181458,2.938813233181458,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S5,2014-12-31,selection,1,2.6488430621845067,,2.6488430621845067,2.6488430621845067,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,BayesianRidge,S5,2014-12-31,test,1,3.038241740390508,,3.038241740390508,3.038241740390508,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,ExtraTrees,S5,2014-12-31,calibration,3,2.98761817931478,0.010102443786017719,2.9780135265024823,2.998153947419949,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,ExtraTrees,S5,2014-12-31,selection,3,2.6991349720518802,0.0053781411154645905,2.694211636776607,2.7048745931948748,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,ExtraTrees,S5,2014-12-31,test,3,3.074095381627107,0.0022385644312611095,3.071572657944231,3.0758446672615687,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,KNN,S5,2014-12-31,calibration,1,3.4126209487649892,,3.4126209487649892,3.4126209487649892,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,KNN,S5,2014-12-31,selection,1,2.9450493159456146,,2.9450493159456146,2.9450493159456146,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,KNN,S5,2014-12-31,test,1,3.4657752867508185,,3.4657752867508185,3.4657752867508185,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,LightGBM,S5,2014-12-31,calibration,3,3.159183240827461,0.026673721163450535,3.1432753836725436,3.189977757428427,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,LightGBM,S5,2014-12-31,selection,3,2.7822316041158093,0.009831646326499811,2.771921749457797,2.7915025297668965,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,LightGBM,S5,2014-12-31,test,3,3.2454693817918945,0.01045434191762874,3.233409514130772,3.25196079035399,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_1,S5,2014-12-31,calibration,3,4.013152566878132,0.2586575251154474,3.832545975197676,4.309464745002656,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_1,S5,2014-12-31,selection,3,3.438964297644299,0.48183331460814655,3.0885238166184013,3.9884263650687064,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_1,S5,2014-12-31,test,3,3.879874489502073,0.38497109011713415,3.5158832285297903,4.282857702620882,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S2,2014-12-31,calibration,3,3.4441607716284275,0.1286481317436744,3.3487379704060363,3.590468361599516,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S2,2014-12-31,selection,3,3.316453207911565,0.11855499326619885,3.194157891774098,3.4308754205676077,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S2,2014-12-31,test,3,3.6587225810241595,0.12586578390394568,3.5632695449685117,3.801363449856138,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S3,2014-12-31,calibration,3,4.274578589781888,0.1677308490135766,4.102034093390935,4.437040963877703,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S3,2014-12-31,selection,3,3.97777730545385,0.235339638530836,3.7080306796578917,4.141151738813945,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S3,2014-12-31,test,3,4.009238386531378,0.1136599466839768,3.8922072966566783,4.119196875418889,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S4,2014-12-31,calibration,3,3.397987265972212,0.3550143406110917,3.112039264594458,3.795343827817665,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S4,2014-12-31,selection,3,3.4503650757594477,0.17569034195043703,3.339469801231817,3.6529309471760785,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S4,2014-12-31,test,3,3.6225815760738485,0.1578667838567758,3.4466239206657274,3.7518047860952586,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S5,2014-12-31,calibration,3,3.8634349664951935,0.050882185183742795,3.8067935036028335,3.905276248230943,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S5,2014-12-31,selection,3,3.1685077408205236,0.17324826176601257,3.0122052123808216,3.354789018947069,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_2,S5,2014-12-31,test,3,3.748018396814539,0.015352500341327081,3.737053531375937,3.765564330732309,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_3,S5,2014-12-31,calibration,3,3.5755217992124195,0.23541967311403242,3.3134784128791415,3.769172321590207,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_3,S5,2014-12-31,selection,3,3.0564021453675143,0.04415242749623449,3.0221042887669767,3.1062187890495934,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_3,S5,2014-12-31,test,3,3.5863957472795396,0.05063672494976946,3.557084231527011,3.64486593425006,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_4,S5,2014-12-31,calibration,3,3.8828717824497905,0.21420016152335544,3.6464599432326072,4.064036346461619,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_4,S5,2014-12-31,selection,3,3.4674143851081194,0.286384880237003,3.137046381407431,3.6452093435629007,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,MLP_Model_4,S5,2014-12-31,test,3,3.8610938314401904,0.09843030889503272,3.754040803316294,3.9476848670667968,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Poisson,S5,2014-12-31,calibration,1,2.9859051933610767,,2.9859051933610767,2.9859051933610767,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Poisson,S5,2014-12-31,selection,1,2.7588095111015254,,2.7588095111015254,2.7588095111015254,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Poisson,S5,2014-12-31,test,1,3.126987183089938,,3.126987183089938,3.126987183089938,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,RandomForest,S5,2014-12-31,calibration,3,3.083335940293072,0.014381558026081443,3.073377855600714,3.099823962750556,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,RandomForest,S5,2014-12-31,selection,3,2.762310050604979,0.015014406163364554,2.748384461843206,2.7782166068155973,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,RandomForest,S5,2014-12-31,test,3,3.1032832644217536,0.00635050746961102,3.099141073763615,3.1105946495839625,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,SVM_RBF,S5,2014-12-31,calibration,1,3.8523189899450534,,3.8523189899450534,3.8523189899450534,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,SVM_RBF,S5,2014-12-31,selection,1,4.610718239442323,,4.610718239442323,4.610718239442323,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,SVM_RBF,S5,2014-12-31,test,1,3.920064939699177,,3.920064939699177,3.920064939699177,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Tweedie,S5,2014-12-31,calibration,1,3.049595301246245,,3.049595301246245,3.049595301246245,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Tweedie,S5,2014-12-31,selection,1,2.862327919070244,,2.862327919070244,2.862327919070244,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,Tweedie,S5,2014-12-31,test,1,3.1769253420657635,,3.1769253420657635,3.1769253420657635,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,XGBoost,S5,2014-12-31,calibration,3,3.1857274960945787,0.02913956569198146,3.166891393123966,3.219291255425746,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,XGBoost,S5,2014-12-31,selection,3,2.7927532933716837,0.020659679400627674,2.7691953841128956,2.8077866352633345,individual-seed error spread; primary error uses averaged count predictions
+main,Nusa Tenggara,XGBoost,S5,2014-12-31,test,3,3.27048716657182,0.014373735816732881,3.2539342303630727,3.279814590660563,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S2,2014-12-31,calibration,1,17.177812946402128,,17.177812946402128,17.177812946402128,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S2,2014-12-31,selection,1,7.770558235816437,,7.770558235816437,7.770558235816437,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S2,2014-12-31,test,1,5.345498812313257,,5.345498812313257,5.345498812313257,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S3,2014-12-31,calibration,1,20.23183723665848,,20.23183723665848,20.23183723665848,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S3,2014-12-31,selection,1,8.33997189750303,,8.33997189750303,8.33997189750303,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S3,2014-12-31,test,1,5.598606219318488,,5.598606219318488,5.598606219318488,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S4,2014-12-31,calibration,1,16.597114312484983,,16.597114312484983,16.597114312484983,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S4,2014-12-31,selection,1,7.8094343570841405,,7.8094343570841405,7.8094343570841405,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S4,2014-12-31,test,1,5.289536946273466,,5.289536946273466,5.289536946273466,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S5,2014-12-31,calibration,1,16.608795322244596,,16.608795322244596,16.608795322244596,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S5,2014-12-31,selection,1,7.797136331706933,,7.797136331706933,7.797136331706933,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,BayesianRidge,S5,2014-12-31,test,1,5.276581787960123,,5.276581787960123,5.276581787960123,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,ExtraTrees,S5,2014-12-31,calibration,3,20.64043888058025,0.038251251059786696,20.6063077964308,20.681783220580865,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,ExtraTrees,S5,2014-12-31,selection,3,7.843116700050743,0.016511783244610452,7.826027857118098,7.858983523536522,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,ExtraTrees,S5,2014-12-31,test,3,5.269246294679463,0.01836034434888391,5.248767463751946,5.284236010922248,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,KNN,S5,2014-12-31,calibration,1,20.99480756380648,,20.99480756380648,20.99480756380648,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,KNN,S5,2014-12-31,selection,1,8.113659636060033,,8.113659636060033,8.113659636060033,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,KNN,S5,2014-12-31,test,1,5.373284890555783,,5.373284890555783,5.373284890555783,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,LightGBM,S5,2014-12-31,calibration,3,18.567623037734005,0.03093366293182933,18.5326239579781,18.5913023684304,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,LightGBM,S5,2014-12-31,selection,3,8.049196294416006,0.07370099210901128,7.964438503263494,8.098202698352337,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,LightGBM,S5,2014-12-31,test,3,5.08966709697821,0.016953818651078242,5.07577386242052,5.1085579803289995,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_1,S5,2014-12-31,calibration,3,18.114004880227828,0.37202528181316435,17.80778275114798,18.528025538409914,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_1,S5,2014-12-31,selection,3,8.337720531174414,0.13473792815698624,8.233649413711154,8.489912024161075,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_1,S5,2014-12-31,test,3,6.004557145229264,0.3299743274989833,5.6704370747142345,6.3302232669641905,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S2,2014-12-31,calibration,3,21.687727872851436,1.495010662428914,19.98590047421366,22.789429350402195,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S2,2014-12-31,selection,3,8.713993596250043,0.3822064764615058,8.469662030483343,9.154449113693927,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S2,2014-12-31,test,3,5.112767352485923,0.3435353582428081,4.718127181094709,5.344885336196342,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S3,2014-12-31,calibration,3,23.094982121770652,0.636985143051828,22.35949538485203,23.46939762117548,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S3,2014-12-31,selection,3,8.290321190152815,0.3930154444699517,7.888762671902042,8.674196617744657,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S3,2014-12-31,test,3,5.9462534972600976,0.06623553456321797,5.906838853834792,6.022723574822138,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S4,2014-12-31,calibration,3,19.28207201512156,0.4762029507892943,18.78678805996569,19.736570472328005,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S4,2014-12-31,selection,3,7.555626922403029,0.05789015074385377,7.492904694862097,7.607005807837039,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S4,2014-12-31,test,3,5.091233942149722,0.14142845846620172,4.9934303044092525,5.2533958387069974,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S5,2014-12-31,calibration,3,21.725275142236494,0.6821210749933659,20.954473457229717,22.250988966117735,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S5,2014-12-31,selection,3,8.010248892772113,0.20817104142997153,7.770782830675242,8.14807021610872,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_2,S5,2014-12-31,test,3,5.373750013041516,0.09842609546752848,5.26604489372286,5.459025521693557,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_3,S5,2014-12-31,calibration,3,19.842675635908567,3.1769917261128113,18.00042789279161,23.511138013644363,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_3,S5,2014-12-31,selection,3,8.324394271631041,0.3878688313019086,8.065010307826446,8.770285873688504,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_3,S5,2014-12-31,test,3,5.3366545876800435,0.11717936139814852,5.247389703382809,5.469348588191143,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_4,S5,2014-12-31,calibration,3,22.842643761988217,0.6092965382088348,22.25228698165966,23.469260570887176,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_4,S5,2014-12-31,selection,3,8.301225552804839,0.1497628290395533,8.159040991287904,8.457561999414162,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,MLP_Model_4,S5,2014-12-31,test,3,5.474038124739882,0.17850734368379603,5.352729332963717,5.679011627219573,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Poisson,S5,2014-12-31,calibration,1,26.680446263256517,,26.680446263256517,26.680446263256517,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Poisson,S5,2014-12-31,selection,1,7.64526712760417,,7.64526712760417,7.64526712760417,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Poisson,S5,2014-12-31,test,1,5.210277929561664,,5.210277929561664,5.210277929561664,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,RandomForest,S5,2014-12-31,calibration,3,20.61104340718911,0.038303194133741836,20.57382009490419,20.650342099072624,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,RandomForest,S5,2014-12-31,selection,3,7.864325632765817,0.009461068398742039,7.8534199102817395,7.870335923887652,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,RandomForest,S5,2014-12-31,test,3,5.267826261614422,0.006578839412415063,5.263978608924501,5.275422636293038,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,SVM_RBF,S5,2014-12-31,calibration,1,23.30638323119809,,23.30638323119809,23.30638323119809,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,SVM_RBF,S5,2014-12-31,selection,1,9.267888553313195,,9.267888553313195,9.267888553313195,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,SVM_RBF,S5,2014-12-31,test,1,5.720147467304431,,5.720147467304431,5.720147467304431,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Tweedie,S5,2014-12-31,calibration,1,39.779694168108506,,39.779694168108506,39.779694168108506,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Tweedie,S5,2014-12-31,selection,1,7.572535404591639,,7.572535404591639,7.572535404591639,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,Tweedie,S5,2014-12-31,test,1,5.304963755125041,,5.304963755125041,5.304963755125041,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,XGBoost,S5,2014-12-31,calibration,3,19.235322418114464,0.16299299170288598,19.05018120440678,19.357197693272024,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,XGBoost,S5,2014-12-31,selection,3,7.89331510867803,0.036124815823170994,7.8630040777771315,7.933288629135966,individual-seed error spread; primary error uses averaged count predictions
+main,Papua,XGBoost,S5,2014-12-31,test,3,5.082219473679928,0.008243231284286692,5.076858216634623,5.09171138359281,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S2,2014-12-31,calibration,1,38.379411973194706,,38.379411973194706,38.379411973194706,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S2,2014-12-31,selection,1,2.7656428559449324,,2.7656428559449324,2.7656428559449324,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S2,2014-12-31,test,1,21.448433088305382,,21.448433088305382,21.448433088305382,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S3,2014-12-31,calibration,1,42.108439964109174,,42.108439964109174,42.108439964109174,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S3,2014-12-31,selection,1,3.3583923088114154,,3.3583923088114154,3.3583923088114154,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S3,2014-12-31,test,1,22.19512467597084,,22.19512467597084,22.19512467597084,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S4,2014-12-31,calibration,1,36.23363666137437,,36.23363666137437,36.23363666137437,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S4,2014-12-31,selection,1,2.5793655006168157,,2.5793655006168157,2.5793655006168157,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S4,2014-12-31,test,1,18.280335582024023,,18.280335582024023,18.280335582024023,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S5,2014-12-31,calibration,1,36.09722751013484,,36.09722751013484,36.09722751013484,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S5,2014-12-31,selection,1,2.5761946569118526,,2.5761946569118526,2.5761946569118526,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,BayesianRidge,S5,2014-12-31,test,1,18.59288577122816,,18.59288577122816,18.59288577122816,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,ExtraTrees,S5,2014-12-31,calibration,3,42.263616775975315,0.2023304330222829,42.03303802582803,42.411504987107456,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,ExtraTrees,S5,2014-12-31,selection,3,2.671191571191766,0.00861792994732778,2.6617886594560787,2.6787139585981623,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,ExtraTrees,S5,2014-12-31,test,3,21.604016569584786,0.1146037697308086,21.528038376867144,21.73583801489658,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,KNN,S5,2014-12-31,calibration,1,44.11031323198215,,44.11031323198215,44.11031323198215,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,KNN,S5,2014-12-31,selection,1,3.0858784718024945,,3.0858784718024945,3.0858784718024945,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,KNN,S5,2014-12-31,test,1,22.46899288981776,,22.46899288981776,22.46899288981776,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,LightGBM,S5,2014-12-31,calibration,3,43.10360497465894,0.03990580878739465,43.07281763242605,43.14869002909871,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,LightGBM,S5,2014-12-31,selection,3,2.603210408446715,0.02056355492773779,2.581732981514014,2.622718380178675,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,LightGBM,S5,2014-12-31,test,3,21.402947843538836,0.3261582263820582,21.086710561075222,21.7381954618515,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_1,S5,2014-12-31,calibration,3,102.63572100007742,96.0895414702398,47.038692551387456,213.59028010822868,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_1,S5,2014-12-31,selection,3,3.2746416125057203,0.5330540166095237,2.6768913394093605,3.7006684021436924,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_1,S5,2014-12-31,test,3,26.19794291709468,2.1322771615924903,24.076082421211034,28.3404862755595,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S2,2014-12-31,calibration,3,45.279052294416374,3.3480287947475738,43.10393647748782,49.13445235836375,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S2,2014-12-31,selection,3,5.441589549774963,2.596814644093812,3.688496705014665,8.424897801128134,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S2,2014-12-31,test,3,24.133781905770217,0.5363895230079699,23.79503067873033,24.752211441472056,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S3,2014-12-31,calibration,3,49.982252280224515,2.1551509231590145,47.49514576932361,51.29929978149654,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S3,2014-12-31,selection,3,6.068926830422569,0.5210061364700087,5.4679811388921555,6.393804616521236,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S3,2014-12-31,test,3,25.604885468920088,0.36510872750868567,25.186291114801904,25.8576390370891,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S4,2014-12-31,calibration,3,169.44651710445052,199.647717042261,49.612963653788526,399.91871157054754,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S4,2014-12-31,selection,3,4.664962658647646,3.098128533618261,2.847368189118172,8.242216969902755,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S4,2014-12-31,test,3,123.78698706886577,167.29275608735242,25.920552563981236,316.95434378654784,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S5,2014-12-31,calibration,3,49.34169271759655,2.9067235488572134,47.237859499915125,52.658439592398985,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S5,2014-12-31,selection,3,2.8597658480303596,0.1632698489299097,2.7387689253770473,3.0454715459726236,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_2,S5,2014-12-31,test,3,25.70381654832636,1.3156322697341547,24.886773576552166,27.221490348312667,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_3,S5,2014-12-31,calibration,3,57.39005791028964,22.5411250992967,41.04138091211058,83.10414814790306,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_3,S5,2014-12-31,selection,3,4.329135946787906,1.4288698697963964,2.686540145798202,5.284889716400531,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_3,S5,2014-12-31,test,3,22.70759856855111,2.473103528401791,20.120863147845686,25.048745339414356,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_4,S5,2014-12-31,calibration,3,40.68608603749908,1.6963874326506938,39.603393981343785,42.64113774757312,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_4,S5,2014-12-31,selection,3,3.5051716675710565,0.612153590280456,3.1055600942864743,4.209918006126163,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,MLP_Model_4,S5,2014-12-31,test,3,21.569187182386674,0.7200892710021635,20.775279861402534,22.180178065058126,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Poisson,S5,2014-12-31,calibration,1,36.21898759207137,,36.21898759207137,36.21898759207137,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Poisson,S5,2014-12-31,selection,1,2.8623368410436454,,2.8623368410436454,2.8623368410436454,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Poisson,S5,2014-12-31,test,1,19.670345404054864,,19.670345404054864,19.670345404054864,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,RandomForest,S5,2014-12-31,calibration,3,43.83098161958779,0.09707000019406747,43.76591948705671,43.94255554840623,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,RandomForest,S5,2014-12-31,selection,3,2.699813079224048,0.003722244637341821,2.6964444969407304,2.703809208420288,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,RandomForest,S5,2014-12-31,test,3,21.72827050484155,0.12719337494491811,21.608173877451822,21.861535993414225,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,SVM_RBF,S5,2014-12-31,calibration,1,51.05809286740013,,51.05809286740013,51.05809286740013,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,SVM_RBF,S5,2014-12-31,selection,1,2.969838286510085,,2.969838286510085,2.969838286510085,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,SVM_RBF,S5,2014-12-31,test,1,23.901739440620894,,23.901739440620894,23.901739440620894,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Tweedie,S5,2014-12-31,calibration,1,36.243661407572795,,36.243661407572795,36.243661407572795,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Tweedie,S5,2014-12-31,selection,1,2.6906384863252177,,2.6906384863252177,2.6906384863252177,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,Tweedie,S5,2014-12-31,test,1,19.87231049742587,,19.87231049742587,19.87231049742587,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,XGBoost,S5,2014-12-31,calibration,3,43.658750804813984,0.10341210135745524,43.597281085766454,43.778143252491994,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,XGBoost,S5,2014-12-31,selection,3,2.543445132439228,0.026995739907569146,2.516682503183167,2.570668095438536,individual-seed error spread; primary error uses averaged count predictions
+main,South Sumatra,XGBoost,S5,2014-12-31,test,3,21.39868129755133,0.12489065278012865,21.271416509907375,21.521054056722026,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S2,2014-12-31,calibration,1,9.162807825285826,,9.162807825285826,9.162807825285826,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S2,2014-12-31,selection,1,2.1414072791291665,,2.1414072791291665,2.1414072791291665,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S2,2014-12-31,test,1,2.234910992526582,,2.234910992526582,2.234910992526582,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S3,2014-12-31,calibration,1,9.992552216871623,,9.992552216871623,9.992552216871623,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S3,2014-12-31,selection,1,2.5002786467006493,,2.5002786467006493,2.5002786467006493,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S3,2014-12-31,test,1,2.529094287749054,,2.529094287749054,2.529094287749054,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S4,2014-12-31,calibration,1,8.295577640804074,,8.295577640804074,8.295577640804074,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S4,2014-12-31,selection,1,2.0946337241319677,,2.0946337241319677,2.0946337241319677,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S4,2014-12-31,test,1,2.1705505568597045,,2.1705505568597045,2.1705505568597045,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S5,2014-12-31,calibration,1,8.26708639483159,,8.26708639483159,8.26708639483159,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S5,2014-12-31,selection,1,2.0806767038706275,,2.0806767038706275,2.0806767038706275,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,BayesianRidge,S5,2014-12-31,test,1,2.1739711004426483,,2.1739711004426483,2.1739711004426483,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,ExtraTrees,S5,2014-12-31,calibration,3,8.515520571141701,0.06839377093379763,8.463700428517534,8.593041809039642,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,ExtraTrees,S5,2014-12-31,selection,3,2.024492937848274,0.0116347955177733,2.0154838273220927,2.0376285656047277,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,ExtraTrees,S5,2014-12-31,test,3,2.2290706382444596,0.0054975754207856695,2.2239359268225236,2.2348705454967503,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,KNN,S5,2014-12-31,calibration,1,9.073453414115708,,9.073453414115708,9.073453414115708,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,KNN,S5,2014-12-31,selection,1,2.180229302685421,,2.180229302685421,2.180229302685421,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,KNN,S5,2014-12-31,test,1,2.436216887374609,,2.436216887374609,2.436216887374609,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,LightGBM,S5,2014-12-31,calibration,3,8.99897462421734,0.16908117627728908,8.804784026761554,9.1135614370631,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,LightGBM,S5,2014-12-31,selection,3,1.8628296968706761,0.02506754273526601,1.845477070977921,1.891569570810904,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,LightGBM,S5,2014-12-31,test,3,2.225745333274529,0.009744377158292355,2.217193830096398,2.2363540724088895,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_1,S5,2014-12-31,calibration,3,8.63493635683591,1.1423125058571,7.491237026673013,9.775856968879364,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_1,S5,2014-12-31,selection,3,2.061357637450972,0.06531203418518162,2.008207832251748,2.134268114557325,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_1,S5,2014-12-31,test,3,2.3430659258722986,0.042233183629190894,2.300202368708307,2.3846391641802893,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S2,2014-12-31,calibration,3,10.171174218399043,1.2771659250447323,9.048337727926354,11.560590930930223,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S2,2014-12-31,selection,3,2.4935352810267677,0.07231112897419832,2.444830033339656,2.5766224646228744,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S2,2014-12-31,test,3,2.5008501098247375,0.1073402977656362,2.4255502104618634,2.6237607385520936,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S3,2014-12-31,calibration,3,13.167640299164896,1.4194512102870658,12.105509273312213,14.779793228226612,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S3,2014-12-31,selection,3,2.9897648461172253,0.2287127140763423,2.8221244450708376,3.2503109008126976,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S3,2014-12-31,test,3,2.924998129971708,0.1469542966144668,2.7789588217842343,3.0728506354179475,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S4,2014-12-31,calibration,3,9.320345140859171,0.7279649393891732,8.47991836335451,9.754525516392173,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S4,2014-12-31,selection,3,2.1203306613087345,0.17631794622408192,1.99505965681332,2.3219568097712524,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S4,2014-12-31,test,3,2.5365093716964133,0.4883745012647204,2.1649651506332552,3.0896720405327653,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S5,2014-12-31,calibration,3,12.725242372871543,5.790372009802156,8.651032798038548,19.35353657776524,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S5,2014-12-31,selection,3,2.179884907874874,0.1870895226413258,2.0548698123847924,2.394973283074951,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_2,S5,2014-12-31,test,3,2.5043170985566756,0.4616367366615119,2.206034479625433,3.0360536067220836,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_3,S5,2014-12-31,calibration,3,12.32001447374413,4.625171947118696,9.270416113210503,17.64180956130222,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_3,S5,2014-12-31,selection,3,1.9770482895516313,0.04088315604170587,1.9306620997051847,2.007835690998662,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_3,S5,2014-12-31,test,3,2.3985066179679637,0.14437155805165935,2.304927932348852,2.564775745563956,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_4,S5,2014-12-31,calibration,3,19.842972494898323,10.906005955468176,7.328724130038553,27.319176985454284,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_4,S5,2014-12-31,selection,3,2.5182683013063905,0.6603679193424637,2.076995427197746,3.2774625131895765,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,MLP_Model_4,S5,2014-12-31,test,3,2.644394902200545,0.376553291789409,2.2676438046221934,3.020750075982884,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Poisson,S5,2014-12-31,calibration,1,7.061950968484837,,7.061950968484837,7.061950968484837,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Poisson,S5,2014-12-31,selection,1,2.083950906241239,,2.083950906241239,2.083950906241239,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Poisson,S5,2014-12-31,test,1,2.169626295033998,,2.169626295033998,2.169626295033998,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,RandomForest,S5,2014-12-31,calibration,3,8.536377708917557,0.02311116130583989,8.515893393897843,8.56143271239078,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,RandomForest,S5,2014-12-31,selection,3,1.9823129734530764,0.0016290901714601893,1.9804361121337046,1.9833608503444617,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,RandomForest,S5,2014-12-31,test,3,2.273365695515644,0.0092583060078204,2.265126332246763,2.283384605898574,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,SVM_RBF,S5,2014-12-31,calibration,1,11.692734968492365,,11.692734968492365,11.692734968492365,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,SVM_RBF,S5,2014-12-31,selection,1,2.8997049516252393,,2.8997049516252393,2.8997049516252393,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,SVM_RBF,S5,2014-12-31,test,1,2.310701466018778,,2.310701466018778,2.310701466018778,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Tweedie,S5,2014-12-31,calibration,1,8.251589603225066,,8.251589603225066,8.251589603225066,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Tweedie,S5,2014-12-31,selection,1,2.1410478262073904,,2.1410478262073904,2.1410478262073904,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,Tweedie,S5,2014-12-31,test,1,2.266332865587503,,2.266332865587503,2.266332865587503,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,XGBoost,S5,2014-12-31,calibration,3,9.091545154562453,0.16693166939081402,8.92993049011263,9.263328898134935,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,XGBoost,S5,2014-12-31,selection,3,1.8529260903276603,0.017678431131048094,1.833707084088207,1.8684937203872147,individual-seed error spread; primary error uses averaged count predictions
+main,Sulawesi,XGBoost,S5,2014-12-31,test,3,2.2340536151139854,0.011706904010807215,2.226883126931132,2.247563055693437,individual-seed error spread; primary error uses averaged count predictions

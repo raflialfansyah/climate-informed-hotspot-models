@@ -1,0 +1,16 @@
+{
+  "method": "calibrated_smearing",
+  "calibration_factor": 2.319742595207454,
+  "effective_factor": 2.319742595207454,
+  "calibration_n": 730,
+  "calibration_start": "2013-01-01",
+  "calibration_end": "2014-12-31",
+  "calibration_log_bias": -0.2785083090874151,
+  "selection_start": "2015-01-01",
+  "selection_end": "2016-12-31",
+  "selection_rmse_plain": 100.42008256459614,
+  "selection_rmse_corrected": 86.72881370254318,
+  "correction_policy": "calibration residuals; choose on later selection; tie uses plain",
+  "test_outcomes_used_for_choice": false,
+  "smoke_only": false
+}

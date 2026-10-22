@@ -1,0 +1,43 @@
+{
+  "checked": "2026-10-22",
+  "repository": "https://github.com/raflialfansyah/climate-informed-hotspot-models",
+  "repository_contents_uploaded": false,
+  "sst": {
+    "product_family": "NOAA OISST",
+    "evidence": "Original manuscript Section 2.3.1, pages 8-9, plus author-supplied GeT_DaTa_OISST.m and Proses_data_Nino_IOD.m",
+    "url": "https://www.ncei.noaa.gov/products/optimum-interpolation-sst",
+    "version_documented_in_author_scripts": "v2.1 / v02r01",
+    "regional_construction_documented": true,
+    "documented_units": "degrees Celsius",
+    "raw_context_match_verified": true,
+    "original_grids_reprocessed": false,
+    "source_script_audit": "OISST_SOURCE_AUDIT_2026-10-22.json"
+  },
+  "ecmwf": {
+    "product": "ERA5 hourly data on single levels from 1940 to present",
+    "evidence": "Author source URL supplied 22 October 2026; official CDS catalogue checked",
+    "doi": "10.24381/cds.adbb2d47",
+    "url": "https://cds.climate.copernicus.eu/datasets/reanalysis-era5-single-levels?tab=overview",
+    "licence": "CC-BY-4.0",
+    "supplied_sampling": "one 00 UTC sample per date",
+    "daily_mean_or_evaporation_accumulation_interval_independently_verified": false
+  },
+  "source_policies": [
+    {
+      "source": "NASA",
+      "url": "https://www.earthdata.nasa.gov/engage/open-data-services-software/data-use-policy"
+    },
+    {
+      "source": "NOAA",
+      "url": "https://www.noaa.gov/office-education/outreach-communication/faq"
+    },
+    {
+      "source": "ECMWF attribution",
+      "url": "https://confluence.ecmwf.int/pages/viewpage.action?navigatingVersions=true&pageId=673339011"
+    },
+    {
+      "source": "GADM",
+      "url": "https://gadm.org/license.html"
+    }
+  ]
+}

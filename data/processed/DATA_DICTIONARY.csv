@@ -1,0 +1,14 @@
+column,meaning,units,qualification
+unit,Geographic aggregate,domain label,National plus six named fixed regional supports; not an exhaustive ecological partition
+issue_date,Target-day calendar date,YYYY-MM-DD,Retained internal name; not a real-time publication or issue timestamp
+hotspot_count_issue,Aggregate daily satellite detections,count,Sum of supplied cell counts; original manuscript attributes MODIS Terra/Aqua via NASA FIRMS; upstream processing qualified
+hth_mean_issue,Regional mean dry-spell duration,cell-counter steps averaged over area,Legacy code name retained; original CRT units and stored-calendar correspondence qualified
+rain_mm_issue,Regional CMORPH V1.0 ADJ rainfall,mm/day,Cosine-latitude weighted mean over recorded native support; UTC day
+evaporation_mm_issue,Regional signed accumulated evaporation,mm,"Negative evaporation, positive condensation; original accumulation interval not established"
+wind_speed_issue,Regional sampled resultant wind speed,m/s,Area mean of cell-level sqrt(u10²+v10²) at recorded sample; daily mean not established
+nino_sst_issue,Supplied Niño-region SST series,degrees Celsius,OISST v2.1; 190<lon<240E and -5<lat<5N; arithmetic grid-cell mean; main scheme recomputes fitting-prefix anomalies
+iod_west_sst_issue,Supplied western-pole SST series,degrees Celsius,OISST v2.1; 50<lon<70E and -10<lat<10N; arithmetic mean omitting missing cells; raw SST not IOD anomaly
+iod_east_sst_issue,Supplied eastern-pole SST series,degrees Celsius,OISST v2.1; 90<lon<110E and -10<lat<0N; arithmetic mean omitting missing cells; IOD is western minus eastern anomaly
+mjo_amp,Supplied ROMI archive amplitude,index units,Archive amplitude retained; not substituted by a recomputed norm
+romi1,ROMI component 1,index units,OLR-based NOAA PSL ROMI; not multivariate RMM
+romi2,ROMI component 2,index units,OLR-based NOAA PSL ROMI; not multivariate RMM

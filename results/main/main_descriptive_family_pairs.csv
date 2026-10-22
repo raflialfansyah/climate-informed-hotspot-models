@@ -1,0 +1,106 @@
+unit,left_model,right_model,metric,difference,lower,upper,posthoc_comparison
+National,BayesianRidge,MLP_Model_3,rmse_count,-7.679713055739775,-11.803580232006313,-0.8110461962293873,True
+National,BayesianRidge,MLP_Model_3,mae_count,-5.372949770404325,-9.09049461581113,-2.2934148907853897,True
+National,BayesianRidge,MLP_Model_3,r2_count,0.10344429086815221,0.06563115864085278,0.394683327616907,True
+National,BayesianRidge,MLP_Model_3,bias_count,-8.41327551713939,-13.28780654196177,-4.016399172770795,True
+National,BayesianRidge,MLP_Model_3,smape_count,-12.873778025732122,-15.590814556235065,-10.304849246768141,True
+National,BayesianRidge,MLP_Model_3,mae90_count,-3.0789748465674336,-6.876095580557518,68.80592245344134,True
+National,BayesianRidge,MLP_Model_3,rmse90_count,-4.9510251674520305,-7.683420512747631,49.10857800958117,True
+National,BayesianRidge,MLP_Model_3,pod,-0.22077922077922085,-0.32903225806451614,-0.16792452830188692,True
+National,BayesianRidge,MLP_Model_3,far,-0.288179325915175,-0.3211538461538461,-0.2178571428571428,True
+National,BayesianRidge,MLP_Model_3,csi,0.04023569023569029,-0.29230769230769227,0.08620689655172414,True
+National,BayesianRidge,MLP_Model_3,hits,-17.0,-37.0,-1.0,True
+National,BayesianRidge,MLP_Model_3,misses,17.0,1.0,37.0,True
+National,BayesianRidge,MLP_Model_3,false_alarms,-47.0,-105.05,0.0,True
+National,BayesianRidge,MLP_Model_3,correct_negatives,47.0,0.0,105.04999999999995,True
+National,BayesianRidge,MLP_Model_3,zero_day_false_detections,0.0,0.0,0.0,True
+North Sumatra,BayesianRidge,MLP_Model_2,rmse_count,-1.1042150613834272,-1.6760760567094801,-0.4338675106188701,True
+North Sumatra,BayesianRidge,MLP_Model_2,mae_count,-0.11226685057732855,-0.27892299260800735,0.042698865024347804,True
+North Sumatra,BayesianRidge,MLP_Model_2,r2_count,0.16268593809376403,0.09854739907155585,0.5734745848241657,True
+North Sumatra,BayesianRidge,MLP_Model_2,bias_count,0.3479670119208637,-0.02678139690358104,0.8326255233152726,True
+North Sumatra,BayesianRidge,MLP_Model_2,smape_count,-22.012500176174655,-25.10267587743354,-18.83865079429234,True
+North Sumatra,BayesianRidge,MLP_Model_2,mae90_count,-5.1749866573244105,-5.739138878156557,-0.8638211402167927,True
+North Sumatra,BayesianRidge,MLP_Model_2,rmse90_count,-5.653771273984297,-6.70098739556158,0.13486364838517137,True
+North Sumatra,BayesianRidge,MLP_Model_2,pod,0.11111111111111116,0.0,0.13333333333333336,True
+North Sumatra,BayesianRidge,MLP_Model_2,far,-0.16959459459459458,-0.2774509803921569,-0.046218487394957986,True
+North Sumatra,BayesianRidge,MLP_Model_2,csi,0.11666666666666659,0.0,0.1359400021351553,True
+North Sumatra,BayesianRidge,MLP_Model_2,hits,5.0,0.0,15.0,True
+North Sumatra,BayesianRidge,MLP_Model_2,misses,-5.0,-15.0,0.0,True
+North Sumatra,BayesianRidge,MLP_Model_2,false_alarms,-8.0,-19.0,2.0,True
+North Sumatra,BayesianRidge,MLP_Model_2,correct_negatives,8.0,-2.0,19.0,True
+North Sumatra,BayesianRidge,MLP_Model_2,zero_day_false_detections,-1.0,-3.0,0.0,True
+South Sumatra,BayesianRidge,MLP_Model_1,rmse_count,-1.7291825346499152,-2.6685763954518693,-0.3442529112181262,True
+South Sumatra,BayesianRidge,MLP_Model_1,mae_count,-0.427481465127066,-0.8931992581936383,-0.028962532862569484,True
+South Sumatra,BayesianRidge,MLP_Model_1,r2_count,0.08541234128384334,0.06704871290663206,0.30966428831422926,True
+South Sumatra,BayesianRidge,MLP_Model_1,bias_count,-0.3478840111750271,-0.7419775786285626,0.0021160785414020278,True
+South Sumatra,BayesianRidge,MLP_Model_1,smape_count,-48.34083892363091,-54.47500877701139,-42.10700850469178,True
+South Sumatra,BayesianRidge,MLP_Model_1,mae90_count,-2.143830904558719,-4.707814440300851,3.9931276567065837,True
+South Sumatra,BayesianRidge,MLP_Model_1,rmse90_count,-5.954602981125504,-6.787474059599831,4.116747566900285,True
+South Sumatra,BayesianRidge,MLP_Model_1,pod,-0.044642857142857095,-0.25925925925925924,-0.014384057971014448,True
+South Sumatra,BayesianRidge,MLP_Model_1,far,-0.1119139008052984,-0.22903726708074537,-0.06397058823529411,True
+South Sumatra,BayesianRidge,MLP_Model_1,csi,0.04224774405250209,-0.14051724137931032,0.06594408677764739,True
+South Sumatra,BayesianRidge,MLP_Model_1,hits,-5.0,-9.0,-1.0,True
+South Sumatra,BayesianRidge,MLP_Model_1,misses,5.0,1.0,9.0,True
+South Sumatra,BayesianRidge,MLP_Model_1,false_alarms,-21.0,-42.525,-4.0,True
+South Sumatra,BayesianRidge,MLP_Model_1,correct_negatives,21.0,4.0,42.52499999999998,True
+South Sumatra,BayesianRidge,MLP_Model_1,zero_day_false_detections,-3.0,-8.0,0.0,True
+Kalimantan,Poisson,MLP_Model_2,rmse_count,-0.7711276487714471,-6.8100260905782735,2.1909739133887127,True
+Kalimantan,Poisson,MLP_Model_2,mae_count,-0.33672835606602725,-0.8680815760527859,0.11421280026120977,True
+Kalimantan,Poisson,MLP_Model_2,r2_count,0.01727609935437069,-0.02665776784573662,1.0004309864080068,True
+Kalimantan,Poisson,MLP_Model_2,bias_count,0.04566072754553274,-0.5745712668877887,0.950584014717407,True
+Kalimantan,Poisson,MLP_Model_2,smape_count,-3.859573292951552,-5.358575766473216,-2.754617893645253,True
+Kalimantan,Poisson,MLP_Model_2,mae90_count,-6.20094511848022,-10.864894764940098,0.08047975679973488,True
+Kalimantan,Poisson,MLP_Model_2,rmse90_count,5.235520885059785,-13.361250715759395,16.268873847982917,True
+Kalimantan,Poisson,MLP_Model_2,pod,0.021505376344086002,-0.10526315789473684,0.051631701631701644,True
+Kalimantan,Poisson,MLP_Model_2,far,-0.024977538185085302,-0.057540680842567624,0.06120370370370363,True
+Kalimantan,Poisson,MLP_Model_2,csi,0.02683632157316379,-0.05480070863080511,0.05129687002016685,True
+Kalimantan,Poisson,MLP_Model_2,hits,2.0,-2.5249999999999986,7.0,True
+Kalimantan,Poisson,MLP_Model_2,misses,-2.0,-7.0,2.5249999999999773,True
+Kalimantan,Poisson,MLP_Model_2,false_alarms,-3.0,-6.0,1.0,True
+Kalimantan,Poisson,MLP_Model_2,correct_negatives,3.0,-1.0,6.0,True
+Kalimantan,Poisson,MLP_Model_2,zero_day_false_detections,1.0,0.0,3.0,True
+Sulawesi,Poisson,MLP_Model_1,rmse_count,-0.004551913969642829,-0.0646187028130516,0.03285310814063762,True
+Sulawesi,Poisson,MLP_Model_1,mae_count,0.06328022335412631,0.03638743715394854,0.0989836745765891,True
+Sulawesi,Poisson,MLP_Model_1,r2_count,0.002373447554497199,-0.011914490400977158,0.10445773843781163,True
+Sulawesi,Poisson,MLP_Model_1,bias_count,0.16377094298491401,0.07406403298495923,0.27921036736788074,True
+Sulawesi,Poisson,MLP_Model_1,smape_count,-3.680163942399332,-5.125505243453894,-2.3420625641681623,True
+Sulawesi,Poisson,MLP_Model_1,mae90_count,-0.12263402788764122,-0.537052076643766,0.21737325032649585,True
+Sulawesi,Poisson,MLP_Model_1,rmse90_count,-0.05918445432059727,-0.3395312901968063,0.05690016414231813,True
+Sulawesi,Poisson,MLP_Model_1,pod,0.08724832214765105,-0.04709302325581395,0.13026687875574405,True
+Sulawesi,Poisson,MLP_Model_1,far,0.016493157094397026,-0.058119658119658135,0.25,True
+Sulawesi,Poisson,MLP_Model_1,csi,0.05900519087982131,-0.04126275510204081,0.08614136774820806,True
+Sulawesi,Poisson,MLP_Model_1,hits,13.0,-2.0,31.524999999999977,True
+Sulawesi,Poisson,MLP_Model_1,misses,-13.0,-31.525,2.0,True
+Sulawesi,Poisson,MLP_Model_1,false_alarms,7.0,-6.0,21.574999999999932,True
+Sulawesi,Poisson,MLP_Model_1,correct_negatives,-7.0,-21.574999999999996,6.0,True
+Sulawesi,Poisson,MLP_Model_1,zero_day_false_detections,1.0,-6.0,6.524999999999977,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,rmse_count,-0.425653448539959,-0.7548107953066202,-0.10991617098514869,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,mae_count,-0.28471998948034205,-0.38827352416577215,-0.1984793943706168,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,r2_count,0.15515672527282837,0.06250498749673689,0.2073462543877514,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,bias_count,-0.1236081769952645,-0.3363592397824606,0.14118560952535097,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,smape_count,-27.321850280173663,-40.240537420346406,-15.461941813246476,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,mae90_count,-0.7259412952115278,-1.5549450392500423,0.4388003575988132,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,rmse90_count,-1.314085284086115,-2.3320237330061837,0.3374137581954215,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,pod,0.044117647058823595,-0.1418918918918919,0.1489929178213696,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,far,-0.1340334306841483,-0.22744750547755985,-0.0735852181798784,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,csi,0.0658345973751896,-0.0750091843078883,0.13065582041524038,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,hits,9.0,-20.525,42.0,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,misses,-9.0,-42.0,20.524999999999977,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,false_alarms,-21.0,-37.525,-5.0,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,correct_negatives,21.0,5.0,37.52499999999998,True
+Nusa Tenggara,BayesianRidge,MLP_Model_3,zero_day_false_detections,-10.0,-16.0,-5.0,True
+Papua,XGBoost,MLP_Model_3,rmse_count,-0.1262505926491455,-0.45235214749352043,0.0898174696078298,True
+Papua,XGBoost,MLP_Model_3,mae_count,-0.21972879743519425,-0.2493267146325979,-0.19741519219814715,True
+Papua,XGBoost,MLP_Model_3,r2_count,0.035817605030643074,-0.022478561006921333,0.15044710396823652,True
+Papua,XGBoost,MLP_Model_3,bias_count,-0.22373677332171588,-0.30234266379966795,-0.1256024852956436,True
+Papua,XGBoost,MLP_Model_3,smape_count,0.5632400993079614,-0.1600899490389423,1.2069108699355093,True
+Papua,XGBoost,MLP_Model_3,mae90_count,-0.1335137180269399,-0.2115072538753851,0.1017066414534387,True
+Papua,XGBoost,MLP_Model_3,rmse90_count,-0.20667646845056353,-1.2904075726558597,0.547975346557783,True
+Papua,XGBoost,MLP_Model_3,pod,0.021621621621621623,-0.09183673469387757,0.08813533374157988,True
+Papua,XGBoost,MLP_Model_3,far,-0.03892906601015539,-0.1884873949579832,-0.007393513378213319,True
+Papua,XGBoost,MLP_Model_3,csi,0.029123458700923477,-0.043921578421578414,0.060828055581813034,True
+Papua,XGBoost,MLP_Model_3,hits,4.0,-9.0,21.0,True
+Papua,XGBoost,MLP_Model_3,misses,-4.0,-21.0,9.0,True
+Papua,XGBoost,MLP_Model_3,false_alarms,-11.0,-28.0,4.0,True
+Papua,XGBoost,MLP_Model_3,correct_negatives,11.0,-4.0,28.0,True
+Papua,XGBoost,MLP_Model_3,zero_day_false_detections,-6.0,-14.0,2.0,True

@@ -1,0 +1,92 @@
+unit,Procedure,Leading feature,Mean delta RMSE,Repeat SD,First5/10 Jaccard,7/30 Jaccard,30/90 Jaccard,30/month Jaccard
+Kalimantan,BayesianRidge,"Dry-spell duration (DS), lag 1 day(s)",106.966,54.556,1.000,0.818,0.739,0.379
+Kalimantan,ExtraTrees,"Log hotspot count, lag 2 day(s)",9.938,3.427,1.000,0.905,0.905,0.538
+Kalimantan,KNN,"Dry-spell duration (DS), lag 0 day(s)",1.940,0.856,0.818,0.667,0.379,0.379
+Kalimantan,LightGBM,"Log hotspot count, lag 2 day(s)",10.119,3.739,0.905,1.000,0.905,0.333
+Kalimantan,MLP_Model_1,"Dry-spell duration (DS), lag 0 day(s)",6.004,2.799,0.818,0.667,0.600,0.481
+Kalimantan,MLP_Model_2,"Log hotspot count, lag 1 day(s)",16.235,5.097,0.739,0.667,0.739,0.739
+Kalimantan,MLP_Model_3,"Dry-spell duration (DS), lag 0 day(s)",8.726,3.251,0.905,0.905,0.818,0.333
+Kalimantan,MLP_Model_4,"Log hotspot count, lag 1 day(s)",38.383,18.403,0.905,0.818,0.818,0.481
+Kalimantan,Poisson,"Dry-spell duration (DS), lag 3 day(s)",30.408,15.606,1.000,0.818,0.739,0.538
+Kalimantan,RandomForest,"Log hotspot count, lag 2 day(s)",12.709,4.357,0.818,0.905,0.818,0.600
+Kalimantan,SVM_RBF,"Dry-spell duration (DS), lag 0 day(s)",3.522,2.562,0.667,0.600,0.667,0.481
+Kalimantan,Tweedie,"Dry-spell duration (DS), lag 3 day(s)",9.840,4.967,0.905,0.667,0.739,0.600
+Kalimantan,XGBoost,"Log hotspot count, lag 2 day(s)",10.382,3.820,0.905,0.905,0.818,0.481
+National,BayesianRidge,"Log hotspot count, lag 2 day(s)",17.497,7.998,1.000,0.818,0.905,0.600
+National,ExtraTrees,Previous 3-day log hotspot mean,9.857,5.527,1.000,0.905,0.905,0.600
+National,KNN,"Dry-spell duration (DS), lag 1 day(s)",1.665,1.676,0.739,0.783,0.667,0.429
+National,LightGBM,"Log hotspot count, lag 2 day(s)",12.800,5.358,0.818,0.818,0.739,0.481
+National,MLP_Model_1,"Dry-spell duration (DS), lag 1 day(s)",2.519,2.879,0.538,0.538,0.481,0.538
+National,MLP_Model_2,"Log hotspot count, lag 2 day(s)",6.062,3.762,0.905,0.818,0.739,0.333
+National,MLP_Model_3,"Log hotspot count, lag 2 day(s)",4.113,4.532,0.667,0.600,0.538,0.212
+National,MLP_Model_4,"Log hotspot count, lag 2 day(s)",5.726,3.439,1.000,1.000,0.818,0.429
+National,Poisson,"Log hotspot count, lag 2 day(s)",18.400,8.447,1.000,0.818,1.000,0.600
+National,RandomForest,Previous 3-day log hotspot mean,14.437,7.773,0.905,0.905,0.905,0.667
+National,SVM_RBF,"Dry-spell duration (DS), lag 0 day(s)",7.109,4.489,0.905,0.905,0.667,0.333
+National,Tweedie,"Log hotspot count, lag 2 day(s)",11.639,6.305,0.864,0.818,0.818,0.640
+National,XGBoost,Previous 3-day log hotspot mean,15.281,9.142,0.818,0.905,0.739,0.429
+North Sumatra,BayesianRidge,"Log hotspot count, lag 2 day(s)",1.506,0.337,0.905,0.905,0.818,0.538
+North Sumatra,ExtraTrees,"Log hotspot count, lag 2 day(s)",0.644,0.239,0.818,0.667,0.481,0.429
+North Sumatra,KNN,"Log hotspot count, lag 3 day(s)",0.039,0.039,0.409,0.412,0.350,0.174
+North Sumatra,LightGBM,"Log hotspot count, lag 2 day(s)",0.923,0.234,0.818,0.739,0.739,0.667
+North Sumatra,MLP_Model_1,"ROMI1, lag 3 day(s)",3.138,2.219,0.739,0.538,0.600,0.290
+North Sumatra,MLP_Model_2,"Log hotspot count, lag 2 day(s)",0.887,0.283,0.905,1.000,0.667,0.429
+North Sumatra,MLP_Model_3,"Log hotspot count, lag 2 day(s)",0.613,0.352,0.739,0.667,0.667,0.429
+North Sumatra,MLP_Model_4,"Log hotspot count, lag 2 day(s)",0.925,0.335,0.739,0.818,0.739,0.429
+North Sumatra,Poisson,"Log hotspot count, lag 3 day(s)",2.814,0.528,0.905,0.739,0.739,0.538
+North Sumatra,RandomForest,"Log hotspot count, lag 2 day(s)",0.744,0.258,0.818,0.538,0.538,0.600
+North Sumatra,SVM_RBF,Previous 30-day log hotspot std,0.876,0.426,0.739,0.667,0.600,0.481
+North Sumatra,Tweedie,"Log hotspot count, lag 3 day(s)",0.827,0.148,1.000,0.783,0.538,0.667
+North Sumatra,XGBoost,"Log hotspot count, lag 2 day(s)",0.804,0.250,0.818,0.818,0.600,0.538
+Nusa Tenggara,BayesianRidge,"Dry-spell duration (DS), lag 3 day(s)",1.809,0.500,0.905,0.905,0.905,0.379
+Nusa Tenggara,ExtraTrees,"Log hotspot count, lag 2 day(s)",0.539,0.135,0.905,1.000,1.000,0.250
+Nusa Tenggara,KNN,"Log hotspot count, lag 2 day(s)",0.181,0.052,0.818,0.818,0.905,0.212
+Nusa Tenggara,LightGBM,"Log hotspot count, lag 2 day(s)",0.531,0.122,1.000,0.905,0.905,0.379
+Nusa Tenggara,MLP_Model_1,Previous 60-day log hotspot mean,0.313,0.064,0.818,0.739,0.667,0.176
+Nusa Tenggara,MLP_Model_2,"Log hotspot count, lag 2 day(s)",0.307,0.076,0.905,1.000,0.905,0.250
+Nusa Tenggara,MLP_Model_3,"Log hotspot count, lag 2 day(s)",0.330,0.079,1.000,1.000,0.905,0.290
+Nusa Tenggara,MLP_Model_4,"Log hotspot count, lag 2 day(s)",0.187,0.106,0.818,0.739,0.739,0.176
+Nusa Tenggara,Poisson,"Log hotspot count, lag 2 day(s)",0.223,0.096,0.818,0.739,0.739,0.429
+Nusa Tenggara,RandomForest,"Log hotspot count, lag 2 day(s)",0.508,0.128,0.905,0.905,0.905,0.250
+Nusa Tenggara,SVM_RBF,"Dry-spell duration (DS), lag 3 day(s)",0.130,0.041,0.905,0.600,0.538,0.333
+Nusa Tenggara,Tweedie,"Log hotspot count, lag 2 day(s)",0.114,0.062,0.905,0.905,0.818,0.429
+Nusa Tenggara,XGBoost,"Log hotspot count, lag 2 day(s)",0.511,0.113,0.905,0.905,0.905,0.290
+Papua,BayesianRidge,"Log hotspot count, lag 2 day(s)",0.295,0.064,0.905,1.000,1.000,0.429
+Papua,ExtraTrees,"Log hotspot count, lag 2 day(s)",0.132,0.035,0.905,1.000,0.905,0.429
+Papua,KNN,"Log hotspot count, lag 7 day(s)",0.160,0.033,0.864,0.739,0.667,0.333
+Papua,LightGBM,"Log hotspot count, lag 7 day(s)",0.227,0.053,0.818,0.739,0.905,0.429
+Papua,MLP_Model_1,"Log hotspot count, lag 2 day(s)",0.189,0.049,0.905,0.667,0.818,0.250
+Papua,MLP_Model_2,"Log hotspot count, lag 7 day(s)",0.222,0.048,0.818,0.739,0.739,0.481
+Papua,MLP_Model_3,"Log hotspot count, lag 7 day(s)",0.303,0.074,0.905,0.667,0.600,0.379
+Papua,MLP_Model_4,"Log hotspot count, lag 7 day(s)",0.231,0.048,1.000,0.905,0.905,0.379
+Papua,Poisson,"Log hotspot count, lag 2 day(s)",0.276,0.065,0.905,1.000,0.905,0.429
+Papua,RandomForest,"Rainfall, 3-day sum through target day",0.141,0.047,0.905,0.905,0.905,0.538
+Papua,SVM_RBF,"Dry-spell duration (DS), lag 0 day(s)",0.115,0.029,0.905,0.818,0.905,0.379
+Papua,Tweedie,"Log hotspot count, lag 2 day(s)",0.202,0.046,1.000,0.905,0.818,0.538
+Papua,XGBoost,"Log hotspot count, lag 7 day(s)",0.217,0.052,1.000,1.000,0.818,0.429
+South Sumatra,BayesianRidge,"Dry-spell duration (DS), lag 1 day(s)",37.326,14.741,1.000,1.000,0.739,0.481
+South Sumatra,ExtraTrees,"Log hotspot count, lag 2 day(s)",3.693,1.637,0.905,1.000,1.000,0.667
+South Sumatra,KNN,"Log hotspot count, lag 2 day(s)",1.727,1.002,1.000,0.905,0.818,0.379
+South Sumatra,LightGBM,"Log hotspot count, lag 2 day(s)",4.042,1.808,0.905,0.818,0.818,0.600
+South Sumatra,MLP_Model_1,"Log hotspot count, lag 2 day(s)",4.158,2.249,1.000,0.818,0.818,0.429
+South Sumatra,MLP_Model_2,"Log hotspot count, lag 2 day(s)",1.194,0.477,1.000,0.905,1.000,0.333
+South Sumatra,MLP_Model_3,"Log hotspot count, lag 2 day(s)",3.764,2.016,0.739,0.667,0.667,0.538
+South Sumatra,MLP_Model_4,"Dry-spell duration (DS), lag 7 day(s)",4.764,1.170,0.818,0.739,0.739,0.538
+South Sumatra,Poisson,"Log hotspot count, lag 2 day(s)",4.579,2.139,0.818,0.739,0.739,0.429
+South Sumatra,RandomForest,"Log hotspot count, lag 2 day(s)",3.675,1.679,0.818,0.905,0.818,0.667
+South Sumatra,SVM_RBF,"Dry-spell duration (DS), lag 0 day(s)",2.576,1.680,0.905,0.600,0.538,0.250
+South Sumatra,Tweedie,"Log hotspot count, lag 2 day(s)",3.841,1.861,0.905,1.000,0.905,0.667
+South Sumatra,XGBoost,"Log hotspot count, lag 2 day(s)",3.920,1.758,0.818,0.905,0.905,0.538
+Sulawesi,BayesianRidge,"Dry-spell duration (DS), lag 3 day(s)",0.287,0.132,0.905,0.818,0.818,0.481
+Sulawesi,ExtraTrees,"Log hotspot count, lag 2 day(s)",0.255,0.084,0.905,0.739,0.739,0.481
+Sulawesi,KNN,"Log hotspot count, lag 2 day(s)",0.073,0.046,0.667,0.538,0.667,0.481
+Sulawesi,LightGBM,"Log hotspot count, lag 2 day(s)",0.175,0.090,0.739,0.739,0.600,0.379
+Sulawesi,MLP_Model_1,"Log hotspot count, lag 7 day(s)",0.253,0.084,0.818,0.667,0.600,0.333
+Sulawesi,MLP_Model_2,"Signed evaporation, lag 0 day(s)",0.215,0.121,0.905,0.818,0.818,0.600
+Sulawesi,MLP_Model_3,"Log hotspot count, lag 7 day(s)",0.147,0.070,0.905,0.600,0.667,0.538
+Sulawesi,MLP_Model_4,"Signed evaporation, lag 0 day(s)",0.499,0.451,1.000,0.739,0.818,0.600
+Sulawesi,Poisson,"Log hotspot count, lag 2 day(s)",0.194,0.065,0.905,0.818,0.818,0.538
+Sulawesi,RandomForest,"Log hotspot count, lag 2 day(s)",0.180,0.069,0.739,0.667,0.600,0.379
+Sulawesi,SVM_RBF,"Log hotspot count, lag 7 day(s)",0.168,0.061,0.818,0.667,0.481,0.143
+Sulawesi,Tweedie,"Log hotspot count, lag 2 day(s)",0.142,0.045,0.905,0.739,0.739,0.481
+Sulawesi,XGBoost,"Log hotspot count, lag 2 day(s)",0.176,0.085,0.818,0.739,0.739,0.481

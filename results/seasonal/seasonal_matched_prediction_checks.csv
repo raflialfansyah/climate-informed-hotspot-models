@@ -1,0 +1,92 @@
+unit,model,aligned_days,same_outcomes,all_year_metrics_checked
+National,RandomForest,2557,True,15
+National,ExtraTrees,2557,True,15
+National,XGBoost,2557,True,15
+National,LightGBM,2557,True,15
+National,SVM_RBF,2557,True,15
+National,KNN,2557,True,15
+National,BayesianRidge,2557,True,15
+National,MLP_Model_1,2557,True,15
+National,MLP_Model_2,2557,True,15
+National,MLP_Model_3,2557,True,15
+National,MLP_Model_4,2557,True,15
+National,Poisson,2557,True,15
+National,Tweedie,2557,True,15
+North Sumatra,RandomForest,2557,True,15
+North Sumatra,ExtraTrees,2557,True,15
+North Sumatra,XGBoost,2557,True,15
+North Sumatra,LightGBM,2557,True,15
+North Sumatra,SVM_RBF,2557,True,15
+North Sumatra,KNN,2557,True,15
+North Sumatra,BayesianRidge,2557,True,15
+North Sumatra,MLP_Model_1,2557,True,15
+North Sumatra,MLP_Model_2,2557,True,15
+North Sumatra,MLP_Model_3,2557,True,15
+North Sumatra,MLP_Model_4,2557,True,15
+North Sumatra,Poisson,2557,True,15
+North Sumatra,Tweedie,2557,True,15
+South Sumatra,RandomForest,2557,True,15
+South Sumatra,ExtraTrees,2557,True,15
+South Sumatra,XGBoost,2557,True,15
+South Sumatra,LightGBM,2557,True,15
+South Sumatra,SVM_RBF,2557,True,15
+South Sumatra,KNN,2557,True,15
+South Sumatra,BayesianRidge,2557,True,15
+South Sumatra,MLP_Model_1,2557,True,15
+South Sumatra,MLP_Model_2,2557,True,15
+South Sumatra,MLP_Model_3,2557,True,15
+South Sumatra,MLP_Model_4,2557,True,15
+South Sumatra,Poisson,2557,True,15
+South Sumatra,Tweedie,2557,True,15
+Kalimantan,RandomForest,2557,True,15
+Kalimantan,ExtraTrees,2557,True,15
+Kalimantan,XGBoost,2557,True,15
+Kalimantan,LightGBM,2557,True,15
+Kalimantan,SVM_RBF,2557,True,15
+Kalimantan,KNN,2557,True,15
+Kalimantan,BayesianRidge,2557,True,15
+Kalimantan,MLP_Model_1,2557,True,15
+Kalimantan,MLP_Model_2,2557,True,15
+Kalimantan,MLP_Model_3,2557,True,15
+Kalimantan,MLP_Model_4,2557,True,15
+Kalimantan,Poisson,2557,True,15
+Kalimantan,Tweedie,2557,True,15
+Sulawesi,RandomForest,2557,True,15
+Sulawesi,ExtraTrees,2557,True,15
+Sulawesi,XGBoost,2557,True,15
+Sulawesi,LightGBM,2557,True,15
+Sulawesi,SVM_RBF,2557,True,15
+Sulawesi,KNN,2557,True,15
+Sulawesi,BayesianRidge,2557,True,15
+Sulawesi,MLP_Model_1,2557,True,15
+Sulawesi,MLP_Model_2,2557,True,15
+Sulawesi,MLP_Model_3,2557,True,15
+Sulawesi,MLP_Model_4,2557,True,15
+Sulawesi,Poisson,2557,True,15
+Sulawesi,Tweedie,2557,True,15
+Nusa Tenggara,RandomForest,2557,True,15
+Nusa Tenggara,ExtraTrees,2557,True,15
+Nusa Tenggara,XGBoost,2557,True,15
+Nusa Tenggara,LightGBM,2557,True,15
+Nusa Tenggara,SVM_RBF,2557,True,15
+Nusa Tenggara,KNN,2557,True,15
+Nusa Tenggara,BayesianRidge,2557,True,15
+Nusa Tenggara,MLP_Model_1,2557,True,15
+Nusa Tenggara,MLP_Model_2,2557,True,15
+Nusa Tenggara,MLP_Model_3,2557,True,15
+Nusa Tenggara,MLP_Model_4,2557,True,15
+Nusa Tenggara,Poisson,2557,True,15
+Nusa Tenggara,Tweedie,2557,True,15
+Papua,RandomForest,2557,True,15
+Papua,ExtraTrees,2557,True,15
+Papua,XGBoost,2557,True,15
+Papua,LightGBM,2557,True,15
+Papua,SVM_RBF,2557,True,15
+Papua,KNN,2557,True,15
+Papua,BayesianRidge,2557,True,15
+Papua,MLP_Model_1,2557,True,15
+Papua,MLP_Model_2,2557,True,15
+Papua,MLP_Model_3,2557,True,15
+Papua,MLP_Model_4,2557,True,15
+Papua,Poisson,2557,True,15
+Papua,Tweedie,2557,True,15

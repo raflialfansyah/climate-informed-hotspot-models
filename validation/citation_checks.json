@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "schema_url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/1.2.0/schema.json",
+  "authors": 6,
+  "repository": "https://github.com/raflialfansyah/climate-informed-hotspot-models",
+  "version": "0.1.0-rc1",
+  "publication_date_or_doi_invented": false
+}

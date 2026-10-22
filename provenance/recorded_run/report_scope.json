@@ -1,0 +1,34 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "stages": [
+    "main",
+    "ablation",
+    "rolling",
+    "test"
+  ],
+  "units": [
+    "National",
+    "North Sumatra",
+    "South Sumatra",
+    "Kalimantan",
+    "Sulawesi",
+    "Nusa Tenggara",
+    "Papua"
+  ],
+  "representatives": [
+    "BayesianRidge",
+    "MLP_Model_2"
+  ],
+  "groups": [
+    "S2",
+    "S3",
+    "S4",
+    "S5"
+  ],
+  "estimator_fits_in_reporting": 0,
+  "calibration_is_not_independent_evaluation": true,
+  "test_analyst_exposed": true,
+  "uncertainty": "conditional whole-year resampling; seed spread reported separately",
+  "support": "same geographic domains and common S5 warm-up; no authenticated land mask",
+  "smoke_only": false
+}

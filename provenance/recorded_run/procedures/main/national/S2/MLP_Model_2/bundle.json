@@ -1,0 +1,75 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "candidate": {
+    "name": "MLP_Model_2",
+    "hidden_layer_sizes": [
+      512,
+      256,
+      64,
+      256,
+      512,
+      256,
+      128,
+      64
+    ],
+    "alpha": 0.001,
+    "learning_rate_init": 0.0008,
+    "max_iter": 500
+  },
+  "unit": "National",
+  "group": "S2",
+  "schedule": {
+    "name": "main",
+    "fit_end": "2014-12-31",
+    "calibration_start": "2015-01-01",
+    "calibration_end": "2016-12-31",
+    "selection_start": "2017-01-01",
+    "selection_end": "2018-12-31",
+    "score_start": "2019-01-01",
+    "score_end": "2025-12-31"
+  },
+  "seeds": [
+    42,
+    137,
+    2026
+  ],
+  "threshold": {
+    "threshold": 156.0,
+    "training_q90": 156.0,
+    "quantile": 0.9,
+    "quantile_method": "linear",
+    "training_n": 5113,
+    "training_high_n": 516,
+    "status": "valid",
+    "interpretation": "observed high-day MAE, not a percentile of errors; zero q90 needs a separately agreed policy"
+  },
+  "columns": [
+    "month_sin",
+    "month_cos",
+    "doy_sin",
+    "doy_cos",
+    "y_lag_1",
+    "y_lag_2",
+    "y_lag_3",
+    "y_lag_7",
+    "y_lag_14",
+    "y_lag_21",
+    "y_lag_30",
+    "y_rollmean_3",
+    "y_rollstd_3",
+    "y_rollsum_3",
+    "y_rollmean_7",
+    "y_rollstd_7",
+    "y_rollsum_7",
+    "y_rollmean_14",
+    "y_rollstd_14",
+    "y_rollsum_14",
+    "y_rollmean_30",
+    "y_rollstd_30",
+    "y_rollsum_30",
+    "y_rollmean_60",
+    "y_rollstd_60",
+    "y_rollsum_60"
+  ],
+  "smoke_only": false
+}

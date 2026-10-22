@@ -1,0 +1,16 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "KNN",
+    "family": "knn",
+    "parameters": {
+      "n_neighbors": 12,
+      "weights": "distance",
+      "metric": "euclidean",
+      "n_jobs": -1
+    },
+    "use_extreme_weights": false,
+    "optional_package": null
+  },
+  "seed": 42
+}

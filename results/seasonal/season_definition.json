@@ -1,0 +1,47 @@
+{
+  "created": "2026-10-11",
+  "purpose": "R3-A03: retrospective dry/wet stratification of saved same-day predictions",
+  "scope": "all 13 main S5 models, seven domains, 2019-2025, plus saved persistence/monthly references",
+  "rainfall_source": "authenticated regional rain_mm_issue in the completed CMORPH preflight cache",
+  "external_definition_sources": [
+    {
+      "url": "https://stamet-kotim.bmkg.go.id/wp-content/uploads/2023/09/PMH-2023_2024-Kalteng.pdf",
+      "title": "BMKG Prakiraan Musim Hujan 2023/2024 di Kalimantan Tengah",
+      "locators": "printed pp.2-3, PDF pages8-9: seasonal types/period criterion; printed p.6, PDF page12: dasarian/onset definitions",
+      "supporting_facts": "Defines calendar dasarians as days1-10,11-20,21-month end. Dry/wet onset uses the 50 mm threshold and persistence in following dasarians. Seasonal-period definition also allows a three-block total below/at least150 mm with the first block below/at least50 mm."
+    },
+    {
+      "url": "https://bbmkg3.bmkg.go.id/daftar-istilah-musim",
+      "title": "BBMKG Region III: Daftar Istilah Klimatologi",
+      "locators": "paragraphs Zona Musim, Dasarian, Permulaan Musim Kemarau/Hujan",
+      "supporting_facts": "Seasonal zones need not coincide with administrative areas. Defines calendar dasarians and the 50 mm onset threshold."
+    },
+    {
+      "url": "https://www.bmkg.go.id/siaran-pers/hujan-di-musim-kemarau-bmkg-normal-terjadi-bukan-anomali-iklim",
+      "title": "BMKG: Hujan di Musim Kemarau, 10 July 2024",
+      "locators": "paragraph beginning Dwikorita menjelaskan, meski berstatus musim kemarau",
+      "supporting_facts": "Describes less than50 mm per dasarian for at least three consecutive dasarians. Timing and duration vary by area. Rain may still occur within a dry season."
+    },
+    {
+      "url": "https://www2.atmos.umd.edu/~dwi/papers/aldrian_susanto_ijc.pdf",
+      "title": "Aldrian and Susanto (2003), Identification of three dominant rainfall regions within Indonesia and their relationship to sea surface temperature",
+      "doi": "10.1002/joc.950",
+      "locators": "Abstract and regional rainfall classification",
+      "supporting_facts": "Identifies distinct Indonesian rainfall regimes; its climatic regions are not the study rectangles."
+    }
+  ],
+  "primary_rule": "strict BMKG-inspired variant: dry onset when three consecutive calendar-dasarian totals are each <50 mm; wet onset when each is >=50 mm",
+  "sensitivity_rule": "mixed-block variant from the published seasonal-period criterion: first block <50 mm and three-block total <150 mm for dry; first block >=50 mm and three-block total >=150 mm for wet",
+  "state_extension": "start at first qualifying dasarian; carry state until qualifying opposite onset; no change for isolated contrary blocks; accept opposite onset only after at least three blocks since previous onset to avoid overlapping confirmation windows",
+  "dasarian_definition": "calendar days1-10,11-20,21-end of month; actual accumulated mm, no normalization for variable final-block length",
+  "context_period": "2001-01-01 through2025-12-31; no state reset at year or evaluation boundaries",
+  "unclassified_rule": "before first confirmed onset and final two source dasarians; final two excluded because forward confirmation is unavailable",
+  "independence_boundary": "external numerical rule; labels never use hotspot counts, model predictions or rankings; rainfall is the same study input, not an independent rainfall product",
+  "spatial_boundary": "adapted to domain-area mean rainfall on retained study support, not official BMKG ZOM/station observations or a dry-area fraction; source/land-mask caveats remain",
+  "timing_boundary": "retrospective onset confirmation uses future rainfall; strata are never predictors, model-selection criteria or operational season forecasts",
+  "main_high_threshold": "retain each domain through2014 training-derived hotspot q90 threshold; do not re-estimate by season",
+  "inference": "conditional descriptive performance; no causal dry/wet effect; no refits, recalibration, seed pruning or model selection",
+  "seasonal_parameters_tuned_on_model_performance": false,
+  "frozen_before_model_scoring": true,
+  "source_capture_sha256": "00f8950dea22f6b49ae115332c8b362f3566b57cfa4904c642289025e5b11876"
+}

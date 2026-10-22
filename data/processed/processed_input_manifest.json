@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "created": "2026-10-21",
+  "status": "local_option2_candidate_pending_source_rights_review",
+  "domains": [
+    "National",
+    "North Sumatra",
+    "South Sumatra",
+    "Kalimantan",
+    "Sulawesi",
+    "Nusa Tenggara",
+    "Papua"
+  ],
+  "columns": [
+    "issue_date",
+    "hotspot_count_issue",
+    "hth_mean_issue",
+    "rain_mm_issue",
+    "evaporation_mm_issue",
+    "wind_speed_issue",
+    "nino_sst_issue",
+    "iod_west_sst_issue",
+    "iod_east_sst_issue",
+    "mjo_amp",
+    "romi1",
+    "romi2"
+  ],
+  "numeric_dtype": "float64",
+  "daily_rows": 63917,
+  "daily_start": "2001-01-01",
+  "daily_end": "2025-12-31",
+  "sst_rows": 9497,
+  "sst_start": "2000-01-01",
+  "sst_end": "2025-12-31",
+  "original_frames_sha256": "1e195cbd400d149e8de30c1bc5588b4434f1ac81385c0e9a9fde650c1b83eb13",
+  "export": "CSV with 17 significant digits; read with float_precision=round_trip; deterministic gzip",
+  "recorded_frame_metadata": {
+    "National": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "North Sumatra": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "South Sumatra": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "Kalimantan": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "Sulawesi": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "Nusa Tenggara": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    },
+    "Papua": {
+      "support_metadata": {
+        "policy": "geographic boxes, source-native area-weighted environmental means",
+        "land_mask_supplied": false,
+        "land_only_verified": false,
+        "activity_filter": false,
+        "activity_threshold": null,
+        "activity_operator": ">",
+        "support_fit_start": null,
+        "support_fit_end": null,
+        "missingness_policy": "fail on any missing/nonfinite selected source cell; no zero fill/imputation",
+        "regional_boxes_disjoint": true,
+        "regional_boxes_exhaustive": false,
+        "land_mask": null
+      }
+    }
+  },
+  "recorded_metadata_note": "Compact original fixed-support metadata retained. The full historical coordinate/source audit stays local; it is not needed to reconstruct the 81 features. Current source qualifications are recorded separately.",
+  "source_qualifications": {
+    "hotspot": "Original manuscript reports MODIS Terra/Aqua via NASA FIRMS. Product collection, sensor continuity, original binning, filters, duplicates and day boundaries remain unverified; aggregate values are retained.",
+    "dry_spell": "Producer script uses CMORPH CRT, linear interpolation and inclusive <=1 in native units. Original CRT units and 9497-position MAT calendar correspondence remain qualified. The current exported daily assignment is retained.",
+    "rain": "NOAA CMORPH V1.0 ADJ, mm/day, 2001-2025 UTC-day subsets; spatial aggregates preserve the recorded run.",
+    "evaporation": "ECMWF signed accumulated depth, metres converted to millimetres; negative evaporation and positive condensation. Accumulation interval remains unconfirmed.",
+    "wind": "Mean of source-cell 10 m resultant speeds in m/s at the stored daily sample, not an established hourly-average daily speed.",
+    "sst": "Supplied Ni\u00f1o and west/east pole SST series; product, version, native units and pole construction remain unverified. Fitting-prefix monthly references must be reconstructed, not replaced by full-record climatologies.",
+    "mjo": "Supplied ROMI1, ROMI2 and archive amplitude match the NOAA PSL archive on all study dates; not RMM. Retrieval timing is not established."
+  },
+  "files": {
+    "regional_daily_inputs.csv.gz": {
+      "bytes": 5267716,
+      "sha256": "09d904bf0481fe7641af2ec84a70daa1c9cf72c6c005d9d221b73c3bdc864c8b",
+      "rows": 63917,
+      "columns": [
+        "unit",
+        "issue_date",
+        "hotspot_count_issue",
+        "hth_mean_issue",
+        "rain_mm_issue",
+        "evaporation_mm_issue",
+        "wind_speed_issue",
+        "nino_sst_issue",
+        "iod_west_sst_issue",
+        "iod_east_sst_issue",
+        "mjo_amp",
+        "romi1",
+        "romi2"
+      ]
+    },
+    "sst_context.csv.gz": {
+      "bytes": 258639,
+      "sha256": "711e6173b1c9856deed898fb599f7b80c286735a20eb88b36cfebe3eef69eaea",
+      "rows": 9497,
+      "columns": [
+        "issue_date",
+        "nino_sst_issue",
+        "iod_west_sst_issue",
+        "iod_east_sst_issue"
+      ]
+    }
+  },
+  "original_numeric_sha256": {
+    "National": "a95e07751c255bc51153870393f100a521a59ef487a72a851f9a3aaff8e42800",
+    "North Sumatra": "1079041b2791b2b59c9a58b3d58ed0124efd481e3eaf493dc6b0c6bbfe399454",
+    "South Sumatra": "3aa91de4c70a0121fcc3c398e67e469d72ad3ccc3f1a3d2a2188ed920f917c25",
+    "Kalimantan": "02fc32e9d9cf31ffce0b61c7fc9d3663b16707600a199c90611d3390a0a5087b",
+    "Sulawesi": "23e93643eb6d4184813e11d762ee6e92e4c4187786b5f014f718d19d52a7639f",
+    "Nusa Tenggara": "9765a51a1c085c87db3274cea11c08cf0db7f7856ffe51a7c083ccf0526d73b5",
+    "Papua": "031438fef60f9c8b75e2903d6598422992b452bd795c9488cc4bcc7d600ea9da"
+  },
+  "sst_numeric_sha256": "657dd045ba9b7100e139ad2b3790baf6bccb88388fb6f70fe08b17dad4a678f5"
+}

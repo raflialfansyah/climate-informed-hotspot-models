@@ -1,0 +1,63 @@
+[
+  {
+    "figure": 1,
+    "asset": "study-area-integrated.pdf",
+    "status": "excluded from public payload: GADM display geometry; manuscript asset preserved locally",
+    "optional_reproduction": "Set HOTSPOT_COASTLINE_PATH to authorized local coast NPZ"
+  },
+  {
+    "figure": 2,
+    "asset": "temporal-integrated.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 3,
+    "asset": "annual-integrated.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 4,
+    "asset": "seasonal-integrated.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 5,
+    "asset": "national-integrated.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 6,
+    "asset": "regional-integrated.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 7,
+    "asset": "complete_metrics_corrected.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 8,
+    "asset": "individual_feature_consistency.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 9,
+    "asset": "seed_instability_corrected.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 10,
+    "asset": "ablation_rmse_changes.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 11,
+    "asset": "temporal_persistence_skill.pdf",
+    "status": "current manuscript asset; unchanged"
+  },
+  {
+    "figure": 12,
+    "asset": "dry_state_coverage.pdf",
+    "status": "current manuscript asset; unchanged"
+  }
+]

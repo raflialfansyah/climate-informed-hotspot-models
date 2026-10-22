@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "files": 364,
+  "rows": 294840,
+  "summary_rows": 29484,
+  "bundles": 91,
+  "seeds_replayed": 203,
+  "dates": 2557,
+  "repeats": 10,
+  "settings": 4,
+  "estimator_fits": 0,
+  "protected_files": 2405,
+  "changed_protected_files": []
+}

@@ -1,0 +1,173 @@
+{
+  "contract_digest": "3f572224bd5349aec187b8136d145f249c4a68bd5ecc6d2aef187e6cc5192942",
+  "bundles": [
+    {
+      "path": "procedures/fit_2008/national/S5/BayesianRidge",
+      "digest": "0490e84748ae6aa29e7ae47a3932860ea0f4ceec547669b9366a3afc198438ac"
+    },
+    {
+      "path": "procedures/fit_2008/national/S5/MLP_Model_2",
+      "digest": "379ffcf9225ca6ae94b06d3077148330e6cccc9fd73840587a985f014854027f"
+    },
+    {
+      "path": "procedures/fit_2008/north_sumatra/S5/BayesianRidge",
+      "digest": "a46aa714884654fac4d8acba4781fdd25dfbce7a6df4c8d39aeee6eed75c8efa"
+    },
+    {
+      "path": "procedures/fit_2008/north_sumatra/S5/MLP_Model_2",
+      "digest": "92d43cad48573f0683a589ad1cb0a5de403f5866925f591d5d8236f554b594f1"
+    },
+    {
+      "path": "procedures/fit_2008/south_sumatra/S5/BayesianRidge",
+      "digest": "26616e48379ee85fb690ee63b76c6bbdc96cf6d53cbb0ab335886509d31e589d"
+    },
+    {
+      "path": "procedures/fit_2008/south_sumatra/S5/MLP_Model_2",
+      "digest": "2164408ed765b7b9b9a9a792933124059eb3e485b73cf9764c57422ef17cd791"
+    },
+    {
+      "path": "procedures/fit_2008/kalimantan/S5/BayesianRidge",
+      "digest": "219a0d9d6f5f97554549fa387e18364e07475916e0ffbaa5ef173bf0aad97528"
+    },
+    {
+      "path": "procedures/fit_2008/kalimantan/S5/MLP_Model_2",
+      "digest": "f7c3805ac06eca8f80002ae91ea07aace847b627e17ce45219294b20c078a6ba"
+    },
+    {
+      "path": "procedures/fit_2008/sulawesi/S5/BayesianRidge",
+      "digest": "d70b1f2a13d94a90854f371ab13057b1c3b88db34a4e53b3fc6ccf69b1ef729a"
+    },
+    {
+      "path": "procedures/fit_2008/sulawesi/S5/MLP_Model_2",
+      "digest": "96d40659a4382e42cec3a5fb0b1e34e64cf6ae87c399c3d4da3be3248ed8835e"
+    },
+    {
+      "path": "procedures/fit_2008/nusa_tenggara/S5/BayesianRidge",
+      "digest": "dffb951a7f8c344a91411e4c09fcc8aa57be4302b3af11eaa65bf30f17cac690"
+    },
+    {
+      "path": "procedures/fit_2008/nusa_tenggara/S5/MLP_Model_2",
+      "digest": "712d198b0e0e838eada91c71e2c8773981728027e9bba97147d75ee5c2b30cf8"
+    },
+    {
+      "path": "procedures/fit_2008/papua/S5/BayesianRidge",
+      "digest": "64a0a6c84f352969edf579ebec9a61c6b7b4bc804f7b5091867a759a442541ae"
+    },
+    {
+      "path": "procedures/fit_2008/papua/S5/MLP_Model_2",
+      "digest": "499730d06251ea8575a091e866be3dcd6df3ff1ce9e66eb33ebbc82bdc7b6610"
+    },
+    {
+      "path": "procedures/fit_2010/national/S5/BayesianRidge",
+      "digest": "1692bd6d4c2e1d587930245b041c0d28e4dced7a4bb2aa7775238c8c944df74a"
+    },
+    {
+      "path": "procedures/fit_2010/national/S5/MLP_Model_2",
+      "digest": "22fd9a8f5f3d33a6c3d0d128f279ae55aa4c208a5e2180c8630f92b328b2fa68"
+    },
+    {
+      "path": "procedures/fit_2010/north_sumatra/S5/BayesianRidge",
+      "digest": "2b688a6551354b52e6258a4f261031eef80fe5e3179aba26eb8cd81a5a058974"
+    },
+    {
+      "path": "procedures/fit_2010/north_sumatra/S5/MLP_Model_2",
+      "digest": "7ff4822eb71012b702b526c88b8310e78df1bedf3db791b87c60af6a58d41cc8"
+    },
+    {
+      "path": "procedures/fit_2010/south_sumatra/S5/BayesianRidge",
+      "digest": "2932910e90ccc4071c6b95a6a539771da4c7cee04f6ea3a2dc647f833d20b114"
+    },
+    {
+      "path": "procedures/fit_2010/south_sumatra/S5/MLP_Model_2",
+      "digest": "aa7e0c5fec0bd331229d31c6c9699da9535299b4b5b76b4dc82eb7104d0036f5"
+    },
+    {
+      "path": "procedures/fit_2010/kalimantan/S5/BayesianRidge",
+      "digest": "284694b16b53013bd55e3c097cef30e1ba06386acfc4fddfa3c0843dddb7de8d"
+    },
+    {
+      "path": "procedures/fit_2010/kalimantan/S5/MLP_Model_2",
+      "digest": "03c291c55620c53d6112434721f73b5810f15dbdd4d99d194e972e1bf74f48b8"
+    },
+    {
+      "path": "procedures/fit_2010/sulawesi/S5/BayesianRidge",
+      "digest": "610bfad0f12c5fd84b0f1a44a6d677fd9e7db6b9da6188037bf352395d0698c7"
+    },
+    {
+      "path": "procedures/fit_2010/sulawesi/S5/MLP_Model_2",
+      "digest": "b4ae8566130ec94bafc77f2a7d3af0f9734e6be04a13ffc69e514608dc655b53"
+    },
+    {
+      "path": "procedures/fit_2010/nusa_tenggara/S5/BayesianRidge",
+      "digest": "d929aba3e35b6d3221ef1a0cf79ee7e2ac46500927bfdd0c185a1fdd24715c50"
+    },
+    {
+      "path": "procedures/fit_2010/nusa_tenggara/S5/MLP_Model_2",
+      "digest": "77f9b569c939396ea5b98978e133822ef3e718b40c4881e0c91559843743233d"
+    },
+    {
+      "path": "procedures/fit_2010/papua/S5/BayesianRidge",
+      "digest": "2de9cf892782644a1661497d5eca1f42f04192fecd3fb3703c77a17c21748327"
+    },
+    {
+      "path": "procedures/fit_2010/papua/S5/MLP_Model_2",
+      "digest": "13485ffeae8d2faba64dd916c5dc198d9e9df195f4dd4ab0dc31c291676d6fb3"
+    },
+    {
+      "path": "procedures/fit_2012/national/S5/BayesianRidge",
+      "digest": "92fb4a8430bcf821ade21e06b7a0281e0334ba79b657aca719735ca70dac55af"
+    },
+    {
+      "path": "procedures/fit_2012/national/S5/MLP_Model_2",
+      "digest": "4f66239c269ef77418be28099c55a4d6d38cf91b3e411ebb16f79e2de609f2e1"
+    },
+    {
+      "path": "procedures/fit_2012/north_sumatra/S5/BayesianRidge",
+      "digest": "b0a2243dfa98e6528264af575092ea5bdd662a3c299f655600ca574f1294965b"
+    },
+    {
+      "path": "procedures/fit_2012/north_sumatra/S5/MLP_Model_2",
+      "digest": "cf73d20b647b221bc45134daa36e7c26ab62d3faec01184d8d745e3e1b61cd7e"
+    },
+    {
+      "path": "procedures/fit_2012/south_sumatra/S5/BayesianRidge",
+      "digest": "ec73878b5d906b5681f7f44984889b144c5bd7974079cce1b0616c98e97d4cbb"
+    },
+    {
+      "path": "procedures/fit_2012/south_sumatra/S5/MLP_Model_2",
+      "digest": "8c82010f702f4257170fde119bcea894620e72278cb74b277fcaa965255bd08a"
+    },
+    {
+      "path": "procedures/fit_2012/kalimantan/S5/BayesianRidge",
+      "digest": "d52fa67e8e4cdf82a86b8482fe57471f53a8254b16d24bf2b5e76085e3a28831"
+    },
+    {
+      "path": "procedures/fit_2012/kalimantan/S5/MLP_Model_2",
+      "digest": "7fcac748e1c04eb630a34ad6aa310d0107c92cd1f97da08ec389a4b61ce9cf0d"
+    },
+    {
+      "path": "procedures/fit_2012/sulawesi/S5/BayesianRidge",
+      "digest": "cac52cfb585f298098ab45687ebbc0fe9234eeb1c82adfe99cc6781c9e4c845c"
+    },
+    {
+      "path": "procedures/fit_2012/sulawesi/S5/MLP_Model_2",
+      "digest": "334c6da8724e230759c8804747dc776392ec9ea6665a881fdadbf052f5d379ea"
+    },
+    {
+      "path": "procedures/fit_2012/nusa_tenggara/S5/BayesianRidge",
+      "digest": "003f4b16d894467f66d50639b82c8aeaabc62c582cf8ed0add013b29c9d8abb3"
+    },
+    {
+      "path": "procedures/fit_2012/nusa_tenggara/S5/MLP_Model_2",
+      "digest": "d7c635d52d1db7322bb743449263c707c811bbe13ccf2f10aba4ebfb9e83ba94"
+    },
+    {
+      "path": "procedures/fit_2012/papua/S5/BayesianRidge",
+      "digest": "dd664b7ba36bafa953a3380a008300ad2ba36380c483c125ec5e9a766d2102e2"
+    },
+    {
+      "path": "procedures/fit_2012/papua/S5/MLP_Model_2",
+      "digest": "7d88b71152c5e75c1a63151c9842f147f0952e2c745e65eb0a31991b2b58dbe8"
+    }
+  ]
+}

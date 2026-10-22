@@ -1,0 +1,26 @@
+{
+  "kind": "trusted_local_classical_pickle",
+  "candidate": {
+    "name": "LightGBM",
+    "family": "lightgbm",
+    "parameters": {
+      "n_estimators": 1200,
+      "learning_rate": 0.015,
+      "max_depth": 5,
+      "num_leaves": 31,
+      "min_child_samples": 15,
+      "min_split_gain": 0.0,
+      "subsample": 0.8,
+      "colsample_bytree": 0.8,
+      "reg_alpha": 0.2,
+      "reg_lambda": 2.0,
+      "subsample_freq": 1,
+      "force_col_wise": true,
+      "n_jobs": -1,
+      "verbose": -1
+    },
+    "use_extreme_weights": true,
+    "optional_package": "lightgbm"
+  },
+  "seed": 2026
+}

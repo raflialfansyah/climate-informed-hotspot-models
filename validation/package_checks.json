@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "copied_files_verified": 1790,
+  "python_files_compile": 17,
+  "notebook_code_cells_compile": 20,
+  "stages_default_off": true,
+  "raw_data_and_model_binaries_absent": true,
+  "transformations_checked": 2,
+  "coastline_geometry_excluded": true,
+  "manifest_files_verified": 1862,
+  "manifest_coverage_complete": true,
+  "github_single_file_sizes_checked": true,
+  "new_fits": 0,
+  "new_inference": 0,
+  "repository_url": "https://github.com/raflialfansyah/climate-informed-hotspot-models",
+  "remote_publication_not_checked_by_this_validator": true
+}

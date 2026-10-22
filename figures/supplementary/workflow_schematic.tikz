@@ -1,0 +1,43 @@
+% Compiled directly in the supplement: fonts inherit the Springer document.
+\begin{tikzpicture}[
+  stage/.style={draw=black!65, fill=black!2, line width=0.45pt,
+    rounded corners=2pt, align=center, font=\small,
+    text width=\dimexpr\linewidth-28pt\relax,
+    inner xsep=7pt, inner ysep=5pt},
+  flow/.style={-{Latex[length=3.5pt,width=3pt]}, line width=0.5pt},
+  node distance=8pt
+]
+\node[stage] (inputs) {
+  \textbf{Shared inputs and target calendars}\\[2pt]
+  Fixed geographic supports; environment through day $t$;\\
+  hotspot history through day $t-1$
+};
+\node[stage, below=of inputs] (fit) {
+  \textbf{Fit on 2001--2014}\\[2pt]
+  Fit models and scalers; derive fitting-prefix SST climatologies
+};
+\node[stage, below=of fit] (calibrate) {
+  \textbf{Calibrate on 2015--2016}\\[2pt]
+  Estimate Duan residual factors without refitting estimators
+};
+\node[stage, below=of calibrate] (select) {
+  \textbf{Select inversion on 2017--2018}\\[2pt]
+  Compare plain and smeared inverses by count-scale RMSE\\
+  for each seed; ties use the plain inverse
+};
+\node[stage, below=of select] (score) {
+  \textbf{Freeze and score on 2019--2025}\\[2pt]
+  Invert each seed, then average equally on the count scale;\\
+  Poisson and Tweedie bypass log-response inversion
+};
+\node[stage, below=of score] (reports) {
+  \textbf{Reports and diagnostics from frozen procedures}\\[2pt]
+  Performance reports use saved predictions. Individual-feature\\
+  diagnostics use perturbed-input inference without refitting.
+};
+\draw[flow] (inputs) -- (fit);
+\draw[flow] (fit) -- (calibrate);
+\draw[flow] (calibrate) -- (select);
+\draw[flow] (select) -- (score);
+\draw[flow] (score) -- (reports);
+\end{tikzpicture}
