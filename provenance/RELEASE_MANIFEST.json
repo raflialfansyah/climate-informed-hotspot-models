@@ -1,6 +1,6 @@
 {
   "scheme": "main",
-  "status": "local_release_candidate_not_published",
+  "status": "release_package_with_hotspot_extraction_source",
   "created": "2026-10-21",
   "finalized": "2026-10-22",
   "repository": "https://github.com/raflialfansyah/climate-informed-hotspot-models",
@@ -18,8 +18,8 @@
     },
     {
       "path": "analysis/build_release_manifest.py",
-      "bytes": 1999,
-      "sha256": "9ef1f3dedb1e85246829a33426d2c51341c93bb53b59ab793927f18c0ba5e9e6"
+      "bytes": 2008,
+      "sha256": "8e51a0a4c66df0170928b14e6ad2b9d786d386b7b8fc60880bee2686434a4fda"
     },
     {
       "path": "analysis/individual_feature/_inference.py",
@@ -143,8 +143,8 @@
     },
     {
       "path": "docs/LICENSING.md",
-      "bytes": 2923,
-      "sha256": "e5ab53549a6c1afc9e290db3df83fde123e249381d5efb1e9b9ded51ec13c041"
+      "bytes": 3207,
+      "sha256": "42e80fa8f15c29ccab45b48d0b0e72abebf3925266ec2ef9a27c3265b178be1c"
     },
     {
       "path": "docs/NAMING_AND_PROVENANCE.md",
@@ -163,8 +163,8 @@
     },
     {
       "path": "docs/REPRODUCIBILITY.md",
-      "bytes": 3379,
-      "sha256": "12f7236161adfc9e8218da6e6cd50e2cf1d205b316c190a526765d71c88d7121"
+      "bytes": 3665,
+      "sha256": "c822dbf1c61f55cb41bbbf2ecfee124063471385a44d8bcbba6a5129487189bb"
     },
     {
       "path": "docs/RUNNING.md",
@@ -178,8 +178,8 @@
     },
     {
       "path": "docs/SOURCE_ATTRIBUTION.md",
-      "bytes": 6486,
-      "sha256": "1b4e59f432d78f9cb090b169a7f0c7304026fe879eb20ee114a1d577501afcac"
+      "bytes": 6630,
+      "sha256": "a9625bab7db162dc029724547e67f5dfb8e22719af5483b02694363e720b1679"
     },
     {
       "path": "figures/FIGURE_INDEX.json",
@@ -475,6 +475,21 @@
       "path": "provenance/feature_report_qa.json",
       "bytes": 408,
       "sha256": "78a3fb15b80fe05971f93700e13cd31a136e17bd249a4607389fd1e976c9023b"
+    },
+    {
+      "path": "provenance/hotspot/A1_Ekstraksi_Harian.m",
+      "bytes": 2664,
+      "sha256": "2690bb848862d7afaec218b5c25e3d35b33fbcc434bae7c71405eae684f7523b"
+    },
+    {
+      "path": "provenance/hotspot/README.md",
+      "bytes": 3169,
+      "sha256": "93f6f97da3b6f5ab94d927726e2e1d77dd848d0baa2d6405c9fb306235f8c7b9"
+    },
+    {
+      "path": "provenance/HOTSPOT_SOURCE_AUDIT_2026-10-22.json",
+      "bytes": 2752,
+      "sha256": "13c40872c6a091b691233c845925cbae09711e666750968db2518177f58fff09"
     },
     {
       "path": "provenance/main_source_identity.json",
@@ -7003,13 +7018,13 @@
     },
     {
       "path": "provenance/SOURCE_REVIEW_2026-10-22.json",
-      "bytes": 1754,
-      "sha256": "959959bade74e4e308d32259d65aa29e4178eeb3da5926d5a3d35a6fd062c126"
+      "bytes": 4835,
+      "sha256": "8a978ea739b9ba31b6dbf26f5548d2c1d3b5504f9b882eb63c177532bd8f6be4"
     },
     {
       "path": "README.md",
-      "bytes": 6543,
-      "sha256": "7b0ecf183bf0c82caa576dcc2c43cc73d8eb3662507e60c0b65052f0ce698883"
+      "bytes": 6979,
+      "sha256": "88f5cd9a780336f87efb85ec19ec71716d21a8922c96fc3aae587b1f28367154"
     },
     {
       "path": "reports/Matched_Ablation_Analysis.md",
@@ -9289,7 +9304,7 @@
     {
       "path": "validation/package_checks.json",
       "bytes": 588,
-      "sha256": "f9ca7b9b76e2145eb0d4df533e144b975e2e3ea353eaa98d7f417a2fac249032"
+      "sha256": "454a3d02ccf9e464e826b72845b53e151c43af9b41e09e5a88a9d0915d6bfa3b"
     },
     {
       "path": "validation/processed_input_checks.json",

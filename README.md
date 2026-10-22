@@ -25,7 +25,7 @@ Companion package for [climate-informed-hotspot-models](https://github.com/rafli
 | `figures/` | Reference scientific figures; the GADM-containing Figure 1 is excluded from the public payload |
 | `data/processed/` | Exact daily aggregate inputs and shared SST context; default notebook input route |
 | `data/derived/` | Plotting inputs with GADM coordinate geometry removed |
-| `provenance/` | Source identities, original configurations, inversion decisions and hash manifests |
+| `provenance/` | Source identities, author-supplied hotspot/OISST MATLAB scripts, original configurations, inversion decisions and hash manifests |
 | `reports/` | Dated scientific reports in English |
 | `validation/` | Verification evidence for this release candidate |
 
@@ -66,3 +66,7 @@ Raw data and fitted model snapshots are excluded; `.local_paths.json` connects l
 ## Processed input package
 
 Option 2 includes 63,917 domain-date input rows and 9,497 shared SST-context dates, with a data dictionary and SHA-256 manifest. CSV reconstruction preserves the original numerical inputs; all 81 feature definitions and the fitting/calibration/selection rules remain unchanged. See [processed inputs](data/processed/README.md). Saved predictions and scientific results are retained without replacement. Numerical verification and source attribution are documented in [the release validation report](validation/RELEASE_VALIDATION_REPORT.md). Version and citation metadata are in [CITATION.cff](CITATION.cff).
+
+## Hotspot extraction source
+
+The [author-supplied hotspot script and provenance note](provenance/hotspot/README.md) document the upstream daily count cube. Only its optional coastline display path was adapted for portability; no raw CSV, geometry, processed inputs or fitted results were changed. The hotspot extraction script and its provenance note are included in this repository.

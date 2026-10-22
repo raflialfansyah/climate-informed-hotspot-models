@@ -8,6 +8,8 @@ The MIT License applies to the code in `Hotspot_SameDay_Main.ipynb`, `src/` and 
 
 Retain the copyright and license notices when redistributing copies or substantial portions of the software. `CITATION.cff` provides academic citation information; MIT does not itself require citation of the associated paper.
 
+The author-supplied hotspot extraction code in `provenance/hotspot/A1_Ekstraksi_Harian.m` is also covered by the project's MIT software license. Its referenced FIRMS records and optional coastline files retain their separate source conditions and are not included with the script.
+
 ## Materials outside the software license
 
 The MIT software license does not grant new rights over datasets or data-derived exports in `data/` and `results/`, scientific reports in `reports/`, figure assets and coastline geometry in `figures/` or the plotting NPZ, or third-party source materials referenced by provenance records. The README files describing these folders are software guides and are covered by MIT; the underlying data and scientific assets are not thereby relicensed.

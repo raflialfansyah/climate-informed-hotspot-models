@@ -1,0 +1,93 @@
+{
+  "received": "2026-10-22",
+  "source_file": "A1_Ekstraksi_Harian.m",
+  "original_sha256": "c5ba4626c63ee2520a9e1c7234a3c7473294d9729552d46cfa3ebfc7877193b6",
+  "public_file": "provenance/hotspot/A1_Ekstraksi_Harian.m",
+  "public_sha256": "2690bb848862d7afaec218b5c25e3d35b33fbcc434bae7c71405eae684f7523b",
+  "public_adaptation": "Only the coastline display block: personal absolute path replaced by optional relative local_coastlines folder; no geometry included.",
+  "extraction_statements_unchanged": true,
+  "raw_csv": "fire_archive_M-C61_721000.csv",
+  "raw_csv_available_for_rerun": false,
+  "matlab_executed": false,
+  "confirmed": {
+    "confidence_rule": "delete confidence <=80; intended >80 cutoff for finite confidence",
+    "type_rule": "retain type ==0",
+    "date_rule": "dateshift(acq_date,'start','day'); acq_time unused; no timezone conversion",
+    "latitude_edges": [
+      -11,
+      6.25,
+      0.25
+    ],
+    "longitude_edges": [
+      95,
+      141.25,
+      0.25
+    ],
+    "shape": [
+      69,
+      185,
+      9131
+    ],
+    "calendar_start": "2001-01-01",
+    "calendar_end": "2025-12-31",
+    "count_rule": "One unit per retained CSV row, accumarray @sum, zero fill",
+    "duplicate_rule": "No explicit deduplication; repeated rows count separately",
+    "activity_filter": false
+  },
+  "local_mat_check": {
+    "inventory": [
+      {
+        "name": "X",
+        "shape": [
+          69,
+          185,
+          9131
+        ],
+        "matlab_class": "6"
+      },
+      {
+        "name": "days",
+        "shape": [],
+        "matlab_class": "17"
+      },
+      {
+        "name": "lat_centers",
+        "shape": [
+          1,
+          69
+        ],
+        "matlab_class": "6"
+      },
+      {
+        "name": "lon_centers",
+        "shape": [
+          1,
+          185
+        ],
+        "matlab_class": "6"
+      },
+      {
+        "name": "",
+        "shape": [
+          1,
+          74232
+        ],
+        "matlab_class": "9"
+      }
+    ],
+    "spatial_axes_match": true,
+    "cube_shape_match": true,
+    "days_object_present": true,
+    "full_raw_csv_reconstruction": false
+  },
+  "retained_limits": [
+    "Original CSV content and per-record collection/sensor metadata were not audited",
+    "M-C61 appears in the input filename; collection metadata are not independently authenticated",
+    "No Terra/Aqua continuity or sensor-stratified correction",
+    "No acquisition-time/timezone reconciliation",
+    "Zero fill does not distinguish no detection from incomplete source observation coverage",
+    "No grid-resolution or regional-boundary sensitivity experiment"
+  ],
+  "new_fits": 0,
+  "new_inference": 0
+}

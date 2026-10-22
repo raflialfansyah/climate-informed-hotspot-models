@@ -27,7 +27,7 @@ def main():
             entries.append(dict(path=path.relative_to(ROOT).as_posix(),bytes=path.stat().st_size,
                 sha256=hashlib.sha256(path.read_bytes()).hexdigest()))
     assert not any(e['path']=='figures/main/study-area-integrated.pdf' for e in entries)
-    manifest=dict(scheme='main',status='local_release_candidate_not_published',created='2026-10-21',
+    manifest=dict(scheme='main',status='release_package_with_hotspot_extraction_source',created='2026-10-21',
         finalized='2026-10-22',repository='https://github.com/raflialfansyah/climate-informed-hotspot-models',
         contents='Option 2: code, processed aggregate inputs and saved results; source rights qualifications documented',files=entries)
     (ROOT/'provenance/RELEASE_MANIFEST.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
